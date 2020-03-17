@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Removing the Jupyter Lab Cache and IPython chechpoints
+.ipynb_checkpoints
+
