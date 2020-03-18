@@ -1,0 +1,1499 @@
+[
+	{
+        "id": "77995/1798349086ba9f141b3c46d903baa6",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "External links"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Enlaces externos"
+        },
+        "target": {
+            "content": "External links"
+        }
+    },
+    {
+        "id": "77995/222450101519d919dccbd825289dff",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The turbocharger"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El turbocharger"
+        },
+        "target": {
+            "content": "El Turbocompresor"
+        }
+    },
+    {
+        "id": "77995/28436ace7a3b7f1fb50c1905e43343",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Büchi's patents"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Büchi patentes"
+        },
+        "target": {
+            "content": "Patentes de Büchi"
+        }
+    },
+    {
+        "id": "77995/95b515e6806294a59a15c5a879998d",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "References"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Referencias"
+        },
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "77995/mwAQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Alfred Büchi (July 11, 1879 – October 27, 1959) was a Swiss engineer and inventor. He was best known as the inventor of turbocharging. Alfred J. Büchi was born July 11, 1879 in Winterthur, Switzerland, growing up there and in Ludwigshafen. He was the son of Johann Büchi, a chief executive at Swiss industrial engineering and manufacturing firm Sulzer. Alfred was well-positioned to pursue a similar field and would eventually achieve fame as a result of his inventions. In 1899 he enrolled as a machine engineering student at Federal Polytechnic Institute (ETH) in Zürich, receiving a degree in 1903. From there he practised engineering in Belgium and England before returning to Switzerland (Wetzikon) in 1908.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Alfred Büchi (julio 11, 1879 @– octubre 27, 1959) era un ingeniero suizo e inventor. Sea más sabido como el inventor de turbocharging. Alfred J. Büchi Nació julio 11, 1879 en Winterthur, Suiza, creciendo allí arriba y en Ludwigshafen. Sea el hijo de Johann Büchi, un ejecutivo de jefe en ingeniería industrial suiza y fabricando firme Sulzer. Alfred era bien-colocado para perseguir un campo similar y finalmente conseguiría fama a raíz de sus invenciones. En 1899 matricule como estudiante de ingeniería de la máquina en Federal Polytechnic Instituto (ETH) en Zürich, recibiendo un grado en 1903. De allí practique ingeniería en Bélgica e Inglaterra antes de regresar a Suiza (Wetzikon) en 1908.[1]"
+        },
+        "target": {
+            "content": "Alfred Büchi (julio 11, 1879 – octubre 27, 1959) era un ingeniero suizo e inventor. Es conocido por ser el inventor del turbocompresor. Alfred J. Büchi nació el 11 de julio de 1879 en Winterthur, Suiza, creciendo allí y en Ludwigshafen. Era hijo de Johann Büchi, jefe ejecutivo de la firma fabricante de ingeniería industrial suiza Sulzer. Alfred fue impulsado a seguir un camino similar a su padre, logrando finalmente fama a raíz de sus invenciones. En 1899 se recibe como estudiante de ingeniería en la Escuela Politécnica Federal de Zúrich (ETH) en Zürich, recibiendo un grado en 1903. Posteriormente estudió ingeniería en Bélgica e Inglaterra antes de regresar a Suiza (Wetzikon) en 1908.[1]"
+        }
+    },
+    {
+        "id": "77995/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "During his early years outside Switzerland, Büchi became fascinated with the challenge of improving combustion engine efficiency relating to exhaust heat loss."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Durante sus años tempranos Suiza exterior, Büchi devenía fascinated con el reto de mejorar eficacia de motor de la combustión que relaciona para agotar pérdida de calor."
+        },
+        "target": {
+            "content": "Durante sus primeros años fuera de Suiza, Büchi se interesó en mejorar la eficiencia del motor de combustión relacionado a la pérdida de calor en el sistema de escape."
+        }
+    },
+    {
+        "id": "77995/mwFg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Büchi's patent - No. 204630 received from the Imperial Patent Office of the German Reich on November 16, 1905[2] - describes a \"highly supercharged compound engine\" with a solution to capture such heat using an \"axial compressor, radial piston engine and axial turbine on a common shaft\".[3]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Büchi patente - Núm. 204630 recibido de la Oficina de Patente Imperial del alemán Reich encima noviembre 16, 1905 - describe un \"altamente supercharged motor compuesto\" con una solución para capturar tal calor que utiliza un \"compresor axial, motor de pistón radial y turbina axial en un fuste común\".[2][3]"
+        },
+        "target": {
+            "content": "Recibió la patente Número 204630 de la Oficina Alemana de Patentes y Marcas el 16 de noviembre de 1905. Describe a un \"gran Sobrealimentador\" como una solución para capturar el calor, utilizando un \"compresor axial, un motor de pistón radial y una turbina axial en un eje común\".[2][3]"
+        }
+    },
+    {
+        "id": "77995/mwHA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The idea was simple, however the materials and fuels required for it to function were not yet available.[4] While a later patent (1925) describing \"pulse operation for low-pressure supercharging\"[5] is considered his landmark, due to Büchi's invention the year 1905 is thus acknowledged as the birth of the turbocharging era. Büchi’s principles from 1905 remain the same for turbocharging today. Power and efficiency are improved \"by forcing additional air into the cylinders, with the heat from the exhaust gas used to drive the turbine\".[3]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La idea era sencilla, aun así los materiales y los combustibles requirieron para él a la función no fue todavía disponible.[4] Mientras una patente más tardía (1925) describiendo \"operación de pulso para sobrealimentación de presión baja\" está considerada su hito, debido a Büchi invención el año 1905 es así reconocido como el nacimiento del turbocharging era.[5] Büchi principios de 1905 queda igual para turbocharging hoy. Power y eficacia están mejorados \"por forzar aire adicional a los cilindros, con el calor del agotar gasista utilizado para conducir la turbina\".[3]"
+        },
+        "target": {
+            "content": "La idea era sencilla, aunque los materiales y los combustibles requiridos para el correcto funcionamiento no estaban todavía disponibles.[4] Mientras una patente más tardía (1925) describía \"operación de pulso para sobrealimentación de presión baja\" es considerado su hito, debido a que la invención de Büchi del año 1905 es reconocida como el nacimiento de la era del turbocompresor.[5] Los principios de 1905 de Büchi para el turbocompresor permanecen sin alteraciones hasta la fecha. Potencia y eficaciencia fueron mejorados \"por forzar aire adicional a los cilindros, con el calor del sistema de escape utilizado para mover la turbina\".[3]"
+        }
+    },
+    {
+        "id": "77995/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1915 Büchi began a dialog with Brown, Boveri & Cie (BBC) to set up cooperation, though it took them until 1923 to reach an agreement.[7] Büchi went on to lead the Sulzer diesel department during 1918-19."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1915 Büchi empezó un diálogo con Marrón, Boveri & Cie (BBC) para instalar cooperación, aunque les tome hasta que 1923 para lograr un acuerdo.[7] Büchi Fue en para dirigir el Sulzer departamento de diésel durante 1918-19."
+        },
+        "target": {
+            "content": "En 1915 Büchi empezó un diálogo con Brown, Boveri & Cie (BBC) para llegar a una cooperación, aunque les tomó hasta que 1923 lograr un acuerdo.[7] Büchi fue llamado a dirigir el departamento de diésel de Sulzer durante 1918-19."
+        }
+    },
+    {
+        "id": "77995/mwJQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Nearly two decades later Büchi's invention achieved practical application. The first use of turbocharging technology was for large marine engines, when the German Ministry of Transport commissioned the construction of the \"Preussen\" and \"Hansestadt Danzig\" passenger liners in 1923. Both ships featured twin ten-cylinder diesel engines with output boosted from 1750 to 2500 horsepower by turbochargers designed by Büchi and built under his supervision by Brown Boveri (BBC) (now ABB).[2][8]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Casi dos décadas más tarde Büchi la invención consiguió aplicación práctica. El primer uso de turbocharging la tecnología era para motores marinos grandes, cuándo el Ministerio alemán de Transportar encargado la construcción del \"Preussen\" y \"Hansestadt Danzig\" pasajero liners en 1923. Ambos embarca gemelo presentado diésel de diez cilindros motores con la producción aumentada de 1750 a 2500 horsepower por turbochargers diseñado por Büchi y construido bajo su supervisión por Marrón Boveri (BBC) (ahora ABB).[2][8]"
+        },
+        "target": {
+            "content": "Casi dos décadas más tarde la invención de Büchi consiguió aplicación práctica. El primer uso del turbocompresor fue para motores marinos grandes, cuándo el Ministerio alemán del Transporte encargó la construcción de los barcos de pasajeros \"Preussen\" y \"Hansestadt Danzig\" en 1923. Ambas embarcaciones poseían motores gemelos diésel de diez cilindros con la protencia aumentada de 1750 a 2500 caballos de fuerza por turbocompresores diseñados por Büchi y construidos bajo su supervisión por Brown & Boveri (BBC) (ahora ABB).[2][8]"
+        }
+    },
+    {
+        "id": "77995/mwKw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eventually near the end of his tenure at the firm, in 1925 Büchi for the first time succeeded in combining his technology with a diesel engine, increasing efficiency by over 40%,[3] the same year filing Swiss patent number 122 664 under his own name (\"Büchi-Duplex turbocharging system\").[9] In 1926 he left Sulzer and established a new company known as the \"Büchi Syndicate\". Büchi headed engineering and customer relations, Swiss Locomotive and Machine Works (SLM) in Winterthur provided engines for testing, and BBC in Baden built turbochargers.[5] The same year Büchi also became Director of SLM.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Finalmente acercarse el fin de su tenure en la empresa, en 1925 Büchi por primera vez tenido éxito en combinar su tecnología con un motor de diésel, aumentando eficacia por encima 40%, el mismo año que archiva número de patente suiza 122 664 bajo su nombre propio (\"Büchi-Duplex turbocharging sistema\").[3][9] En 1926 deje Sulzer y estableció una compañía nueva sabida como el \"Büchi Syndicate\". Büchi Encabezó ingeniería y relaciones de cliente, Máquina y Locomotora suizas Trabajos (SLM) en Winterthur proporcionó motores para probar, y BBC en Baden construyó turbochargers.[5] El mismo año Büchi también devenía Director de SLM.[1]"
+        },
+        "target": {
+            "content": "Finalmente cerca del fin de periodo en la empresa, en 1925 Büchi por primera vez tuvo éxito en combinar su tecnología con un motor de diésel, aumentando la eficacia por encima del 40%, el mismo año obtiene la patente suiza número 122 664 bajo su propio nombre (\"Doble sistema turbocompresor Büchi\").[3][9] En 1926 deja Sulzer y establece una compañía nueva conocida como \"Sindicato Büchi\". Büchi encabezó ingeniería y relaciones de cliente, la Fábrica Suiza de Locomotoras y Máquinas en Winterthur proporcionó motores para testeo, y BBC en Baden construyó los turbocompresores.[5] El mismo año Büchi también se convertiría en Director de SLM.[1]"
+        }
+    },
+    {
+        "id": "77995/mwLg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Two years later Büchi's new, larger turbocharger design yielded improved results, leading to an increase in licensing agreements with engine builders.[5] The Büchi Syndicate stayed together until 1941 when BBC continued turbo-related operations under its own name.[9]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Dos años más tarde Büchi nuevos, más grandes turbocharger el diseño cedió mejoró resultados, dirigiendo a un aumento en autorizar acuerdos con constructores de motor.[5] El Büchi Syndicate se quedó junto hasta que 1941 cuando BBC continuó turbo-relacionó operaciones bajo su nombre propio.[9]"
+        },
+        "target": {
+            "content": "Dos años más tarde, diseños más grandes de un turbocompresor dieron mejores resultados, logrando más acuerdos de licencia con constructores de motores.[5] El Sindicato de Büchi se mantuvo unido hasta 1941, cuando BBC continuó con las operaciones bajo su propio nombre.[9]"
+        }
+    },
+    {
+        "id": "77995/mwMQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Racecar engines began to utilize turbocharging in the 1930s and the technology reached commercial automobiles toward the end of the decade. In 1938 Saurer in Switzerland produced the first truck engine to take advantage of turbocharging.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Racecar Los motores empezaron para utilizar turbocharging en el @1930s y la tecnología lograron automóviles comerciales hacia el fin de la década. En 1938 Saurer en Suiza produjo el primer motor de camión para aprovechar turbocharging.[2]"
+        },
+        "target": {
+            "content": "Los vehiculos de carrera empezaron a utilizar turbocompresor a partir de 1930 y la tecnología llego a los automoviles comerciales hacia el final de la década. En 1938 Saurer produjo en Suiza el primer motor de camión con turbocompresor.[2]"
+        }
+    },
+    {
+        "id": "77995/mwNA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Alfred Büchi died October 27, 1959 and was buried in Winterthur's Rosenberg cemetery."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Alfred Büchi murió octubre 27, 1959 y estuvo enterrado en Winterthur Rosenberg cementerio."
+        },
+        "target": {
+            "content": "Alfred Büchi murió el 27 de octubre de 1959 y fue enterrado en el cementerio Winterthur Rosenberg."
+        }
+    },
+    {
+        "id": "77995/mwNg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1938 Büchi was awarded an honorary doctorate from ETH Zurich."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1938 Büchi estuvo otorgado un honorary doctorado de ETH Zurich."
+        },
+        "target": {
+            "content": "En 1938 Büchi fue galardonado con un grado honorífico de la ETH Zurich."
+        }
+    },
+    {
+        "id": "77995/mwOA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In summer 2012 the city of Winterthur celebrated the inventor and pioneer with the inauguration of the road \"Alfred Büchi Way\" in Neuwiesenquartier.[10]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En verano 2012 la ciudad de Winterthur celebrado el inventor y pionero con la inauguración de la carretera \"Alfred Büchi Manera\" en Neuwiesenquartier.[10]"
+        },
+        "target": {
+            "content": "En el verano de 2012 la ciudad de Winterthur homenajeo al inventor y pionero con la inauguración de la carretera \"Alfred Büchi Manera\" en Neuwiesenquartier.[10]"
+        }
+    },
+    {
+        "id": "77995/mwjg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Historisches Lexikon der Schweiz Automotive Engineering Milestones ABB Turbocharger history and milestones Prova Magazin fuer Automobile Avantgarde Gas Turbine Powerhouse: The Development of the Power Generation Gas Turbine at BBC - ABB - Alstom Winterthur Glossary Gizmag Turbo Magazine Centenary Issue - A Century of Turbocharging (ABB Turbo Systems) History of BBC / ABB, Baden and of Turbocharging The Diesel engine and its development: A historical timeline"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Historisches Lexikon der Schweiz Automotive Hitos de ingeniería ABB Turbocharger Historia e hitos Prova Magazin fuer Automóvil Avantgarde Turbina gasista Powerhouse: El Desarrollo de la Generación de Poder Turbina Gasista en BBC - ABB - Alstom Winterthur Glosario Gizmag Turbo Asunto de Centenario de la revista - Un Siglo de Turbocharging (ABB Turbo Sistemas) Historia de BBC / ABB, Baden y de Turbocharging El motor de Diésel y su desarrollo: Un histórico timeline"
+        },
+        "target": {
+            "content": "Historisches Lexikon der Schweiz Automotive Hitos de ingeniería ABB Turbocharger Historia e hitos Prova Magazin fuer Automóvil Avantgarde Winterthur Glosario Gizmag"
+        }
+    },
+    {
+        "id": "77995/65a5650bf2f23a0adbda39f0ead588",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Büchi Syndicate"
+        },
+        "mt": null,
+        "target": {
+            "content": "Sindicato Büchi"
+        }
+    },
+    {
+        "id": "77995/7886c918798f6e042418267a213706",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Automotive applications"
+        },
+        "mt": null,
+        "target": {
+            "content": "Aplicaciones Automovilísticas"
+        }
+    },
+    {
+        "id": "77995/mwHw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Joining Sulzer in 1909, Büchi researched diesel engines while continuing to investigate turbocharging innovations, focusing on large marine applications. In 1911 Sulzer opened an experimental turbocharger plant, and Büchi's first prototype for turbocharged diesel engine was produced in 1915. Intending to mitigate effects of thin air in high altitude for airplane engines, this version did not maintain consistent boost pressure and thus was not well received.[3][6]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Uniéndose a Sulzer en 1909, Büchi investigó a los motores de diésel mientras continuaba trabajando en el turbocompresor, enfocándose en aplicaciones marinas. En 1911 Sulzer abrió una planta experimental para el turbocompresor, y el primer prototipo de Büchi para un turbocompresor de motor de diésel fue producido en 1915. Pretendiendo mitigar los efectos del aire delgado en altitud alta para motores de avión, esta versión no logró un impulso extra, por lo que no fue bien recibido.[3][6]"
+        }
+    },
+    {
+        "id": "77995/mwOg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 Buergi, Markus (2003). \"Historisches Lexikon der Schweiz\". Historisches Lexikon der Schweiz. Retrieved Feb 27, 2015.  1 2 3 Hanlon, Mike (November 17, 2005). \"The turbocharger turns 100 years old this week\". Gizmag. Gizmag. Retrieved Feb 27, 2015.  1 2 3 4 Scoltock, James (2010). \"Alfred Büchi the inventor of the turbocharger\". Automotive Engineer. Caspian Media. Retrieved 2015-02-27.  ↑ Rossbach, Dieter (2005). \"Vor 100 Jahren: Alfred Büchi erhält das Patent auf den Turbomotor\". Prova Magazin fuer Automobile Avantgarde. virto GmbH. Retrieved Feb 27, 2015.  1 2 3 Summers, Malcolm (February 2007). \"ABB Turbocharger history and milestones, ABB Review\" (PDF). ABB Library. ABB. Retrieved Feb 27, 2015.  ↑ Leduc, Martin (December 2014). \"The Diesel engine and its development: A historical timeline\". Martin's Marine Engineering Page. dieselduck.net. Retrieved Feb 27, 2015.  ↑ \"History of BBC / ABB, Baden and of Turbocharging\". swiss-ships.ch. swiss-ships.ch. March 15, 2009. Retrieved Feb 27, 2015.  ↑ \"Turbo Magazine Centenary Issue - A Century of Turbocharging\" (PDF). swiss-ships.ch. ABB Turbo Systems Ltd. 2005. Retrieved Feb 27, 2015.  1 2 Eckardt, Dietrich (2014). \"Gas Turbine Powerhouse: The Development of the Power Generation Gas Turbine at BBC - ABB - Alstom\". Google Books. Oldenbourg Wissenschaftsverlag GmbH. Retrieved Feb 27, 2015.  ↑ \"Winterthur Glossary\". Winterthur Glossary. winterthur-glossar.ch. Retrieved Feb 27, 2015. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 Buergi, Markus (2003). \"Historisches Lexikon der Schweiz\". Historisches Lexikon der Schweiz. Retrieved Feb 27, 2015.  1 2 3 Hanlon, Mike (November 17, 2005). \"The turbocharger turns 100 years old this week\". Gizmag. Gizmag. Retrieved Feb 27, 2015.  1 2 3 4 Scoltock, James (2010). \"Alfred Büchi the inventor of the turbocharger\". Automotive Engineer. Caspian Media. Retrieved 2015-02-27.  ↑ Rossbach, Dieter (2005). «Vor 100 Jahren: Alfred Büchi erhält das Patent auf den Turbomotor». Prova Magazin fuer Automobile Avantgarde. virto GmbH. Consultado el Feb 27, 2015.  1 2 3 Summers, Malcolm (February 2007). \"ABB Turbocharger history and milestones, ABB Review\" (PDF). ABB Library. ABB. Retrieved Feb 27, 2015.  ↑ Leduc, Martin (December 2014). «The Diesel engine and its development: A historical timeline». Martin's Marine Engineering Page. dieselduck.net. Consultado el Feb 27, 2015.  ↑ «History of BBC / ABB, Baden and of Turbocharging». swiss-ships.ch. swiss-ships.ch. March 15, 2009. Consultado el Feb 27, 2015.  ↑ «Turbo Magazine Centenary Issue - A Century of Turbocharging». swiss-ships.ch. ABB Turbo Systems Ltd. 2005. Consultado el Feb 27, 2015.  1 2 Eckardt, Dietrich (2014). \"Gas Turbine Powerhouse: The Development of the Power Generation Gas Turbine at BBC - ABB - Alstom\". Google Books. Oldenbourg Wissenschaftsverlag GmbH. Retrieved Feb 27, 2015.  ↑ «Winterthur Glossary». Winterthur Glossary. winterthur-glossar.ch. Consultado el Feb 27, 2015. "
+        }
+    },
+    {
+        "id": "78163/2cedb069633746f45f07d748666e17",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "External links"
+        },
+        "mt": null,
+        "target": {
+            "content": "Enlaces externos"
+        }
+    },
+    {
+        "id": "78163/2fa97693b70fa87b95b2d1bdf9558e",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "See also"
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "78163/69824d3b0e70ca6aaa0da1613b65fd",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "References"
+        },
+        "mt": null,
+        "target": {
+            "content": "Referencias"
+        }
+    },
+    {
+        "id": "78163/mwBg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Linn Thomas (also known as Lynn Thomas) (born January 21, 1976 in Newport News, Virginia, United States)[1] is an American erotic model."
+        },
+        "mt": null,
+        "target": {
+            "content": "Linn Thomas (también conocida como Lynn Thomas) (nacida el 21 de Enero de 1976 en Newport News, Virginia, Estados Unidos)[1] es una modelo erótica estadounidense."
+        }
+    },
+    {
+        "id": "78163/mwDA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Her mother is Vietnamese and her father is a mix of Irish, Welsh and Italian. They met and married in Vietnam. Linn was born after her parents moved to the United States. Her father abandoned the family when Linn was very young.[2] She has had no contact with her father since then."
+        },
+        "mt": null,
+        "target": {
+            "content": "Su madre es vietnamita y su padre es una mezcla de irlandés, escocés e italiano. Se conocieron y se casaron en Vietnam. Linn nació después de que sus padres se mudasen a los Estados Unidos de América. Su padre abandonó a la familia cuando Linn era pequeña.[2] No ha tenido contacto con su padre desde entonces."
+        }
+    },
+    {
+        "id": "78163/mwDQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Linn Thomas became a Playboy Playmate in May 1997. In October 2000, she became a Penthouse Pet of the Month and the first pin-up model in history to have appeared in both Playboy and Penthouse as a centerfold model. She has also modeled for Perfect 10, Danni's Hard Drive and J. Stephen Hicks' Digital Desire.[3]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Linn Thomas se convirtió en Playmate de Playboy en Mayo de 1997. En Octubre de 2000, se convirtió en Pet of the Month de Penthouse y en la primera modelo pin-up en la historia en aparecer en las páginas centrales de Playboy y Penthouse. También ha trabajado como modelo para Perfect 10, Danni's Hard Drive y J. Stephen Hicks' Digital Desire.[3]"
+        }
+    },
+    {
+        "id": "78163/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 2003, she appeared with Victoria Zdrok in the high-gloss erotic film Temptation, directed by Michael Ninn."
+        },
+        "mt": null,
+        "target": {
+            "content": "En 2003, apareció con Victoria Zdrok en la película erótica Temptation, dirigida por Michael Ninn."
+        }
+    },
+    {
+        "id": "78163/mwJA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 \"Playmate data\". Retrieved June 2, 2010.  ↑ \"HTVOD - Linn Thomas & Wood-Yi - 08-24-01 [WDM]\".  ↑ \"Digital Desire\". Retrieved July 20, 2011. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 «Playmate data». Consultado el June 2, 2010.  ↑ «HTVOD - Linn Thomas & Wood-Yi - 08-24-01 [WDM]».  ↑ «Digital Desire». Consultado el July 20, 2011. "
+        }
+    },
+    {
+        "id": "78163/mwOw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Lynn Thomas on IMDb Linn Thomas Twitter Profile on Twitter"
+        },
+        "mt": null,
+        "target": {
+            "content": "Lynn Thomas en Internet Movie Database (en inglés) Linn Thomas en Twitter"
+        }
+    },
+    {
+        "id": "78266/mwAik",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Works cited"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los trabajos citaron"
+        },
+        "target": {
+            "content": "Citas"
+        }
+    },
+    {
+        "id": "78266/mwmA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "As humans in the Olympic National Park do not hunt the marmot, but simply observe them, they do not pose a threat. When researchers intrude on colonies to observe behavior, the families living in burrows there initially vocalize ascending calls, showing surprise, but later adjust to the presence of humans, allowing studies to proceed.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Tan humanos en el Parque Nacional Olímpico no caza la marmota, pero sencillamente observarles, no posan una amenaza. Cuándo investigadores intrude en colonias para observar comportamiento, las familias que viven en madrigueras allí inicialmente vocalize ascendiendo llamadas, mostrando sorpresa, pero más tarde ajustar a la presencia de humanos, dejando estudios para proceder.[1]"
+        },
+        "target": {
+            "content": "Los hombres del Parque Nacional Olímpico no cazan la marmota, pero sencillamente observarla no consta una amenaza. Cuándo hay investigadores intrusos en colonias para observar su comportamiento, las familias que viven en madrigueras de esa zona, inicialmente articulan llamadas, mostrando sorpresa, pero más tarde se ajustan a la presencia de humanos, dejando estudios para proceder.[1]"
+        }
+    },
+    {
+        "id": "78266/mwmQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The ectoparasites of the Olympic marmot include the cestode Diandrya composita, and fleas of the genus Oropsylla.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El ectoparasites de la marmota Olímpica incluye el cestode Diandrya composita, y pulgas del genus Oropsylla.[2]"
+        },
+        "target": {
+            "content": "Los ectoparásitos de la marmota Olímpica son el cestoda Diandrya composita, y pulgas de la familia Oropsylla.[2]"
+        }
+    },
+    {
+        "id": "78266/mwow",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmot sunbathing at Hurricane Ridge"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Marmota olímpica sunbathing en Huracán Ridge"
+        },
+        "target": {
+            "content": "Marmota olímpica en un baño de sol, en el Huracán Ridge"
+        }
+    },
+    {
+        "id": "78266/mwpw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots are gregarious burrowing animals, living in colonies typically containing multiple burrows. Activity varies with the weather, time of day, and time of year; owing to rainfall and fog cover during June, July, and August, the marmots spend most of the day inside their burrows, and forage for food mostly in the morning and evening. In between these times, Olympic marmots can sometimes be found lying on rocks where they sun themselves for warmth, grooming each other, playing, chirping, and feeding together.[12][29] Burrows are multi-purpose structures, used for hibernation, protection from bad weather and predators, and to raise newborn pups.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Las marmotas olímpicas son gregarious burrowing animales, viviendo en colonias típicamente conteniendo madrigueras múltiples. La actividad varía con el tiempo, tiempo de día, y tiempo de año; a causa de rainfall y cubierta de niebla durante junio, julio, y agosto, las marmotas gastan la mayoría del día dentro de sus madrigueras, y forage para alimentarios mayoritariamente por la mañana y anochecer. En entre este tiempo, las marmotas Olímpicas a veces pueden ser encontradas lying en rocas donde ellos sol ellos para calor, grooming cada cual otro, jugando, chirping, y alimentando junto.[12][29] Las madrigueras son multi-estructuras de propósito, utilizados para hibernación, protección de tiempo malo y predators, y para levantar @pup de bebé.[20]"
+        },
+        "target": {
+            "content": "Las marmotas olímpicas son animales gregarios y escavadores, que viven en colonias y típicamente contenien madrigueras múltiples. La actividad varía con el tiempo, tiempo de día, y tiempo de año; a causa de la lluvia y la niebla durante junio, julio, y agosto, las marmotas permanecen la mayoría del día dentro de sus madrigueras, y buscan alimentos mayoritariamente por la mañana y la noche. En entre este tiempo, las marmotas Olímpicas a veces pueden ser encontradas acostadas en rocas donde toman sol para calentarse, aseandose entre si, jugando, chillando y alimentándose juntos.[12][29] Las madrigueras son multiestructuras de propósito, utilizados para hibernación, protección de mal clima y depredadores, y para levantar bebes recién nacidos.[20]"
+        }
+    },
+    {
+        "id": "78266/mwqQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A typical colony of marmots consists of a male, two to three females, and their young, sometimes living in groups of more than a dozen animals; young marmots stay with their family for at least two years, so a burrow is often home to a newly born litter and a litter of two-year-olds.[29] Marmots seldom move to other colonies with the exception of sub-adults of two to three years old, which may leave the home colony to start a new family elsewhere;[30] females move only a few hundred meters, though males often move several kilometers away from their birth burrow.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Una colonia típica de marmotas consta de un macho, dos a tres mujeres, y su jóvenes, a veces viviendo en grupos de más de unos animales de docena; estancia de marmotas jóvenes con su familia para al menos dos años, así que una madriguera es a menudo en casa a una camada nuevamente nacida y una camada de dos-año-olds.[29] Las marmotas raramente mueven a otras colonias con la excepción de sub-adultos de dos a tres años, los cuales pueden dejar la colonia de casa para empezar una familia nueva en otro lugar; las mujeres mueven sólo unos cuantos metros de centenar, aunque los machos a menudo mueven varios kilómetros fuera de su madriguera de nacimiento.[30][20]"
+        },
+        "target": {
+            "content": "Una colonia típica de marmotas consta de un macho, de dos a tres mujeres, y su jóvenes, a veces viviendo en grupos de más de una docena; la estancia de marmotas jóvenes con su familia dura al menos dos años, así que una madriguera es a menudo la casa de una camada nuevamente nacida y una camada de dos años.[29] Las marmotas raramente se mueven a otras colonias con la excepción de adultos jóvenes de dos a tres años, los cuales pueden dejar la colonia de casa para empezar una familia nueva en otro lugar; las mujeres solo se mueven entre unos cuantos metros a cien, aunque los machos a menudo se mueven varios kilómetros fuera de su madriguera de nacimiento.[30][20]"
+        }
+    },
+    {
+        "id": "78266/mwqg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A colony may have a subordinate or \"satellite\" male, smaller and younger than the colony male, who may take over as the dominant male if the incumbent dies.[2] The satellite male lives in a separate burrow, 55 to 150 m (200 to 500 ft) away from the rest of the colony. After emergence from hibernation, if the satellite male and the colony male are both still living in the same colony, the dominant colony male may chase the satellite around multiple times per day.[31] The satellite male's feeding area is limited to areas far from the rest of the marmots in the colony, and he must stay away from the other marmots' burrows as long as the colony male is near. While the satellite male does not approach the other marmots in the colony, they sometimes make trips over to the satellite male's burrow, often about two times an hour. After more time has passed since hibernation, males will become less hostile towards each other, and less avoidance and chasing will occur. Male-male competition ends around the same time that the reproductive season does. The diminution of hostile behavior is only temporary, as the satellite male becomes assigned to its subordinate status again the following spring after emergence from hibernation and the ritual begins again.[32]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Una colonia puede tener un subordinar o \"macho\" de satélite, más pequeño y más joven que el macho de colonia, quiénes pueden tomar encima como el macho dominante si el incumbente muere.[2] El satélite vidas machos en una madriguera separada, 55 a 150 m (200 a 500 ft) fuera del resto de la colonia. Después de que aparición de hibernación, si el macho de satélite y el macho de colonia son ambos quieto viviendo en la misma colonia, el macho de colonia dominante puede perseguir el satélite alrededor de tiempo múltiple por día.[31] El área de alimentación del macho de satélite está limitada a áreas lejos del resto de las marmotas en la colonia, y se tenga que quedar fuera de las otras marmotas' madrigueras mientras el macho de colonia es cercano. Mientras el macho de satélite no se acerca las otras marmotas en la colonia, ellos a veces viajes de marca encima a la madriguera del macho de satélite, a menudo aproximadamente dos tiempo una hora. Después de que más tiempo ha pasado desde entonces hibernación, los machos devendrán menos hostiles hacia cada otro, y menos evitación y persiguiendo ocurrirá. Macho-fines de competición macho alrededor del mismo tiempo que la estación reproductiva hace. El diminution del comportamiento hostil es sólo provisional, cuando el macho de satélite deviene asignado a su subordinar estado otra vez la primavera siguiente después de que aparición de la hibernación y el ritual empieza otra vez.[32]"
+        },
+        "target": {
+            "content": "Una colonia puede tener un subordinado o \"macho\" acólito, más pequeño y más joven que el macho de colonia, quiénes pueden tomar encima como el macho dominante si el incumbente muere.[2] El acólito macho en una madriguera separada entre 55 a 150 m (200 a 500 ft) fuera del resto de la colonia. Después de la hibernación, si el macho acólito y el macho de colonia se quedan viviendo en la misma colonia, el macho de colonia dominante puede perseguir al acólito alrededor del tiempo múltiple por día.[31] El área de alimentación del macho acólito está limitada lejos del resto de las marmotas de la colonia, y se tiene que quedar fuera de las otras madrigueras mientras el macho de colonia este cerca. Mientras el macho acólito no se acerce a las otras marmotas en la colonia, ellos a veces pueden viajar encima de la madriguera del macho de satélite, a menudo aproximadamente en dos tiempo una hora. Mientras más tiempo ha pasado desde la hibernación, los machos se mostraran menos hostiles hacia cada otro, y escapándose menos. Los fines de competición del macho rondan el mismo tiempo que la estación reproductiva . La disminución del comportamiento hostil es sólo provisional, ya que cuando el macho acólito es asignado a su estado otra vez, la primavera siguiente después de la hibernación, y el ritual empieza otra vez.[32]"
+        }
+    },
+    {
+        "id": "78266/mwrQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "When greeting each other, these very sociable animals will usually touch noses or nose to cheek; in courtship rituals they may inter-lock teeth and nibble each other's ears and necks. They may also engage in play fighting, in which two marmots on their hind legs push each other with their paws; this play fighting is more aggressive between older marmots.[2] In fights that have been observed during a study, only about 10% of fights had distinct outcomes.[31]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Cuándo saludando cada otro, estos animales muy sociables normalmente narices de tacto o nariz a mejilla; en rituales de noviazgo pueden inter-dientes de cerradura y nibble cada cual otro es orejas y cuellos. También pueden comprometer en juega luchar, en qué dos marmotas en su hind las piernas empujan cada cual otro con su paws; esto juega luchar es más agresivo entre marmotas más viejas.[2] En luchas que ha sido observado durante un estudio, sólo aproximadamente 10% de las luchas tuvieron resultados distintos.[31]"
+        },
+        "target": {
+            "content": "Al saludarse, estos animales muy sociables normalmente hacen contacto de nariz con nariz, o nariz con mejilla; en rituales de noviazgo pueden entrecerrar los dientes y morderse mutuamente orejas y cuellos. También pueden comprometerse en jugar y luchar, acciones en la qué dos marmotas empujan al otro con sus patas; este juego de lucha es más agresivo entre marmotas más viejas.[2] En luchas que se han observado durante un estudio, sólo aproximadamente 10% de las luchas tuvieron resultados distintos.[31]"
+        }
+    },
+    {
+        "id": "78266/mwrg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "When communicating vocally, they have four different types of whistles,[27] differing in this from their close relatives, the hoary marmot and the Vancouver Island marmot.[20] The Olympic marmot's whistles include flat calls, ascending calls, descending calls, and trills; all of these are in a small frequency range of about 2,700 Hz.[2] Flat, ascending, and descending calls are most often voiced singly. The ascending call has a duration of about half a second, starting with a \"yell\" on one note and ending with a \"chip\" on a higher note; it is often used as a distress or warning call for unfamiliar smells and noises. These same \"yips\" are heard when Olympic marmots are play fighting, along with low growls and chattering of teeth. The descending call ends on a lower note than it started on. The trill, which sounds like multiple ascending calls put together as one longer sound, consists of multiple ranging notes and is voiced as an alarm call to communicate to other marmots in the area that danger may be approaching and they should return to their burrows. Females with young have the responsibility to watch out for their young and other relatives near the burrow, and therefore voice the trill more often than other Olympic marmots. If marmots are not accustomed to human contact in a certain area, they may also sound a trill when seeing a person,[27] in order to alert other marmots.[12] At places like Hurricane Ridge, where seeing humans is a frequent occurrence, most marmots will not acknowledge human presence at all.[27]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Cuándo comunicante vocally, tienen cuatro tipos diferentes de pitos, difiriendo en este de sus parientes cercanos, el hoary marmota y el Vancouver marmota de Isla.[27][20] Los pitos de la marmota Olímpica incluyen llamadas planas, ascendiendo llamadas, descendiendo llamadas, y trinos; todo de estos es en una gama de frecuencia pequeña de aproximadamente 2,700 Hz. Plano, ascendiendo, y descendiendo las llamadas son más a menudo voiced singly.[2] La llamada ascendente tiene una duración de sobre medio un segundo, empezando con un \"yell\" encima una nota y acabando con un \"chip\" en una nota más alta; es a menudo utilizado como la aflicción o el aviso piden unfamiliar olores y ruidos. Estos mismos \"yips\" está oído cuándo las marmotas Olímpicas son juego luchando, junto con bajos gruñe y chattering de dientes. La llamada de descender fines en una nota más baja que él empezaron encima. El trino, el cual suena como las llamadas ascendentes múltiples puestas juntos cuando uno sonido más largo, consta de múltiple variando notas y es voiced como una llamada de alarma para comunicar a otras marmotas en el área que el peligro puede ser acercarse y tendrían que regresar a sus madrigueras. Mujeres con jóvenes tener la responsabilidad de mirar fuera para su joven y otros parientes se acercan la madriguera, y por lo tanto voz el trino más a menudo que otras marmotas Olímpicas. Si las marmotas no son acostumbradas a contacto humano en una área segura, también pueden sonar un trino cuándo viendo una persona, para alertar otras marmotas.[27][12] En a sitios les gusta el huracán Ridge, donde viendo los humanos es una ocurrencia frecuente , más las marmotas no reconocerán presencia humana en absoluto.[27]"
+        },
+        "target": {
+            "content": "Cuándo se comunican vocalmente, tienen cuatro tipos diferentes de pitos, difiriendo estos de sus parientes cercanos, como las Marmota Canosa y la Marmota de Vancouver.[27][20] Los pitidos de la marmota Olímpica incluyen llamadas planas, llamadas ascendentes ,descendentes, y trinos; todo de estos es en una gama de frecuencia pequeña de aproximadamente 2,700 Hz. Las llamadas planas, ascendentes y descendentes son más a menudo expresadas solas.[2] La llamada ascendente tiene una duración sobre medio segundo, empezando con un chillido de una nota y acabando con un chip en una nota más alta; es a menudo utilizado como la aflicción o el aviso a un familiar de olores y ruidos.Estos mismos \"yips\" son oídos cuándo las Marmotas Olímpicas están luchando o jugando, junto con bajos gruñidos y castañeteo de dientes. La llamada descendiente termina una nota más baja de la nota del comienzo. El trino, el cual suena como las llamadas ascendentes múltiples, donde se halla un sonido más largo, consta de múltiples notas variadas y es articulada como una llamada de alarma para comunicar a otras marmotas cual es el área donde puede acercarse el peligro, para regresar a sus madrigueras. Las mujeres con jóvenes tienen la responsabilidad de mirar fuera antes de que su joven y otros parientes se acercan la madriguera, y por lo tanto usando la voz de trino más a menudo que otras marmotas Olímpicas. Aunque las marmotas no están acostumbradas al contacto humano en una área segura, también pueden sonar un trino cuándo, viendo a una persona, alertan a otras marmotas.[27][12] En algunos sitios como el huracán Ridge, donde ver a los humanos es una ocurrencia frecuente ,las marmotas no reconocerán la presencia humana en absoluto.[27]"
+        }
+    },
+    {
+        "id": "78266/mwsA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots also communicate through the sense of smell. A gland located in their cheek exudes chemicals which they rub on scenting points, such as shrubs and rocks, which can be smelt by other marmots in the area.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Las marmotas olímpicas también comunican a través del sentido de olor. Una glándula localizada en su mejilla exudes sustancias químicas qué frotan en scenting puntos, como arbustos y rocas, los cuales pueden ser olidos por otras marmotas en el área.[2]"
+        },
+        "target": {
+            "content": "Las marmotas olímpicas también se comunican a través del sentido de olfato. Una glándula localizada en su mejilla expulsa sustancias químicas qué se frotan en lugares, como arbustos y rocas, en los cuales pueden ser olidos por otras marmotas en esa área.[2]"
+        }
+    },
+    {
+        "id": "78266/mwsg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots start to enter hibernation in early September. Before hibernating, the marmots bring dry grasses into the burrow for bedding or food.[2] Sometimes in early September marmots will stay in their burrows for a few consecutive days, with only brief outings that allow for a little foraging. During this period, they do not play fight or socialize with other marmots; they limit themselves to peeking out and casually sitting outside their burrows.[33] Nonparous females (those who have not given birth yet) and adult males become inactive first, because they do not need to store as much fat beforehand. The parous females, yearlings, and young of the year become inactive a few weeks later, because they have to gain more weight. The marmots of a colony hibernate in a single burrow space, which they keep closed with dirt.[33] Adults emerge in May, and the young in June. Marmots do not eat during hibernation, so they have to store fat before becoming inactive.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Inicio de marmotas olímpicas para introducir hibernación en septiembre temprano. Antes de que hibernating, las marmotas traen hierbas secas a la madriguera para empotrar o comida.[2] A veces en marmotas de septiembre temprano se quedarán en sus madrigueras para unos cuantos días consecutivos, con #escrito única outings aquello deja para un poco foraging. Durante este periodo, no juegan lucha o socialize con otras marmotas; se limitan a peeking fuera y casualmente sentando fuera de sus madrigueras.[33] Nonparous Mujeres (quienes no han dado nacimiento todavía) y machos de adulto devienen inactive primero, porque no necesitan para almacenar tanta grasa por adelantado. El parous mujeres, yearlings, y jóvenes del año devenido inactive unas cuantas semanas más tarde, porque tienen que obtener más peso. Las marmotas de una colonia hibernate en un espacio de madriguera solo, el cual mantienen cerrados con suciedad.[33] Los adultos emergen en mayo, y el joven en junio. Las marmotas no comen durante hibernación, así que tienen que almacenar gordos antes de devenir inactive.[20]"
+        },
+        "target": {
+            "content": "Las marmotas olímpicas inician la hibernación temprano, en septiembre. Antes de hibernar, las marmotas traen comida o hierbas secas a la madriguera para empotrar.[2] A veces las marmotas en inicios de septiembre se quedarán en sus madrigueras por unos cuantos días consecutivos, saliendo únicamente para buscar alimento. Durante este periodo, no juegan a luchar o socializan con otras marmotas; se limitan a asomarse fuera y sentarse casualmente fuera de sus madrigueras.[33] Las hembras embarazadas (que no han dado nacimiento todavía) y machos de adulto frenan la actividad primero, por lo que no necesitan almacenar tanta grasa por adelantado. Las mujeres que tuvieron hijos, primales y jóvenes del año no tienen actividad unas cuantas semanas más tarde, porque deben obtener más peso. Las marmotas de una colonia hibernan en un solo espacio de la madriguera, el cual mantiene cerrado con suciedad.[33] Los adultos emergen en mayo, y los jóvenes en junio. Las marmotas no comen durante hibernación, así que tienen que almacenar grasa antes de la inactividad[20]"
+        }
+    },
+    {
+        "id": "78266/mwsw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots are \"deep hibernators\"; they cannot easily be awoken; their body temperature drops to below 40 °F (4 °C) and heart rate can slow to three beats per minute. Marmots warm their bodies about every ten days.[20] Olympic marmots lose 50% of their body mass over the seven to eight months of winter hibernation.[2] Hibernation is the most dangerous time for the Olympic marmot as, in years of light snowfall, as many as 50% of the young born that year will die from the cold because of the lack of insulation that is provided by good snow cover.[2] When Olympic marmots emerge in early May, thick snow cover is still present from the preceding winter, so they are not very active at this time. Sometimes they are so disoriented after awaking from hibernation that they have to relearn the colony's landmarks (which are now covered in snow, which obscures them even more); they wander around aimlessly until they find their burrows.[34]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Las marmotas olímpicas son \"profundas hibernators\"; pueden no fácilmente ser despertados; sus gotas de temperatura del cuerpo a abajo 40 °F (4 °C) y el ritmo cardíaco puede retrasar a tres latidos por minuto. Las marmotas calientan sus cuerpos sobre cada diez días.[20] Las marmotas olímpicas pierden 50% de su masa de cuerpo sobre el siete a ocho meses de hibernación de invierno.[2] La hibernación es el tiempo más peligroso para la marmota Olímpica cuando, en años de nevada ligera, cuando muchos cuando 50% del jóvenes nacidos que el año morirá del frío debido a la carencia de insulation aquello está proporcionado por cubierta de nieve buena.[2] Cuándo las marmotas Olímpicas emergen en mayo temprano, cubierta de nieve gruesa es presente quieto del invierno de preceder, así que no son muy activos en este tiempo. A veces son tan disoriented después de despertar de hibernación que tienen que relearn los hitos de la colonia (cuáles son ahora cubiertos en nieve, el cual les oculta aún más); vagan alrededor de aimlessly hasta que encuentran sus madrigueras.[34]"
+        },
+        "target": {
+            "content": "Las marmotas olímpicas son \"hibernadores profundos\"; no pueden ser despertados facilmente; su temperatura corporal baja a  4º C (40º F) y el ritmo cardíaco puede retrasarse a tres latidos por minuto. Las marmotas calientan sus cuerpos cada diez días.[20] Las marmotas olímpicas pierden 50% de su masa corporal entre los siete y ocho meses de hibernación.[2] La hibernación es el tiempo más peligroso para la marmota Olímpica en años de nevada ligera, cuando el 50% de los jóvenes nacidos mueren de frío debido a la carencia de aislamiento, aquello que está proporcionado por una buena cubierta de nieve.[2] Cuándo las Marmotas Olímpicas emergen al inicio de mayo, una cubierta de nieve gruesa se presenta, así que no están muy activos en este tiempo. A veces están tan desorientados después de despertar de hibernación que tienen que volver a aprenderse los sitios de la colonia (los cuáles están ahora cubiertos de nieve, lo que los oculta aún más); vagan alrededor sin rumbo hasta que encuentran sus madrigueras.[34]"
+        }
+    },
+    {
+        "id": "78266/mwtg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot, along with the hoary marmot, has the lowest reproductive rate of any rodent.[35] A female Olympic marmot has a litter of from one to six young (3.3 on average) in alternate years.[36] In a given year, a third of females will have a litter.[12] Half of the pups die before the following spring. Those pups that survive the following spring can live into their teens. Both males and females mature sexually at three years, but females generally do not reproduce until they are four and a half years old.[20] The marmot comes out from hibernation at the beginning of May, and estrus (heat) occurs about two weeks later. After hibernation ends, both male and female Olympic marmots attempt to entice the opposite sex with courtship rituals. Females who have never produced a litter before tend to be more aggressive and will chase or instigate fights with males; females which have already produced young tend to greet the male with nasal to nasal or nasal to genital contact, with copulation following shortly afterwards. This approach is more successful than the aggressive manner of the non-parous female, with mating taking place within 11 to 20 days after hibernation. The relationship between a sexually mature male and female Olympic marmot is polygynous; males tend to breed with three or four females in each mating season.[29]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La marmota Olímpica, junto con el hoary marmota, tiene el índice reproductivo más bajo de cualquier roedor.[35] Una marmota Olímpica hembra tiene una camada de de uno a seis joven (3.3 en mediano) en alternar años.[36] En un año dado, un tercer de las mujeres tendrán una camada.[12] A medias del dado de @pup antes de la primavera siguiente. Aquellos @pup que sobrevive la primavera siguiente puede vivir a sus adolescentes. Ambos machos y las mujeres maduran sexualmente en tres años, pero las mujeres generalmente no reproducen hasta que son cuatro y unos años medios viejos.[20] La marmota sale de hibernación a principios de mayo, y celo (calor) ocurre aproximadamente dos semanas más tarde. Después de que fines de hibernación, ambos machos e intento de marmotas Olímpico hembra a entice el sexo opuesto con rituales de noviazgo. Mujeres que haber nunca produjo una camada antes tiende para ser más agresivo y perseguirá o instigate luchas con machos; mujeres qué ya ha producido joven tiende para saludar el macho con nasal a nasal o nasal a contacto genital, con la copulación que sigue poco después. Esta aproximación es más exitosa que la manera agresiva del no-parous mujer, con aparear teniendo lugar dentro 11 a 20 días después de que hibernación. La relación entre un macho sexualmente maduro y la marmota Olímpica hembra es polygynous; los machos tienden para criar con tres o cuatro mujeres en cada estación de apareamiento.[29]"
+        },
+        "target": {
+            "content": "La marmota Olímpica, junto con la Marmota Canosa, tiene el índice reproductivo más bajo que cualquier roedor.[35] Una Marmota Olímpica hembra tiene una camada de entre uno y seis joven (con un promedio de 3.3) en años alternos.[36] En un año dado, un tercio de las mujeres tendrán una camada.[12] La mitad de los cachorros mueren antes de la primavera. Aquellos cachorros que sobreviven a la primavera siguiente puede vivir de adolescentes. Ambos géneros maduran sexualmente en tres años, pero las hembras generalmente no se reproducen hasta los cuatro.[20] La marmota sale de la hibernación a principios de mayo, y entran en celo aproximadamente dos semanas más tarde. Después del fin de la hibernación, ambos géneros de Marmotas Olímpico se juntan con el sexo opuesto con rituales de noviazgo. Las hembras que nunca dieron a luz a una camada antes tienden a ser más agresivo y conseguir luchas con machos; en cambio, las hembras qué ya han sido madres tienden a saludar al macho nariz con nariz o la nariz con el contacto genital, con la copulación posterior. Esta aproximación es más exitosa que la manera agresiva de la hembra virgen, con un apareamiento de 11 a 20 días después de la hibernación. La relación entre un macho sexualmente maduro y la marmota Olímpica hembra es poligínico; los machos tienden a procrear con tres o cuatro mujeres en cada estación de apareamiento.[29]"
+        }
+    },
+    {
+        "id": "78266/mwuw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Approximately four weeks after mating, the female gives birth to her young in a grass-lined burrow underground.[2] Newborn pups cannot see, have no fur, and are pink in color. At first, the young exhibit no sexual dimorphism.[9][37] It is about a month before the young Olympic marmots first leave the burrow; around the same time, they begin to be weaned.[2] Even after they are allowed to emerge, the young initially stay within the immediate vicinity of the burrow, where they can be found chasing each other and wrestling playfully. Within a few weeks after first emerging from the burrow, the young are fully weaned and can feed themselves.[12][29] Olympic marmots are not completely independent from their mothers until they reach two years of age.[2] Breeding-age female marmots are extremely important to marmot populations. If a female of breeding age dies it can take years to replace her; marmots are usually limited to six pups in a litter, the maturation period is long, and many marmots die before reaching maturity.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Aproximadamente cuatro semanas después de aparear, la mujer da nacimiento a su joven en una hierba-subterráneo de madriguera tachada.[2] @Pup de bebé no pueden ver, tiene ninguna piel, y es rosa en color. Al principio, la exposición joven ningún dimorfismo sexual.[9][37] Es sobre un mes antes de las marmotas Olímpicas jóvenes primero dejan la madriguera; alrededor del mismo tiempo, empiezan para ser weaned.[2] Incluso después de que están dejados para emerger, el joven inicialmente estancia dentro de la proximidad inmediata de la madriguera, donde pueden ser encontrados persiguiendo cada otro y wrestling playfully. Dentro unas cuantas semanas después de que primero emergiendo de la madriguera, el joven es plenamente weaned y los puede alimentar.[12][29] Las marmotas olímpicas no son completamente independientes de sus madres hasta que logran dos años de edad.[2] #Cría-envejecer las marmotas hembra son extremadamente importantes a poblaciones de marmota. Si una mujer de criar la edad lo muere puede tomar años para reemplazarle; las marmotas son normalmente limitadas a seis @pup en una camada, el maturation el periodo es mucho tiempo, y mucho dado de marmotas antes de lograr madurez.[20]"
+        },
+        "target": {
+            "content": "Aproximadamente cuatro semanas después de aparear, la mujer da nacimiento a sus jóvenes en una hierba subterránea de madriguera tachada.[2] Los cachorros de bebé no pueden ver, no tienen ningun pelaje, y es rosa en color. Al principio, el joven no presenta ningún dimorfismo sexual.[9][37] Un mes antes de que las Marmotas Olímpicas jóvenes dejen la madriguera; alrededor del mismo tiempo, empiezan a ser destetados.[2] Incluso después de que estén listos para emerger, el joven vive dentro de la proximidad inmediata de la madriguera, donde pueden ser encontrados persiguiéndose entre si y luchando juguetonamente. Dentro unas cuantas semanas después de que primero emerge de la madriguera, el joven es plenamente destetado y se puede alimentarse.[12][29] Las marmotas olímpicas no son completamente independientes de sus madres hasta que logran dos años de edad.[2] Las crías de las marmotas hembra son extremadamente importantes para la población de la marmota. Si una hembra que este criando muere puede tomar años ser reemplazada; las marmotas normalmente se limitan a 6 cachorros en cada camada, la maduración y el periodo es mucho tiempo, y es dado mucho tiempo a las marmotas antes de lograr madurez.[20]"
+        }
+    },
+    {
+        "id": "78266/mwvg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Relief map of Olympic National Park, where the Olympic marmot is protected"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Mapa de alivio de Parque Nacional Olímpico, donde la marmota Olímpica está protegida"
+        },
+        "target": {
+            "content": "Mapa de referencia del Parque Nacional Olímpico, donde la marmota Olímpica está protegida"
+        }
+    },
+    {
+        "id": "78266/mwwg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot is the second-rarest North American marmot, behind the critically endangered Vancouver Island marmot.[20][38] Marmots were first sighted in the Olympic Peninsula in the 1880s.[20] In the 1960s, David P. Barash conducted a three-year study of Olympic marmots after which he reported that there was an abundance of marmots in the mountains. In 1989, the total Olympic marmot population was calculated to be only about 2,000, but this low number was due to poor data collection. Other than this population census, little further research was done on the Olympic marmot until the late 1990s, when concerns arose about population status.[17][20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La marmota Olímpica es el segundo-marmota norteamericana más rara, detrás del critically endangered Vancouver marmota de Isla.[20][38] Las marmotas eran primer sighted en la Península Olímpica en el @1880s.[20] En el @1960s, David P. Barash Condujo un estudio de tres años de marmotas Olímpicas después de que cuál informe que había una abundancia de marmotas en las montañas. En 1989, la población de marmota Olímpica total estuvo calculada para ser sólo aproximadamente 2,000, pero este número bajo se debió a colección de dato pobre. Otro que este censo de población, poco la búsqueda más lejana estuvo hecha en la marmota Olímpica hasta el tardío @1990s, cuándo las preocupaciones surgieron aproximadamente estado de población.[17][20]"
+        },
+        "target": {
+            "content": "La Marmota Olímpica es el segundo-marmota norteamericana más rara, detrás de la Marmota de Vancouver, en peligro crítico.[20][38] Las marmotas fueron vistas por primera vez en la Península Olímpica en el año 1880.[20] En 1960, David P. Barash condujo un estudio de tres años de marmotas Olímpicas después de que se entero de que había una abundancia de marmotas en las montañas. En 1989, la población de Marmotas Olímpicas total estuvo calculada para ser sólo de 2000 ,aproximadamente, pero este número bajo se debió a colección de pobres datos. Hubo otros censos de población, pero no se mostró preocupación hasta el tardío 1990, cuándo las preocupaciones surgieron del estado de población.[17][20]"
+        }
+    },
+    {
+        "id": "78266/mwxA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Rangers and frequent visitors to the Olympic National Park had noticed that some populations of Olympic marmots had disappeared from their usual habitats. In response to this, the University of Michigan began a population study in 2002, in which the marmot population continued to decline by about 10% a year until 2006. Predation by coyotes that had not been present in the area before the 20th century was found to be the main cause of death of females, inhibiting population re-growth. By 2006, numbers had dropped to 1,000 individuals; this figure increased to around 4,000 from 2007 to 2010, when colonies stabilized and survival rates rose.[17][20] In 2010, volunteers started to collect and store data about marmot populations in the park through a monitoring program.[12][39] The Olympic marmot has been considered a species of least concern on the IUCN Red List since first being included in 1996.[1] Its range is small, but 90% of its total habitat is protected due to being in Olympic National Park.[12] The park, which holds multiple other endemic species, has been designated a UNESCO Biosphere Reserve and a World Heritage Site.[40] State law[41] declares that the Olympic marmot is a protected wildlife species and cannot be hunted.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Rangers Y los visitantes frecuentes al Parque Nacional Olímpico habían notado que algunas poblaciones de marmotas Olímpicas habían desaparecido de sus hábitats habituales. En respuesta a esto, la Universidad de Míchigan empezó un estudio de población en 2002, en qué la población de marmota continuó declinar por aproximadamente 10% un año hasta que 2006. Predation Por coyotes que no había sido presente en el área antes del siglo XX estuvo encontrada para ser la causa principal de muerte de mujeres, inhibiendo población re-crecimiento. Por 2006, los números habían caído a 1,000 @individual; esta figura aumentó a alrededor 4,000 de 2007 a 2010, cuándo las colonias estabilizadas y índices de supervivencia aumentaron.[17][20] En 2010, los voluntarios empezaron para recoger y dato de tienda aproximadamente poblaciones de marmota en el parque a través de un programa de control.[12][39] La marmota Olímpica ha sido considerada una especie de menos preocupación en el IUCN Lista Roja desde entonces primer ser incluido en 1996.[1] Su gama es pequeña, pero 90% de su hábitat total está protegido debido a ser en Parque Nacional Olímpico.[12] El parque, el cual aguanta múltiple otra especie endémica, ha sido designado una Reserva de Biosfera de la UNESCO y un Sitio de Patrimonio Mundial.[40] La ley estatal declara que la marmota Olímpica es una especie de fauna y flora protegida y no puede ser cazado.[41][2]"
+        },
+        "target": {
+            "content": "Los guardabosques y los visitantes frecuentes al Parque Nacional Olímpico habían notado que algunas poblaciones de marmotas Olímpicas habían desaparecido de sus hábitats habituales. En respuesta a esto, la Universidad de Míchigan comenzó un estudio de población en 2002, en el qué la población de marmota continuó declinando aproximadamente 10% cada año hasta 2006. La depredación de coyotes, que no había estado presente en el área antes del siglo XX, fue encontrada como la causa principal de muerte de las hembras, impidiendo la repoblación. Por 2006, los números habían caído a 1000 individualmente; esta figura aumentó alrededor de 4,000 de 2007 a 2010, cuándo las colonias estabilizadas y índices de supervivencia aumentaron.[17][20] En 2010, los voluntarios empezaron a aparecer y se dieron datos de poblaciones de marmota en el parque a través de un programa de control.[12][39] La marmota Olímpica ha sido considerada una especie de menos preocupación en el IUCN Lista Roja, desde entonces primer ser incluido en 1996.[1] Su gama es pequeña, pero 90% de su hábitat total está protegido debido a estar en Parque Nacional Olímpico.[12] El parque, el cual contiene múltiples especies, ha sido designado una Reserva de Biósfera de la UNESCO y un Sitio de Patrimonio Mundial.[40] La ley estatal declara que la Marmota Olímpica es una especie de fauna y flora protegida y no puede ser cazado.[41][2]"
+        }
+    },
+    {
+        "id": "78266/mwyg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots are readily affected by climate change because of their sensitivity to changed habitats. When meadows in Olympic National Park dried out, marmots there died or moved.[12] In the long term, meadows may be superseded by forests. Climate change will alter the timing, composition, and quality of the marmots' food. Olympic marmots can become more vulnerable to predators when daytime temperatures rise too high for foraging, causing them to forage in the cooler evenings when predators are more difficult to notice. In warm winters, there is heavier predation by coyotes. Marmots become more accessible to coyotes as lower banks of snow allow coyotes to move up higher on mountains where marmots dwell, into areas which they could not usually reach during an average cold winter. Climate change could also have positive effects; a warmer climate would result in a longer growing season in which marmots could mature more quickly and thus breed more often.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Las marmotas olímpicas son fácilmente afectadas por cambio de clima debido a su sensibilidad a cambió hábitats. Cuándo los prados en Parque Nacional Olímpico secaron fuera, las marmotas allí muertas o movió.[12] En el plazo largo, los prados pueden ser superseded por bosques. Cambio de clima alterará el cronometrando, composición, y calidad de las marmotas' comida. Las marmotas olímpicas pueden devenir más vulnerables a predators cuándo daytime las temperaturas aumentan demasiado alto para foraging, causándoles a forage en los anocheceres más frescos cuándo predators es más difícil de notar. En inviernos tibios, hay más pesados predation por coyotes. Las marmotas devienen más accesibles a coyotes como los bancos más bajos de nieve dejan coyotes para mover arriba de más altos en montañas donde las marmotas moran, a áreas qué podrían no normalmente lograr durante un invierno frío mediano. Cambio de clima también podría tener efectos positivos; un clima más tibio resultaría en un más largo creciendo la estación en qué marmotas podría madurar más deprisa y así criar más a menudo.[20]"
+        },
+        "target": {
+            "content": "Las marmotas olímpicas son fácilmente afectadas por cambio de clima debido a su sensibilidad al cambió hábitats. Cuándo los prados del Parque Nacional Olímpico se secaron fuera, las marmotas que residían allí murieron o se movieron.[12] En el plazo largo, los prados pueden ser sustituidos por bosques. El cambio de clima alterará el tiempo, composición, y calidad de la comida de las marmotas. Las marmotas olímpicas pueden volverse más vulnerables a depredadores cuándo las temperaturas diurnas aumentan demasiado alto para buscar comida, haciéndolos buscar en los anocheceres más frescos, cuándo los depredadores son más difíciles de notar. En inviernos tibios, hay más depredación por coyotes. Las marmotas se vuelven más accesibles a los coyotes ya que los bancos más bajos de nieve permiten a los coyotes moverse mas arriba y estar mas altos en las montañas donde las marmotas merodean, en áreas qué no podrían lograr normalmente durante un invierno frío mediano. El cambio de clima también podría tener efectos positivos; un clima más tibio aceleraría la maduracion de las marmotas, criando más a menudo.[20]"
+        }
+    },
+    {
+        "id": "78266/mwyw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 2009, the Olympic marmot was designated a state symbol of Washington: the official \"endemic mammal.\"[42] Governor Chris Gregoire's signing of Senate Bill 5071 was the result of a two-year effort by the fourth and fifth graders of Wedgwood Elementary School in Seattle. The students researched the marmot's habits, and answered legislators' questions to overcome initial bipartisan opposition to another state symbol.[43]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 2009, la marmota Olímpica estuvo designada un símbolo estatal de Washington: el mamífero \"endémico oficial.\"[42] Gobernador Chris Gregoire fichaje de Senado Bill 5071 era el resultado de un esfuerzo de dos años por el cuarto y quinto graders de Wedgwood Escuela Elemental en Seattle. El alumnado investigó los hábitos de la marmota, y contestó legisladores' cuestiones para vencer iniciales bipartisan oposición a otro símbolo estatal.[43]"
+        },
+        "target": {
+            "content": "En 2009, la marmota Olímpica estuvo designada un símbolo estatal de Washington: el mamífero \"endémico oficial.\"[42] El Gobernador Chris Gregoire fichaje de Senado Bill 5071 era el resultado de un esfuerzo de dos años por el cuarto y quinto grado de la Escuela Elemental Wedgwood en Seattle. El alumnado investigó los hábitos de la marmota, y contestó a los legisladores cuestiones para vencer las iniciales de dos partidos políticos en oposición a otro símbolo estatal.[43]"
+        }
+    },
+    {
+        "id": "78266/mw0A",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 5 6 7 8 Linzey, A.V.; Hammerson, G. (2008). \"Marmota olympus\". IUCN Red List of Threatened Species. Version 2011.2. International Union for Conservation of Nature. Retrieved December 4, 2011.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Edelman, Andrew J. (2003). \"Marmota olympus\" (PDF). Mammalian Species 736: 1–5. doi:10.1644/736.  ↑ Merriam, C. Hart (1898). \"Descriptions of Three New Rodents From the Olympic Mountains, Washington\". Proceedings of the Academy of Natural Sciences of Philadelphia 50: 352–353.  1 2 Thorington, R.W., Jr.; Hoffman, R.S. (2005). \"Species Marmota (Petromarmota) olympus\". In Wilson, D.E.; Reeder, D.M. Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Johns Hopkins University Press. pp. 754–818. ISBN 978-0-8018-8221-0. OCLC 62265494.  ↑ Hoffmann, Robert S.; Koeppl, James W.; Nadler, Charles F. (1979). \"The relationships of the Amphiberingian marmots (Rodentia: Sciuridae)\". Occasional papers of the Museum of Natural History, the University of Kansas (Lawrence, Kansas) (83).  ↑ Steppan, Scott J.; Akhverdyan, M. R.; Lyapunova, E. A.; Fraser, D. G.; Vorontsov, N. N.; Hoffmann, Robert S.; Braun, M. J. (1999). \"Molecular Phylogeny of the Marmots (Rodentia: Sciuridae): Tests of Evolutionary and Biogeographic Hypotheses\" (PDF). Systematic Biology 48 (4): 715–734. doi:10.1080/106351599259988. PMID 12066297.  ↑ Dalquest, Walter M. (1948). \"Mammals of Washington\" 2. University of Kansas Publications, Museum of Natural History: 63. Retrieved December 29, 2011.  ↑ Cardini, Andrea (2003). \"The Geometry of the Marmot (Rodentia: Sciuridae) Mandible: Phylogeny and Patterns of Morphological Evolution\" (PDF). Systematic Biology (Oxford Journals) 52 (2): 186–205. doi:10.1080/10635150390192807. PMID 12746146. Retrieved December 10, 2011.  1 2 \"Olympic Marmot (Marmota olympus)\". Wildlife North America. Retrieved December 5, 2011.  ↑ \"Olympic Marmot – Marmota olympus\". New Hampshire Public Television NatureWorks. 2011. Retrieved December 13, 2011.  1 2 Barash 1989, p. 7 1 2 3 4 5 6 7 8 9 10 11 \"Olympic Marmot\". National Park Service. Archived from the original on Jan 30, 2012. Retrieved December 4, 2011.  1 2 Thorington, Richard W., Jr.; Koprowski, John L.; Steele, Michael A.; Whatton, James F. (2012). Squirrels of the World. Baltimore, Maryland: JHU Press. pp. 286–287. ISBN 1-4214-0469-9.  ↑ Kays, R. W.; Wilson, Don E. (2009). Mammals of North America (2nd ed.). Princeton, New Jersey: Princeton University Press. p. 52. ISBN 978-0-691-14092-6.  ↑ Blumstein, Daniel T. (2008). \"Olympic Marmot\". UCLA Marmot Burrow. University of California, Los Angeles. Retrieved December 17, 2011.  ↑ Bryant, Andrew A.; Blood, Donald A. (1999). Vancouver Island Marmot (PDF). Wildlife at Risk in British Columbia. Victoria, British Columbia: British Columbia Ministry of Environment, Lands and Parks. ISBN 0-7726-7670-4. Retrieved December 30, 2011.  1 2 3 Griffin, Suzanne C.; Taper, Mark L.; Hoffman, Roger; Mills, L. Scott (9 May 2008). \"The case of the missing marmots: Are metapopulation dynamics or range-wide declines responsible?\". Biological Conservation (Elsevier) 141: 1293–1309. doi:10.1016/j.biocon.2008.03.001. Retrieved December 28, 2011.  ↑ Griffin 2007, pp. 24, 96, 97 ↑ Bowers, N.; Bowers, R.; Kaufman, K. (2007). Kaufman Field Guide to Mammals of North America (12th ed.). Boston: Houghton Mifflin Harcourt. ISBN 0-618-95188-1.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 \"The Olympic Marmot: Ecology and Research\" (PDF). National Park Service. Retrieved December 26, 2011.  ↑ \"Weather and climate\" (PDF). National Park Service. 2011. Retrieved December 30, 2011.  1 2 3 Barash 1989, p. 40 ↑ Witczuk, Julia; Pagacz, Stanisław; Mills, L. Scott. \"Disproportionate predation on endemic marmots by invasive coyotes\". Journal of Mammalogy 94 (3): 702–713. doi:10.1644/12-MAMM-A-199.1. Retrieved 29 March 2015.  ↑ Griffin 2007, p. 90 ↑ Griffin 2007, p. 99 1 2 3 4 Barash 1989, p. 48 1 2 3 4 Blumstein, Daniel T. \"Olympic Marmot Alarm Calling Factsheet\". University of California, Los Angeles. Retrieved December 20, 2011.  ↑ Barash 1989, p. 80 1 2 3 4 Barash, D. P. (1973). \"The social biology of the Olympic marmot\". Animal Behaviour Monographs 6: 171–249. doi:10.1016/0003-3472(73)90002-X.  ↑ Griffin, Suzanne C.; Griffin, Paul C.; Taper, Mark L.; Mills, L. Scott (2009). \"Marmots on the Move? Dispersal in a Declining Montane Mammal\". Journal of Mammalogy 90 (3): 686–695. doi:10.1644/08-MAMM-A-159R1.1. Retrieved December 28, 2011.  1 2 Barash 1989, p. 146 ↑ Barash 1989, pp. 141, 147 1 2 Barash 1989, p. 33 ↑ Barash 1989, pp. 32–33 ↑ Barash 1989, p. 256 ↑ Griffin, Suzanne Cox; Taper, Mark L.; Mills, L. Scott (2007). \"Notes and Discussion: Female Olympic Marmots (Marmota olympus) Reproduce in Consecutive Years\". American Midland Naturalist 158 (1): 221–225. doi:10.1674/0003-0031(2007)158[221:FOMMOR]2.0.CO;2. ISSN 0003-0031. Retrieved December 28, 2011.  ↑ Feldhamer, George A.; Thompason, Bruce C.; Chapman, Joseph A., eds. (2003). Wild Mammals of North America: Biology, Management, and Conservation. JHU Press. p. 195. ISBN 0-8018-7416-5.  ↑ Nagorsen, D.W.; Cannings, S.; Hammerson, G. (2008). \"Marmota vancouverensis\". IUCN Red List of Threatened Species. Version 2011.2. International Union for Conservation of Nature. Retrieved January 11, 2012.  ↑ Witczuk, Julia; Pagacz, Stanislaw; Mills, L. Scott (2008). \"Optimising methods for monitoring programs: Olympic marmots as a case study\". Wildlife Research (CSIRO Publishing) 35 (1): 788–797. doi:10.1071/WR07187. Retrieved December 28, 2011.  ↑ Farnor, Shane. \"Olympic National Park\". National Parks Conservation Association. Retrieved January 17, 2012.  ↑ \"WAC 232-12-011\". Washington State Legislature. January 14, 2008. Retrieved January 17, 2012.  ↑ \"Symbols of Washington State\". Washington State Legislature. Retrieved December 4, 2011.  ↑ Anderson, Chantal (March 13, 2009). \"Wedgwood students lobby to make Olympic marmot the state's official native mammal\". The Seattle Times. Retrieved January 11, 2012. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 5 6 7 8 Linzey, A.V.; Hammerson, G. (2008). \"Marmota olympus\". IUCN Red List of Threatened Species. Version 2011.2. International Union for Conservation of Nature. Retrieved December 4, 2011.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Edelman, Andrew J. (2003). \"Marmota olympus\" (PDF). Mammalian Species 736: 1–5. doi:10.1644/736.  ↑ Merriam, C. Hart (1898). \"Descriptions of Three New Rodents From the Olympic Mountains, Washington\". Proceedings of the Academy of Natural Sciences of Philadelphia 50: 352–353.  1 2 Thorington, R.W., Jr.; Hoffman, R.S. (2005). \"Species Marmota (Petromarmota) olympus\". In Wilson, D.E.; Reeder, D.M. Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Johns Hopkins University Press. pp. 754–818. ISBN 978-0-8018-8221-0. OCLC 62265494.  ↑ Hoffmann, Robert S.; Koeppl, James W.; Nadler, Charles F. (1979). \"The relationships of the Amphiberingian marmots (Rodentia: Sciuridae)\". Occasional papers of the Museum of Natural History, the University of Kansas (Lawrence, Kansas) (83).  ↑ Steppan, Scott J.; Akhverdyan, M. R.; Lyapunova, E. A.; Fraser, D. G.; Vorontsov, N. N.; Hoffmann, Robert S.; Braun, M. J. (1999). \"Molecular Phylogeny of the Marmots (Rodentia: Sciuridae): Tests of Evolutionary and Biogeographic Hypotheses\" (PDF). Systematic Biology 48 (4): 715–734. doi:10.1080/106351599259988. PMID 12066297.  ↑ Dalquest, Walter M. (1948). \"Mammals of Washington\" 2. University of Kansas Publications, Museum of Natural History. p. 63. Retrieved December 29, 2011.  ↑ Cardini, Andrea (2003). \"The Geometry of the Marmot (Rodentia: Sciuridae) Mandible: Phylogeny and Patterns of Morphological Evolution\" (PDF). Systematic Biology (Oxford Journals) 52 (2): 186–205. doi:10.1080/10635150390192807. PMID 12746146. Retrieved December 10, 2011.  1 2 \"Olympic Marmot (Marmota olympus)\". Wildlife North America. Retrieved December 5, 2011.  ↑ \"Olympic Marmot – Marmota olympus\". New Hampshire Public Television NatureWorks. 2011. Retrieved December 13, 2011.  1 2 Barash 1989, p. 7 1 2 3 4 5 6 7 8 9 10 11 \"Olympic Marmot\". National Park Service. Archived from the original on Jan 30, 2012. Retrieved December 4, 2011.  1 2 Thorington, Richard W., Jr.; Koprowski, John L.; Steele, Michael A.; Whatton, James F. (2012). Squirrels of the World. Baltimore, Maryland: JHU Press. pp. 286–287. ISBN 1-4214-0469-9.  ↑ Kays, R. W.; Wilson, Don E. (2009). Mammals of North America (2nd ed.). Princeton, New Jersey: Princeton University Press. p. 52. ISBN 978-0-691-14092-6.  ↑ Blumstein, Daniel T. (2008). \"Olympic Marmot\". UCLA Marmot Burrow. University of California, Los Angeles. Retrieved December 17, 2011.  ↑ Bryant, Andrew A.; Blood, Donald A. (1999). Vancouver Island Marmot (PDF). Wildlife at Risk in British Columbia. Victoria, British Columbia: British Columbia Ministry of Environment, Lands and Parks. ISBN 0-7726-7670-4. Retrieved December 30, 2011.  1 2 3 Griffin, Suzanne C.; Taper, Mark L.; Hoffman, Roger; Mills, L. Scott (9 May 2008). \"The case of the missing marmots: Are metapopulation dynamics or range-wide declines responsible?\". Biological Conservation (Elsevier) 141: 1293–1309. doi:10.1016/j.biocon.2008.03.001. Retrieved December 28, 2011.  ↑ Griffin 2007, pp. 24, 96, 97 ↑ Bowers, N.; Bowers, R.; Kaufman, K. (2007). Kaufman Field Guide to Mammals of North America (12th ed.). Boston: Houghton Mifflin Harcourt. ISBN 0-618-95188-1.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 \"The Olympic Marmot: Ecology and Research\" (PDF). National Park Service. Retrieved December 26, 2011.  ↑ \"Weather and climate\" (PDF). National Park Service. 2011. Retrieved December 30, 2011.  1 2 3 Barash 1989, p. 40 ↑ Witczuk, Julia; Pagacz, Stanisław; Mills, L. Scott. \"Disproportionate predation on endemic marmots by invasive coyotes\". Journal of Mammalogy 94 (3): 702–713. doi:10.1644/12-MAMM-A-199.1. Retrieved 29 March 2015.  ↑ Griffin 2007, p. 90 ↑ Griffin 2007, p. 99 1 2 3 4 Barash 1989, p. 48 1 2 3 4 Blumstein, Daniel T. \"Olympic Marmot Alarm Calling Factsheet\". University of California, Los Angeles. Retrieved December 20, 2011.  ↑ Barash 1989, p. 80 1 2 3 4 Barash, D. P. (1973). \"The social biology of the Olympic marmot\". Animal Behaviour Monographs 6: 171–249. doi:10.1016/0003-3472(73)90002-X.  ↑ Griffin, Suzanne C.; Griffin, Paul C.; Taper, Mark L.; Mills, L. Scott (2009). \"Marmots on the Move? Dispersal in a Declining Montane Mammal\". Journal of Mammalogy 90 (3): 686–695. doi:10.1644/08-MAMM-A-159R1.1. Retrieved December 28, 2011.  1 2 Barash 1989, p. 146 ↑ Barash 1989, pp. 141, 147 1 2 Barash 1989, p. 33 ↑ Barash 1989, pp. 32–33 ↑ Barash 1989, p. 256 ↑ Griffin, Suzanne Cox; Taper, Mark L.; Mills, L. Scott (2007). \"Notes and Discussion: Female Olympic Marmots (Marmota olympus) Reproduce in Consecutive Years\". American Midland Naturalist 158 (1): 221–225. doi:10.1674/0003-0031(2007)158[221:FOMMOR]2.0.CO;2. ISSN 0003-0031. Retrieved December 28, 2011.  ↑ Feldhamer, George A.; Thompason, Bruce C.; Chapman, Joseph A., eds. (2003). Wild Mammals of North America: Biology, Management, and Conservation. JHU Press. p. 195. ISBN 0-8018-7416-5.  ↑ Nagorsen, D.W.; Cannings, S.; Hammerson, G. (2008). \"Marmota vancouverensis\". IUCN Red List of Threatened Species. Version 2011.2. International Union for Conservation of Nature. Retrieved January 11, 2012.  ↑ Witczuk, Julia; Pagacz, Stanislaw; Mills, L. Scott (2008). \"Optimising methods for monitoring programs: Olympic marmots as a case study\". Wildlife Research (CSIRO Publishing) 35 (1): 788–797. doi:10.1071/WR07187. Retrieved December 28, 2011.  ↑ Farnor, Shane. \"Olympic National Park\". National Parks Conservation Association. Retrieved January 17, 2012.  ↑ \"WAC 232-12-011\". Washington State Legislature. January 14, 2008. Retrieved January 17, 2012.  ↑ \"Symbols of Washington State\". Washington State Legislature. Retrieved December 4, 2011.  ↑ Anderson, Chantal (March 13, 2009). \"Wedgwood students lobby to make Olympic marmot the state's official native mammal\". The Seattle Times. Retrieved January 11, 2012. "
+        }
+    },
+    {
+        "id": "78266/mwBA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot (Marmota olympus) is a rodent in the squirrel family Sciuridae; it occurs only in the U.S. state of Washington, on the middle elevations of the Olympic Peninsula. The closest relatives of this species are the hoary marmot and the Vancouver Island marmot. In 2009, it was declared the official endemic mammal of Washington."
+        },
+        "mt": null,
+        "target": {
+            "content": "La marmota Olímpica (Marmota olympus) es un roedor en la familia de las ardillas, Sciuridae; se encuentra sólo en el estado de EE.UU. de Washington, en las elevaciones medias de la Península Olímpica. Los parientes más cercanos de esta especie son la Marmota Canosa y la Marmota de Vancouver. En 2009, fue declarado el mamífero endémico oficial de Washington."
+        }
+    },
+    {
+        "id": "78266/mwDg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "This marmot is about the size of a domestic cat, typically weighing about 8 kg (18 lb) in summer. The species shows the greatest sexual dimorphism found in marmots, with adult males weighing on average 23% more than females. It can be identified by a wide head, small eyes and ears, stubby legs, and a long, bushy tail. Its sharp, rounded claws aid in digging burrows. The coat color changes with the season and with age, but an adult marmot's coat is brown all over with small whiter areas for most of the year."
+        },
+        "mt": null,
+        "target": {
+            "content": "Esta marmota tiene el peso de un gato doméstico, típicamente pesando aproximadamente 8 kg (18 lb) en verano. La especie muestra el dimorfismo sexual más grande encontrado en marmotas, con machos de adulto que pesan medianos 23% más que las hembras.Puede ser identificado por una cabeza ancha, orejas y ojos pequeños, piernas apachurradas y una larga y espesa cola. Sus afiladas y redondeadas garras lo ayudan a cavar madrigueras. El color de su pelaje cambia con la estación y con la edad, pero el pelaje de una marmota de adulto es marrón por todas partes con áreas más blancas para la mayoría del año."
+        }
+    },
+    {
+        "id": "78266/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot has a diet consisting mainly of a variety of meadow flora, including dry grasses, which it also uses as bedding in burrows. It is preyed on by various terrestrial mammals and avian raptors, but its main predator today is the coyote. The Olympic marmot is rated a species of the least concern on the IUCN Red List. It is protected by law in the Olympic National Park, which contains most of its habitat."
+        },
+        "mt": null,
+        "target": {
+            "content": "La marmota Olímpica tiene una dieta que consiste principalmente de una variedad de flora de prado, incluyendo hierbas secas, el cual también lo utiliza para encajar en madrigueras. Es la presa de varios mamíferos terrestres y aves de presa, pero su principal depredador es el coyote. La marmota Olímpica está valorada como una especie de menor preocupación en el IUCN Lista Roja. Está protegido por ley en el Parque Nacional Olímpico, el cual contiene la mayoría de su hábitat."
+        }
+    },
+    {
+        "id": "78266/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The burrows of this marmot are made in colonies, which are found in various mountain locations and differ in size. A colony may contain as few as one marmot family or multiple families with up to 40 marmots. Olympic marmots are very sociable animals which often engage in play fighting and vocalize four different whistles to communicate. During hibernation beginning in September, they are in a deep sleep and do not eat, causing them to lose half their body mass. Adults emerge in May and their young in June. Female marmots reach sexual maturity at three years of age, and produce litters of 1–6 every other mating season."
+        },
+        "mt": null,
+        "target": {
+            "content": "Las madrigueras de esta marmota están hechas en colonias, los cuales están encontrados en varias ubicaciones de montaña y difieren en medida. Una colonia puede contener pocas marmotas, una familia de marmota o familias múltiples con hasta 40 marmotas. Las marmotas olímpicas son animales muy sociables que a menudo juega, lucha y cuenta con cuatro pitidos diferentes para comunicarse. Durante principio de su hibernación en septiembre, caen en un sueño profundo y no comen, causándole una perdida a medias de su masa corporal. Los adultos emergen en mayo y los jovenes en junio. Las marmotas hembra logran madurez sexual en tres años de edad, y camadas de 1 a 6 crías por cada estación de apareamiento."
+        }
+    },
+    {
+        "id": "78266/mwHg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Taxonomy"
+        },
+        "mt": null,
+        "target": {
+            "content": "Taxonomía"
+        }
+    },
+    {
+        "id": "78266/mwHw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Clinton Hart Merriam, the first person to describe the Olympic marmot"
+        },
+        "mt": null,
+        "target": {
+            "content": "Clinton Hart Merriam, la primera persona en describir la marmota Olímpica"
+        }
+    },
+    {
+        "id": "78266/mwJA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "American zoologist and ethnographer Clinton Hart Merriam first formally described the Olympic marmot in 1898, as Arctomys olympus, from a specimen he and Vernon Orlando Bailey collected on the Sol Duc River.[2][3] The species name olympus (Olympic in Greek) was given because this species is native to the Olympic Peninsula.[2] The species now is classified with all other marmots in the genus Marmota. Zoologist R. L. Rausch classified the Olympic marmot as the subspecies olympus of Marmota marmota (he included all North American marmots in this species, which now only includes the Eurasian Alpine marmot) in 1953, but it has usually been treated as a distinct species, a classification supported by taxonomic reviews starting with that of zoologist Robert S. Hoffmann and colleagues in 1979.[4][5]"
+        },
+        "mt": null,
+        "target": {
+            "content": "El zoólogo americano y etnógrafo Clinton Hart Merriam fue el primero que describió a la marmota Olímpica en 1898, cuando él y Vernon Orlando Bailey recogieron en la Sol Duc River un espécimen de Arctomys olympus.[2][3] El nombre de especie olympus (Olímpico en griego) estuvo dado porque esta especie es nativa de la Península Olímpica.[2] La especie ahora está clasificada con todas otras marmotas en el genus Marmota. El zoólogo R. L. Rausch clasificó a la marmota Olímpica como la subespecie olympus de Marmota marmota ( incluía en esta todas las marmotas norteamericanas en esta especie, el cual ahora sólo incluye la marmota Alpina de Eurasia) en 1953, pero normalmente ha sido tratado como especie distinta, una clasificación apoyada por Linnaean Taxonomic según las revisiones que empezaron el zoólogo Robert S. Hoffmann y sus colegas en 1979.[4][5]"
+        }
+    },
+    {
+        "id": "78266/mwOA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Within Marmota, the Olympic marmot is grouped with species such as the hoary marmot (M. caligata) in the subgenus Petromarmota.[4] Among this grouping, mitochondrial DNA analyses suggest that the Olympic marmot could be the most basal species.[6] The Olympic marmot is thought to have originated during the last glacial period as an isolated relict population of the hoary marmot in the Pleistocene ice-free refugia.[1][7] The Olympic marmot deviates from the typical Petromarmota marmots in the shape and large size of its mandible (jawbone), in differences of the dorsal (back) region, and having 40 chromosomes instead of 42, all of which are characteristics that resemble the subgenus Marmota. Some of the differences of the Olympic marmot's jawbone from the typical Petramarmota are also evident in the Vancouver Island marmot (M. vancouverensis), which evolved separately, but also occurs in a restricted range with a small population.[8]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Dentro de Marmota, la marmota Olímpica está agrupada con especies como La Marmota Canosa (M. caligata) En el subgenus Petromarmota.[4] Entre esta agrupación, análisis de ADN mitocondrial sugieren que la marmota Olímpica podría ser la especie más basal .[6] La marmota Olímpica está pensada para tener originado durante el último periodo glacial como un aislado relicto de la población de la Marmota Canosa en el hielo del pleistoceno-libre.[1][7] La marmota Olímpica se desvía del tipo de Marmotas Petromarmota en la forma y medida grande de su mandible (maxilar), en diferencias de la región dorsal (posterior), y teniendo 40 cromosomas en vez de 42, todo de los cuales son características que se parece al subgenus Marmota. Algunos de las diferencias del maxilar de la marmota Olímpica del típico Petramarmota es también evidente en la Marmota de Vancouver (M. vancouverensis), el cual evolucionó por separado, pero también ocurre en una gama restringida con una población pequeña.[8]"
+        }
+    },
+    {
+        "id": "78266/mwTA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Description"
+        },
+        "mt": null,
+        "target": {
+            "content": "Descripción"
+        }
+    },
+    {
+        "id": "78266/mwTQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The lighter fur patches characteristic of the Olympic marmot in summertime"
+        },
+        "mt": null,
+        "target": {
+            "content": "La característica de pedazos de pelo más claro de la marmota Olímpica en verano"
+        }
+    },
+    {
+        "id": "78266/mwUQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot's head is wide with small eyes and ears; the body is stocky with stubby legs and sharp, rounded claws that facilitate digging;[9][10] the tail is bushy and ranges from 18 to 24 cm (7.1 to 9.4 in) long.[2] The Olympic marmot is about the size of a domestic cat; adults weigh from 3.1 to 11 kg (6.8 to 24.3 lb) and are from 67 to 75 cm (26 to 30 in) in length, with the average being 71 cm (28 in). It is the largest marmot, about 7% longer than the hoary and Vancouver Island marmots. This species has the most pronounced sexual dimorphism found in marmots, with adult males weighing on average 9.3 kg (21 lb) and adult females weighing 7.1 kg (16 lb).[11]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La cabeza de la marmota Olímpica es ancha con orejas y ojos pequeños; el cuerpo es rechoncho con piernas apachurradas y  tiene unas garras afiladas  redondeadas que le facilita cavar; la cola es espesa y mide de 18 a 24 cm (7.1 a 9.4) de largo.[9][10][2] La marmota Olímpica es del peso de un gato doméstico; los adultos pesan de 3.1 a 11 kg (6.8 a 24.3 lb) y mide de 67 a 75 cm (26 a 30 ), al ser mediano 71 cm (28 lb). Es la marmota más grande, aproximadamente 7% más largo que la marmota canosa y la marmota de Vancouver. Esta especie tiene el dimorfismo sexual más pronunciado encontrado en marmotas, con machos de adulto que pesan en medianos 9.3 kg (21 lb) y hembras de adulto que pesan 7.1 kg (16 lb).[11]"
+        }
+    },
+    {
+        "id": "78266/mwWg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot has a double-layered coat consisting of soft thick underfur, for warmth, and coarser outer hairs. Infant marmots' fur is dark gray in color; this changes in the yearling period to grayish brown with lighter patches. The adult coat is brown on the body with some smaller white or pale brown patches for most of the year, becoming darker overall as the year progresses. The first molt of the year occurs in June, commencing with two black patches of fur forming on the back of the shoulders.[11] This black coloration then spreads to the rest of the body, and by the fall the coat is almost black. A second molt is thought to occur during hibernation,[2] and upon emergence from hibernation in the spring Olympic marmots may be tan or yellowish.[12] The Olympic marmot's muzzle is almost always white, with a white band in front of the eyes.[13][14]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La marmota Olímpica tiene un doble capa de pelo que consta de una blanda y gruesa pelusa para el calor y cabellos exteriores más toscos. En las marmotas de niño la piel es color gris oscura; estos cambios en el segundo año de vida a gris amarronado con trozos más ligeros. El pelaje de los adultos es marrón en el cuerpo con algún pedazo blanco más pequeño o partes marrones pálidas para la mayoría del año, deviniendo más oscuro en general, como los progresos de año. La primera muda del año ocurre en junio, comenzando con dos remiendos negros de conformación de piel detrás de los hombros.[11] Esta coloración negra se extiende al resto del cuerpo, y por la caída el pelo es casi negro. Una segunda muda está pensada para ocurrir durante hibernación, y a la aparición de hibernación en la primavera las marmotas Olímpicas pueden ser bronceados  o amarillentos.[2][12] El morro de la marmota Olímpica es casi siempre blanco, con una banda blanca delante de los ojos.[13][14]"
+        }
+    },
+    {
+        "id": "78266/mwXQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot can be readily distinguished from the hoary marmot, with which it shares almost every other physical trait, by the lack of contrasting black feet and a black spot on the head.[15] The Vancouver Island marmot has a similar coat color, chocolate brown with white patches.[16]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La marmota Olímpica puede ser fácilmente distinguida de la Marmota Canosa, con que comparte varios rasgos físicos, por la carencia de contrastar pies negros y un sitio negro en la cabeza.[15] La Marmota de Vancouver tiene un color de pelo similar al chocolate marrón con partes blancas.[16]"
+        }
+    },
+    {
+        "id": "78266/mwXg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Distribution and habitat"
+        },
+        "mt": null,
+        "target": {
+            "content": "Distribución y hábitat"
+        }
+    },
+    {
+        "id": "78266/mwXw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Typical Olympic marmot habitat: a slope on Hurricane Ridge in Olympic National Park"
+        },
+        "mt": null,
+        "target": {
+            "content": "Típico Hábitat de la Marmota Olímpica: una pendiente en el Huracán Ridge en Parque Nacional Olímpico"
+        }
+    },
+    {
+        "id": "78266/mwYw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots are native to the Olympic Mountains in the Olympic Peninsula of Washington state.[1] About 90% of Olympic marmots' total habitat is located in Olympic National Park, where they are often sighted, especially on Hurricane Ridge.[17] Marmots are in decline in some areas of the park due to the encroachment of trees into meadows as well as predation by coyotes, and they are seldom seen in the wetter southwestern part.[18]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Las marmotas olímpicas son nativas de las Montañas Olímpicas en la Península Olímpica del estado de Washington.[1] Aproximadamente 90% de marmotas Olímpicas tienen su hábitat localizado en el Parque Nacional Olímpico, donde son a menudo visibles, especialmente encima Huracán Ridge.[17] Las marmotas agonizan en algunas áreas del parque debido a la invasión de árboles a prados así como depredación por coyotes, y son raramente vistos en el suroeste.[18]"
+        }
+    },
+    {
+        "id": "78266/mwaQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Within the park, Olympic marmots inhabit lush sub-alpine and alpine meadows, fields, and montane scree slopes.[19] They live in colonies spread out in various locations in the mountains and containing the burrows of differing numbers of marmot families. Some meadows can contain as few animals as one marmot family, and some can have multiple families adding up to 40 marmots in total. There is a higher risk of inbreeding and death from random events in meadows with fewer marmots, making migration essential to the survival of the species.[20] Burrows can be found at various elevations, ranging from 920 m (3,020 ft) to 1,990 m (6,530 ft); they are most often found in the range of 1,500 m (4,900 ft) to 1,750 m (5,740 ft).[1] Burrows are more frequently located on south-facing slopes, which generally receive more precipitation, 75 cm (30 in) per year (mostly snow), and thus have more available flora.[1][21] The home range of a family of marmots usually covers from half an acre to five acres (0.2–2 hectares).[12] The Olympic marmot is well-adapted to its generally cold natural habitat, where there is snowfall almost every month of the year on the mountain slopes and barren grasslands.[20]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Dentro del parque, las marmotas Olímpicas habitan extravagantes sub-prados alpinos, campos y montañas pendientes.[19] Viven en las colonias extendidas, en varias ubicaciones en las montañas y contenidas en las madrigueras. El número de familias de Marmota difiere. Algunos prados pueden contener pocas marmotas, y algunos pueden tener familias múltiples que incluyan hasta 40 marmotas totales. Hay un riesgo más alto de endogamia y muerte de acontecimientos aleatorios en prados con menos marmotas, haciendo la migración esencial a la supervivencia de la especie.[20] Las madrigueras pueden ser encontradas en varias elevaciones, variando de 920 m (3,020 ft) a 1,990 m (6,530 ft); son más a menudo encontradas en la gama de 1,500 m (4,900 ft) a 1,750 m (5,740 ft).[1] Las madrigueras están más frecuentemente orientadas al sur, frente a pendientes, el cual generalmente recibe más precipitación, 75 cm (30 en) por año (mayoritariamente nieve), y así tener flora más disponible.[1][21] La gama del hogar de una familia de marmotas normalmente cubre de uno a cinco acres (0.2–2 hectáreas).[12] La marmota Olímpica está bien adaptada a su hábitat natural generalmente frío, donde hay nevada casi cada mes del año en las pendientes de montaña y praderas estériles.[20]"
+        }
+    },
+    {
+        "id": "78266/mwdw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Ecology"
+        },
+        "mt": null,
+        "target": {
+            "content": "Ecología"
+        }
+    },
+    {
+        "id": "78266/mweA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Feeding"
+        },
+        "mt": null,
+        "target": {
+            "content": "Alimentación"
+        }
+    },
+    {
+        "id": "78266/mweQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Lupine, a major part of the Olympic marmot's diet, near Hurricane Ridge"
+        },
+        "mt": null,
+        "target": {
+            "content": "Lupinos, una parte importante de la dieta de la marmota Olímpica, cercano al Huracán Ridge"
+        }
+    },
+    {
+        "id": "78266/mwfQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Olympic marmots eat meadow flora such as avalanche and glacier lilies, heather blossoms, sub-alpine lupine, mountain buckwheat, harebells, sedges, and mosses.[2][20] They prefer green, tender, flowering plants over other sources of food, but roots are a large part of their diets in the early spring when other plants have not yet appeared.[22] During May and June, they may resort to gnawing on trees for food.[12] They also occasionally eat fruits and insects.[13] Their water requirements are met from the juice in the vegetation they eat and dew on the plants' surfaces.[22]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Las marmotas olímpicas comen flora de prado como alud y lirios de glaciar, flores de brezo, lupinos subalpinos, alforfón de montaña, campanulas, ciperáceas y musgos.[2][20] Para las marmotas, las plantas que florecieron verdes y tiernas son mejores que otras fuentes de alimento, pero las raíces son una gran parte de sus dietas en la primavera temprana, cuando otras plantas aún no han aparecido. Durante mayo y junio, pueden recurrir a roer árboles para alimentarse. Ocasionalmente pueden comer frutas e insectos. Sus requisitos de agua están conocidos del zumo en la vegetación y comen el rocío de la superficie de las plantas."
+        }
+    },
+    {
+        "id": "78266/mwgw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "When snowfall covers vegetation, marmots have a more carnivorous diet, consuming carrion encountered while digging for roots and possibly killing late hibernating chipmunks.[22] At this time, they also obtain water from melted snow.[2] Hibernating Olympic marmots do not keep food in their burrows; instead, they gain fat before hibernating and can double their body weight to survive eight months without eating.[1][12]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Al cubrirse de nevada la vegetación, las marmotas tienen una dieta más carnívora, consumiendo la carroña encontrada mientras cavan para buscar raíces y posiblemente matando ardillas que estén hibernando.[22] En este tiempo, también obtienen agua de nieve fundida.[2] Al hibernar, las marmotas olímpicas no mantienen comida en sus madrigueras; en cambio, obtienen grasa antes de la hibernación y pueden plegar su peso corporal para sobrevivir ocho meses sin comer.[1][12]"
+        }
+    },
+    {
+        "id": "78266/mwhQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Predation"
+        },
+        "mt": null,
+        "target": {
+            "content": "Depredación"
+        }
+    },
+    {
+        "id": "78266/mwhg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The coyote is the Olympic marmot's main predator."
+        },
+        "mt": null,
+        "target": {
+            "content": "El coyote es el principal depredador de la Marmota Olímpica"
+        }
+    },
+    {
+        "id": "78266/mwig",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Olympic marmot's predators are mostly terrestrial mammals such as coyotes, cougars, and bobcats;[23] however, it is also preyed on by avian raptors such as golden eagles.[24] Black bears probably rarely prey on marmots, as evidenced by the fact that their presence close to colonies generally does not generate alarm calls[25] unless the bear advances to within 6 m (20 ft) of the colony.[26] The coyote is the primary predator and studies have shown that marmots make up approximately 20% of coyotes' diet during the summer months. During a study in the Olympic Mountains, 36 coyote droppings were collected and two of them contained marmot hairs.[26]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Los depredadores de la Marmota Olímpica son mayoritariamente mamíferos terrestres como coyotes, pumas, y linces; aun así, también es asechado encima por aves rapaces como águilas doradas.[23][24] El oso negro raramente ataca marmotas, donde se muestra por el hecho de que su presencia cierra a las colonias. Generalmente no genera llamadas de alarma a no ser que el oso avance hasta dentro 6 m (20 ft) a la colonia.[25][26] El coyote es el depredador primario y los estudios han mostrado que las marmotas conforman aproximadamente 20% de la dieta de los coyotes durante los meses de verano. Durante un estudio en las Montañas Olímpicas, 36 coyotes caídos fueron recogidos y dos de ellos contenían cabellos de marmota.[26]"
+        }
+    },
+    {
+        "id": "78266/mwkQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In common with all other marmots, Olympic marmots use the trill as an alarm call to alert other marmots to predators. Continuing alarm calls indicate that a predator is close, and thus increase vigilance in the marmots; a single alarm call results in the marmots curiously looking around for the predator. Sightings of land predators, coyotes in particular, receive more alarm calls than aerial predators.[27] Fishers are viewed as predators by Olympic marmots, eliciting alarm calls when just passing by a colony. It has also been observed that these trills can be used as a mechanism to trick and frustrate predators.[26] An additional behavior that takes place when a marmot becomes nervous or bothered by a predator is that it retracts its top lip to show its upper incisors. It is almost like a greeting for predators.[28]"
+        },
+        "mt": null,
+        "target": {
+            "content": "En común con todas otras marmotas, las marmotas Olímpicas utilizan el trino como una llamada de alarma para alertar otras marmotas de la presencia de depredadores. Cuando las llamadas de alarma continúan significa que el depredador está cerca, y eso aumenta la alerta en las marmotas; unos resultados de llamada de alarma dados solo en las marmotas que curiosamente miraban alrededor para ver al depredador. Los avistamientos de depredadores terrestres, coyotes en particular, recibe más llamadas de alarma que los aéreos.[27] La marta pescadora está visto como depredadores por las Marmotas Olímpicas, provocando llamadas de alarma, pasando justo de largo una colonia. Lo que también ha sido observado es que estos trinos pueden ser utilizados como mecanismo para burlar y frustrar depredadores.[26] Un comportamiento adicional que tiene lugar cuando una marmota se ve nerviosa o molestada por un depredador es en el que él retrae su labio superior para mostrar su insición superior. Es casi como un saludo para depredadores.[28]"
+        }
+    },
+    {
+        "id": "78266/mwlA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "It was reported during a study by David P. Barash that when hunting Olympic marmots as prey, coyotes and cougars approach the marmot within about 15 m (49 ft), advance to an alpine fir close to the victim, and then chase the marmot downhill to its colony. If the marmot is able to flee into a burrow and sound an alarm call, other marmots will scurry to their burrows for safety. But the predator does not stop here; it is usually persistent and will scratch outside the entrance to try to dig out its prey. Minutes later, when a marmot from a nearby burrow peers out to see if the predator has gone, it will sometimes sound another alarm call, which summons the predator to its burrow. It dives back underground and the predator usually remains frustrated as these alarm calls continue and force it to run around from burrow to burrow, getting tired and aggravated, and finally giving up.[26]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Fue informado durante un estudio por David P. Barash que cuando se cazan marmotas Olímpicas como presa, los coyotes y los pumas se acercan a la marmota dentro aproximadamente 15 m (49 ft), el avance a un abeto alpino cierra a la víctima, y entonces persiguen a la marmota cuesta abajo a su colonia. Si la marmota es capaz de huir a una madriguera y producir una llamada de alarma, otras marmotas se escabullen a sus madrigueras por su seguridad. Pero el depredador no para aquí; es normalmente persistente y estará fuera de la entrada para probar cazar fuera a su presa. Minutos más tarde, cuándo una marmota de una madriguera cercana sale fuera para ver si el depredador ha ido, a veces suena otra llamada de alarma, el cual convoca al depredador a su madriguera. Se inmerse hacia atrás bajo tierra y el depredador normalmente queda frustrado por como estas llamadas de alarma continúan y lo fuerzan a correr alrededor de madriguera a madriguera, cansándose y agravado, y finalmente dejándolo."
+        }
+    },
+    {
+        "id": "78266/mwzw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "References"
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "79717/mwBw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "György Sándor (Hungarian pronunciation: [ˈɟørɟ ˈʃaːndor]; 21 September 1912 – 9 December 2005) was a Hungarian pianist and writer."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "György Sándor (Pronunciación húngara: [ˈɟørɟ ˈʃunːndor]; 21 septiembre 1912 @– 9 diciembre 2005) era un húngaro pianist y escritor."
+        },
+        "target": {
+            "content": "György Sándor (Pronunciación húngara: [ˈɟørɟ ˈʃunːndor] (21 de septiembre de 1912 – 9 de diciembre 2005) fue un pianista húngaro y escritor."
+        }
+    },
+    {
+        "id": "79717/mwDg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Early years"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Años tempranos"
+        },
+        "target": {
+            "content": "Juventud"
+        }
+    },
+    {
+        "id": "79717/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Sándor was born in Budapest. He studied at the Liszt Academy in Budapest under Béla Bartók and Zoltán Kodály, and debuted as a performer in 1930. He toured as a concert pianist through the 1930s, making his Carnegie Hall debut in 1939. He became an American citizen and served in the Army Signal Corps and the Intelligence and Special Services from 1942 to 1944."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Sándor Nació en Budapest. Estudie en el Liszt Academia en Budapest bajo Béla Bartók y Zoltán Kodály, y debutado como intérprete en 1930. Visite como concierto pianist a través del @1930s, haciendo su Carnegie debut de Sala en 1939. Devenga un ciudadano americano y servido en el Cuerpo de Señal del Ejército y la Inteligencia y Servicios Especiales de 1942 a 1944."
+        },
+        "target": {
+            "content": "Sándor nació en Budapest. Estudió en la Academia de Música Ferenc Liszt en Budapest con Béla Bartók y Zoltán Kodály, y debutó como intérprete en 1930. Comenzó sus conciertos como concertista desde esa década, haciendo su debut en el Carnegie Hall de Nueva York en 1939. Al poco tiempo se convirtió en ciudadano americano, sirviendo al Army Signal Corps y a los Servicios Especiales y de Inteligencia y Servicios de 1942 a 1944 ."
+        }
+    },
+    {
+        "id": "79717/mwGA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Friends with Bartók"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Amigos con Bartók"
+        },
+        "target": {
+            "content": "Amistad con Bartók"
+        }
+    },
+    {
+        "id": "79717/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Sándor remained friends with Bartók throughout his life, and was one of only ten people who attended Bartók's funeral in 1945. Sándor played the premiere of Bartók's Piano Concerto No. 3 on 8 February 1946 with the Philadelphia Orchestra conducted by Eugene Ormandy in Philadelphia, Pennsylvania. The performance was repeated on 26 February 1946 by the same ensemble in Carnegie Hall, New York, and recorded for Columbia Masterworks in April 1946."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Sándor Quedó amigos con Bartók durante su vida, y era uno de único diez personas quién atendió Bartók funeral en 1945. Sándor Jugó el premiere de Bartók Núm. de Concierto del Piano 3 el 8 de febrero de 1946 con la Orquesta de Filadelfia conducida por Eugene Ormandy en Filadelfia, Pensilvania. El rendimiento estuvo repetido el 26 de febrero de 1946 por el mismo ensemble en Carnegie Sala, Nueva York, y grabado para Columbia Masterworks en abril 1946."
+        },
+        "target": {
+            "content": "Sándor continuó siendo amigo de Bartók durante toda su vida, y fue uno de las únicas diez personas que asistieron a su  funeral en 1945. Sándor interpretó la premier del Concierto para piano n.º 3 de Bartók el 8 de febrero de 1946 con la Orquesta de Filadelfia conducida por Eugene Ormandy en Filadelfia, Pensilvania. El concierto fue repetido el 26 de febrero de 1946 con la misma orquesta en el Carnegie Hall, Nueva York, y grabado para Columbia Masterworks en abril de 1946."
+        }
+    },
+    {
+        "id": "79717/mwIA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Following the war, he returned to the concert stage. His technique was described as \"Lisztian\" and his repertoire universal, although later in his career his playing of Bartók was much in demand. Initially he recorded numerous piano works by Bach, Beethoven, Brahms, Chopin, Liszt, Rachmaninov, Schumann and others for Columbia Masterworks. Then with Vox, he recorded the complete works for solo piano of Zoltán Kodály and of Sergei Prokofiev; and the complete piano works of Béla Bartók; for the latter he won the Grand Prix du Disque of the Charles Cros Academy in 1965."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Siguiendo la guerra, regrese a la etapa de concierto. Su técnica estuvo descrita como \"Lisztian\" y su repertorio universal, a pesar de que más tarde en su carrera su jugando de Bartók era mucho en demanda. Inicialmente grabe trabajos de piano numeroso por Bach, Beethoven, Brahms, Chopin, Liszt, Rachmaninov, Schumann y otros para Columbia Masterworks. Entonces con Vox, grabe los trabajos completos para piano de solo de Zoltán Kodály y de Sergei Prokofiev; y los trabajos de piano completos de Béla Bartók; para el último gane el Magnífico Prix du Disque del Charles Cros Academia en 1965."
+        },
+        "target": {
+            "content": "Después de la guerra, regresó a los escenarios de concierto. Su técnica fue descrita como \"Lisztiana\" y su repertorio universal, a pesar de que más tarde en su carrera su interpretación de Bartók fue muy demandada. Inicialmente grabó numerosas obras de piano de Bach, Beethoven, Brahms, Chopin, Liszt, Rachmaninov, Schumann y otros para Columbia Masterworks. Entonces con Vox, grabó las obras completas para piano solo de Zoltán Kodály y de Sergei Prokofiev; y las obras completas para piano de Béla Bartók; para lo que ganó el Grand Prix du Disque de la Academia Charles Cros en 1965."
+        }
+    },
+    {
+        "id": "79717/mwJA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Family"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Familiar"
+        },
+        "target": {
+            "content": "Familia"
+        }
+    },
+    {
+        "id": "79717/mwJQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1950 he married Christa, née Satzger de Bálványos, the divorced wife of Archduke Karl Pius of Austria. They had one son, Michael, and were divorced."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1950 case Christa, née Satzger de Bálványos, la mujer divorciada de Archiduque Karl Pius de Austria. Tuvieron un hijo, Michael, y estuvo divorciado."
+        },
+        "target": {
+            "content": "En 1950 se casó con Christa, née Satzger de Bálványos, la mujer divorciada del Archiduque Carlos Pío de Austria. Tuvieron un hijo, Michael, y después se divorciaron."
+        }
+    },
+    {
+        "id": "79717/mwJw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Teaching"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Enseñando"
+        },
+        "target": {
+            "content": "Enseñanza"
+        }
+    },
+    {
+        "id": "79717/mwKA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Sándor taught at the Southern Methodist University, then at the University of Michigan from 1961 to 1981, and from 1982, at the Juilliard School. He continued to teach and perform into his nineties. His pupils included Hélène Grimaud, György Sebok, Aleksandra Romanić, Christina Kiss, Barbara Nissman, Ian Pace, Ljuba Moiz, Jungwon Jin, fortepiano performer Malcolm Bilson and composers Ezequiel Viñao and Donald Bohlen."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Sándor Enseñó en el Del sur Methodist Universidad, entonces en la Universidad de Míchigan de 1961 a 1981, y de 1982, en el Juilliard Escuela. Continúe enseñar y actuar a su nineties. Sus alumnos Hélène incluida Grimaud, György Sebok, Aleksandra Romanić, Christina Beso, Barbara Nissman, Ian Paso, Ljuba Moiz, Jungwon Jin, fortepiano intérprete Malcolm Bilson y compositores Ezequiel Viñao y Donald Bohlen."
+        },
+        "target": {
+            "content": "Sándor Enseñó en la Universidad Metodista del Sur, entonces en la Universidad de Míchigan de 1961 a 1981, y desde 1982, en la Escuela Juilliard. Continuó enseñando e interpretando hasta el final de su vida. Sus alumnos incluyeron a Hélène Grimaud, György Sebok, Aleksandra Romanić, Christina Kiss, Barbara Nissman, Ian Pace, Ljuba Moiz, Jungwon Jin, al intérprete de fortepiano Malcolm Bilson y a los compositores Ezequiel Viñao y Donald Bohlen."
+        }
+    },
+    {
+        "id": "79717/mwNw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Honorary degree"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Honorary Grado"
+        },
+        "target": {
+            "content": "Grado honorario"
+        }
+    },
+    {
+        "id": "79717/mwOA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1996 New York University awarded Sándor an honorary doctorate."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1996 Universidad de Nueva York otorgada Sándor un honorary doctorado."
+        },
+        "target": {
+            "content": "En 1996 la Universidad de Nueva York le otorgó a Sándor doctorado honoris causa."
+        }
+    },
+    {
+        "id": "79717/mwOg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Manuscripts and published works"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Manuscritos y publicó trabajos"
+        },
+        "target": {
+            "content": "Manuscritos y obras publicadas"
+        }
+    },
+    {
+        "id": "79717/mwOw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "He wrote a book \"On Piano Playing: Motion, Sound, Expression\", published by Schirmer Books, which is one of the most rational and clear accounts of piano technique. \"Today more than ever, audiences mistake the excessively tense muscular activities of the performer for an intense musical experience, and all too often we see the public impressed and awed by convulsive distortions and spastic gyrations.\" Writing in The Guardian newspaper, Leo Black commented \"musical performance desperately needs the sense of rightness, completeness and economy that pervaded his playing and thinking\"."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Escriba un libro \"Encima el piano que Juega: Movimiento, Sonido, Expresión\", publicado por Schirmer Libros, el cual es uno de las cuentas más racionales y claras de técnica de piano. \"Hoy más que nunca, equivocación de audiencias el excesivamente tensar actividades musculares del intérprete para una experiencia musical intensa, y todo demasiado a menudo vemos el públicos impresionados y awed por convulsive distorsiones y spastic gyrations.\" Escribiendo en El diario de Guardián, Leo Black comentó \"el rendimiento musical desesperadamente necesita el sentido de rightness, completeness y economía que pervaded su jugando y pensamiento\"."
+        },
+        "target": {
+            "content": "Escribió un libro titulado \"On Piano Playing: Motion, Sound, Expression\" (Sobre la interpretación pianística: movimiento, sonido, expresión), publicado por Schirmer, el cual es uno de los más racionales y claros sobre la técnica del piano. “Hoy más que nunca, el público confunde la actividad muscular excesivamente tensa del intérprete con una intensa experiencia musical, y con demasiada frecuencia vemos impresionada y asombrada a la audiencia por las distorsiones convulsivas y giros espásticos.” Escribiendo en The Guardian, Leo Black comentó “la interpretación musical desesperadamente necesita desesperadamente el sentido de rectitud, la integridad y la economía que impregnó su forma de tocar y pensamiento”."
+        }
+    },
+    {
+        "id": "79717/mwPg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "\"On Piano Playing\" details approaches to many problems that pianists face. Sándor emphasized the use of gravity, an endless source of energy, during playing. Ideas on memorizing are also addressed. Importantly,\"On Piano Playing\" corrects these common misconceptions: pianists only play with their fingers and only a few have the physical ability to play the piano."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "\"Encima el piano que Juega\" los detalles se acerca a muchos problemas que pianists cara. Sándor Enfatizó el uso de gravedad, una fuente inacabable de energía, durante jugar. Ideas encima memorizando es también dirigió. Importantly,\"Encima el piano que Juega\" corrige estos errores comunes: pianists juego único con sus dedos y sólo unos cuantos tener la capacidad física de jugar el piano."
+        },
+        "target": {
+            "content": "En \"On Playing Piano\" se plasman con detalle muchos problemas que los pianistas enfrentan. Sándor enfatizó el uso de gravedad, una fuente inagotable de energía, durante la interpretación. Ideas sobre la memorización también están consideradas. Es importante destacar que en el libro corrige este error común: los pianistas sólo interpretan con sus dedos y sólo unos pocos tienen la capacidad física para tocar el piano."
+        }
+    },
+    {
+        "id": "79717/mwQA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A manuscript of a book on his mentor Béla Bartók and his music remains unpublished."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Un manuscrito de un libro en su mentor Béla Bartók y su música queda inédita."
+        },
+        "target": {
+            "content": "Un manuscrito de un libro sobre su mentor Béla Bartók y su música permanece sin publicar."
+        }
+    },
+    {
+        "id": "79717/mwQQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "He produced several piano transcriptions, including a fantastically difficult arrangement of The Sorcerer's Apprentice by Dukas (pub. 1950), and the first two movements (Tempo di Ciaccona and Fuga) of Bartók's Sonata for Solo Violin (first perf. New York 1975; pub. 1977)."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Produzca varias transcripciones de piano, incluyendo un arreglo fantásticamente difícil del Sorcerer Aprendiz por Dukas (pub. 1950), y los primeros dos movimientos (Tempo di Ciaccona y Fuga) de Bartók Sonata para Violín de Solo (primero perf. Nueva York 1975; pub. 1977)."
+        },
+        "target": {
+            "content": "Produjo varias transcripciones para piano, incluyendo un arreglo muy complicado de tocar de El Aprendiz de Brujo de Dukas (1950), y los primeros dos movimientos (Tempo di Ciaccona y Fuga) de la Sonata para violín solo de Bartók, la cual fue interpretada por primera vez en Nueva York en 1975, y publicada en 1977."
+        }
+    },
+    {
+        "id": "79717/mwSA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "He also edited and published Bartók's own unpublished piano arrangement (made in January 1944) of the Concerto for Orchestra, at the request of the composer's son in 1985. It was published in 2001, and has been recorded by Sándor. Sándor wrote in his introduction to the edition: \"It was agreed that the primary goal would not be to make the piano score easier to play, but to make it playable at all. Furthermore, since Bartók's piano score contains only the first ending of the last movement, my role was to provide a reading for the second (alternative) ending. Bartók wrote the second ending to avoid the rather abrupt conclusion of this grandiose work, and this is now accepted as the standard version of the last movement.\" He also edited the works for solo piano of Sergei Prokofiev."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Él también editado y publicó Bartók arreglo de piano inédito propio (hecho en enero 1944) del Concierto para Orquesta, en la petición del hijo del compositor en 1985. Esté publicado en 2001, y ha sido grabado por Sándor. Sándor Escribió en su introducción a la edición: \" esté estado de acuerdo que el objetivo primario no sería para hacer la puntuación de piano más fácil de jugar, pero para hacerlo playable en absoluto. Además, desde Bartók puntuación de piano contiene sólo el primer final del último movimiento, mi función era para proporcionar una lectura para el segundo (alternativo) final. Bartók Escribió el segundo final para evitar la conclusión bastante repentina de este grandiose trabajo, y esto es ahora aceptado como la versión estándar del último movimiento.\" También edite los trabajos para piano de solo de Sergei Prokofiev."
+        },
+        "target": {
+            "content": "Él también editó y publicó el arreglo para piano del Concierto para Orquesta que Bartók había realizado en enero de 1944, y que hasta entonces había permanecido inédito; esto a petición del hijo del compositor en 1985. Fue publicado en 2001, y fue grabado por Sándor. Sándor escribió en la introducción a la edición: “Fue acordado que el principal objetivo no sería hacer la partitura para piano fácil de tocar, pero hacerla interpretable del todo. Además, ya que la partitura de Bartók contiene sólo el primer final del último movimiento, mi función fue proporcionar una lectura para el segundo (alternativo) final. Bartók escribió el segundo final para evitar la conclusión bastante repentina de esta grandiosa obra, y esta es ahora aceptada como la versión estándar del último movimiento.” También editó las obras para piano solo de Sergei Prokofiev."
+        }
+    },
+    {
+        "id": "79717/mwSw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "He died in New York of heart failure at age 93."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Muera en Nueva York de fallo cardíaco en edad 93."
+        },
+        "target": {
+            "content": "Murió en Nueva York de una insuficiencia cardíaca a la edad de 93."
+        }
+    },
+    {
+        "id": "79717/mwTw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "New York Times obituary Sándor, György. (1995). \"On Piano Playing: Motion, Sound and Expression\". Boston, MA: Schirmer."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Necrología de New York Times Sándor, György. (1995). \"Encima el piano que Juega: Movimiento, Sonido y Expresión\". Boston, MA: Schirmer."
+        },
+        "target": {
+            "content": "New York Times obituary Sándor, György. (1995). \"On Piano Playing: Motion, Sound and Expression\". Boston, MA: Schirmer."
+        }
+    },
+    {
+        "id": "79717/mwVQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Interview with György Sándor by Bruce Duffie, February, 1990 and The Guardian Obituary David Dubal interview with György Sándor (1 of 2) on YouTube, WNCN-FM, 10 August 1982 David Dubal interview with György Sándor (2 of 2) on YouTube, WNCN-FM, 24 June 1983 http://pastdaily.com/2015/06/10/gyorgy-sandor-piano-recital-at-wncn-1983-past-daily-mid-week-concert/"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Entrevista con György Sándor por Bruce Duffie, febrero, 1990 y La Necrología de Guardián David Dubal entrevista con György Sándor (1 de 2) encima YouTube/Youtube, WNCN-FM, 10 agosto 1982 David Dubal entrevista con György Sándor (2 de 2) encima YouTube/Youtube, WNCN-FM, 24 junio 1983 http://pastdaily.com/2015/06/10/gyorgy-sandor-piano-recital-at-wncn-1983-past-daily-mid-week-concert/"
+        },
+        "target": {
+            "content": "Entrevista con György Sándor por Bruce Duffie, febrero, 1990 y Obituario de The Guardian. David Dubal entrevista con György Sándor (1 de 2) en Youtube, WNCN-FM, 10 de agosto de 1982 David Dubal entrevista con György Sándor (2 de 2) encima Youtube, WNCN-FM, 24 de junio de 1983 http://pastdaily.com/2015/06/10/gyorgy-sandor-piano-recital-at-wncn-1983-past-daily-mid-week-concert/"
+        }
+    },
+    {
+        "id": "80550/mwFg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "When they were reunited, the two spent a couple of years isolating themselves in their bedroom, engaged in elaborate play with dolls. They created many plays and stories in a sort of soap opera style, reading some of them aloud on tape as gifts for their sister. Inspired by a pair of gift diaries at Christmas 1979, they began their writing careers. They sent away for a mail order course in creative writing, and each wrote several novels. Set primarily in the United States and particularly in Malibu, California, an excitingly exotic locale to romantic girls trapped in a sleepy Welsh town, the stories involve young men and women who exhibit strange and often criminal behaviour.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Cuándo estuvieron reunidos, el dos gastó un par de los años que aíslan ellos en su dormitorio, comprometido en elaborar juego con muñecas. Crearon muchos juegos e historias en una clase de estilo de telenovela, leyendo algún de ellos aloud encima cinta como regalos para su hermana. Inspirado en un par de diarios de regalo en Navidad 1979, empezaron sus carreras de escritura. Enviaron fuera para un curso de compra por catálogo en escritura creativa, y cada cual escribió varias novelas. Pone principalmente en los Estados Unidos y particularmente en Malibu, California, un excitingly exótico locale a las chicas románticas atraparon en un sleepy ciudad galesa, las historias implican mujeres y hombres jóvenes quiénes exhiben comportamiento extraño y a menudo criminal.[2]"
+        },
+        "target": {
+            "content": "Cuándo estuvieron reunidas, ambas se aislaron en su dormitorio, elaborando juegos muy desarrollados con muñecas. Crearon muchas historias y actos teatrales en una clase de estilo de telenovela, leyendo algunos de ellos en voz alta y grabándolos en cintas de audio como regalos para su hermana. Inspiradas en un par de diarios de regalo en la Navidad de 1979, empezaron sus carreras de escritura. Se registraron en un curso de escritura creativa mediante correspondencia, y escribieron algunas novelas cada una. Las historias fueron escritas con escenarios principalmente desarrollados en los Estados Unidos y particularmente en Malibú, California; otras historias hablaban de chicas románticas atrapadas en una Gales adormitada, y otras incluyen hombres y mujeres jóvenes que presentan un comportamiento extraño y en ocasiones criminal.[2]"
+        }
+    },
+    {
+        "id": "80550/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In Jennifer's Pepsi-Cola Addict, the high-school hero was seduced by a teacher, then sent away to a reformatory where a homosexual guard makes a play for him. In Jennifer's The Pugilist, a physician is so eager to save his child's life that he kills the family dog to obtain its heart for a transplant. The dog's spirit lives on in the child and ultimately has its revenge against the father. Jennifer also wrote Discomania, the story of a young woman who discovers that the atmosphere of a local disco incites patrons to insane violence. She followed up with The Taxi-Driver's Son, a radio play called Postman and Postwoman, and several short stories. They wrote in a unique personal style, often with unwittingly amusing word choices.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En Jennifer Pepsi-Cola Adicto, el alto-el héroe escolar estuvo seducido por un profesor, entonces enviado fuera a un reformatorio donde un guardia homosexual hace un juego para él. En Jennifer es El Pugilist, un physician es tan ansioso de salvar la vida de su niño que mata el perro familiar para obtener su corazón para un trasplantar. El espíritu del perro se mantiene a base de en el niño y finalmente tiene su venganza contra el padre. Jennifer también escribió Discomania, la historia de una mujer joven quién descubre que la atmósfera de una discoteca local incita patrons a violencia demente. Siga arriba con El Taxi-el hijo del conductor, un juego radiofónico Cartero llamado y Postwoman, y varios cuentos. Escribieron en un estilo personal único, a menudo con unwittingly divirtiendo elecciones de palabra.[2]"
+        },
+        "target": {
+            "content": "En la historia de Jennifer,  Adicto a la Pepsi-Cola, el héroe escolar fue seducido por un profesor, para luego ser enviado a un reformatorio donde un guardia homosexual monta una escena teatral para él. En otra de sus obras, The Pugilist, un físico está tan ansioso de salvar la vida de su niño que mata al perro familiar para obtener su corazón para realizar un trasplante. El espíritu del perro se mantiene por este intercambio con el niño y finalmente tiene su venganza contra el padre. Jennifer también escribió Discomania, la historia de una mujer joven quién descubre que la atmósfera de una discoteca local incita a desarrollar patrones de violencia demente. Continuó escribiendo historias como El hijo del conductor de taxi, una novela radiofónica llamada El cartero y la cartera, y varios cuentos. Escribieron en un estilo personal único, a menudo con divertidas elecciones de palabra sin intención.[2]"
+        }
+    },
+    {
+        "id": "80550/036c0a5e4d00b95c",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "80550/6142f4af580cafea",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "[2]"
+        }
+    },
+    {
+        "id": "80550/7801c3bc7ab5a856",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Sus novelas fueron publicadas por una prensa de autoedición llamada Horizontes Nuevos, y realizaron muchos intentos para vender sus cuentos a revistas, pero sin éxito. Romances cortos con algunos chicos americanos, hijos de un hombre del servicio de la Marina de los Estados Unidos tampoco les resultó. Las chicas cometieron un número de los delitos que incluyen incendios provocados, lo cual las condujo a ser confinadas en el Broadmoor Hospital, un hospital de alta seguridad de salud mental. Allí se mantuvieron durante 14 años. En aquel lugar les suministraron altas dosis de medicación antipsicótica, haciendo que les fuera difícil concentrarse. Jennifer aparentemente desarrolló dyskinesia tardía, un desorden neurológico que se caracteriza por movimientos involuntarios y repetitivos. Sus dosis fueron ajustadas lo suficiente como para permitir que continúen los copiosos diarios que habían empezado en 1980, y luego pudieron unirse al coro del hospital, perdiendo su interés en la redacción creativa. El caso alcanzó relevancia gracias a la cobertura de la prensa, especialmente a la periodista Marjorie Wallace del diario The Sunday Times. El tabloide británico The Sun ofreció un breve pero objetivo resumen de la historia, con el título de \"Las Gemelas Genio que no hablan\", una referencia aparente a los test que las denominaba por sobre el promedio de inteligencia cuando fueron recluidas en el Hospital Broadmoor."
+        }
+    },
+    {
+        "id": "80550/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "June and Jennifer Gibbons (born 11 April 1963;[1] Jennifer died March 1993) were identical twins who grew up in Wales. They became known as \"The Silent Twins\" since they only communicated with each other. They began writing works of fiction but turned to crime in a bid for recognition. Both women were committed to Broadmoor Hospital where they were held for 14 years."
+        },
+        "mt": null,
+        "target": {
+            "content": "June y Jennifer Gibbons (11 de abril de 1963; Jennifer murió en marzo de 1993) eran hermanas gemelas que crecieron en Gales.[1] Eran conocidas como \"Las Gemelas Silenciosas\", debido a que sólo se comunicaban entre ellas. Empezaron a escribir trabajos de ficción pero luego se adentraron en el género criminalístico en búsqueda por reconocimiento. Ambas mujeres estuvieron recluidas en el Hospital Broadmoor donde permanecieron por 14 años."
+        }
+    },
+    {
+        "id": "80550/mwCQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Early life"
+        },
+        "mt": null,
+        "target": {
+            "content": "Vida temprana"
+        }
+    },
+    {
+        "id": "80550/mwCg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "June and Jennifer were the daughters of Caribbean immigrants Gloria and Aubrey Gibbons. Gloria was a housewife and Aubrey worked as a technician for the Air Force. Shortly after their birth in Barbados, their family moved to Haverfordwest, Wales. The twin sisters were inseparable and their particular high-speed patois made it difficult for people to understand them."
+        },
+        "mt": null,
+        "target": {
+            "content": "June y Jennifer eran las hijas de los inmigrantes caribeños Gloria y Aubrey Gibbons. Gloria era una ama de casa y Aubrey trabajó como técnico para la Royal Aire Force. Poco después de su nacimiento en Barbados, la familia se trasladó a Haverfordwest, en Gales. Las gemelas eran inseparables y su patois particular y de alta velocidad hizo difícil para las personas fuera de su familia inmediata entenderles."
+        }
+    },
+    {
+        "id": "80550/mwDg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "As the only black children in the community, they were ostracised at school.[1] This proved traumatic for the twins, eventually causing their school administrators to dismiss them early each day so that they might avoid bullying. Their language became even more idiosyncratic at this time. Soon it was unintelligible to others. Their language, or idioglossia, qualified as an example of cryptophasia, exemplified by the twins' simultaneous actions, which often mirrored each other. Eventually the twins spoke to no one except each other and their younger sister Rose.[2]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Siendo las únicas niñas de raza negra en su comunidad, eran aisladas en su escuela.[1] Esto resultó traumático para las gemelas, finalmente causando que los administradores de la escuela los enviaran a casa temprano cada día de modo que podrían evitar el acoso. Su idioma devenía aún más idiosincrática en este tiempo. Pronto era ininteligible a otros. Su lengua, o idioglosia, cualificado como un ejemplo de cryptofasia, era ejemplificado por las acciones de las gemelas realizadas simultáneamente, que daba la apariencia de asemejar un espejo. Eventualmente dejaron de comunicarse con otras personas, a excepción de su hermana menor, Rose.[2]"
+        }
+    },
+    {
+        "id": "80550/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "When the twins turned 14, a succession of therapists tried unsuccessfully to get them to communicate with others. They were sent to separate boarding schools in an attempt to break their isolation, but the pair became catatonic and entirely withdrawn when parted.[2]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Cuándo cumplieron 14 años, varios terapeutas intentaron infructuosamente conseguir que pudieran comunicarse con otros. Fueron enviadas por separado a distintos internados en un intento de romper su aislamiento, pero el par devenía catatónico y enteramente retirado cuándo eran separadas.[2]"
+        }
+    },
+    {
+        "id": "80550/mwGA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+]

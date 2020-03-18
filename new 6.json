@@ -1,0 +1,1284 @@
+[
+	{
+        "id": "53235/mwFQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Kisseh-i Sanjan, as Abraham Anquetil-Duperron transliterated the name, became available to European scholarship in 1771, when Duperron published a French translation. However, it was not until the beginning of the 20th century that the poem attracted widespread attention, particularly among the Parsi-Zoroastrian priesthood.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El Kisseh-i Sanjan, cuando Abraham Anquetil-Duperron transliteró el nombre, devenía disponible a beca europea en 1771, cuándo Duperron publicó una traducción francesa. Aun así, no sea hasta el principio del siglo XX que el poema atrajo atención extendida, particularmente entre el Parsi-Zoroastrian sacerdocio.[2]"
+        },
+        "target": {
+            "content": "El Kisseh-i Sanjan, según la transliteración de Abraham Anquetil-Duperron, pasó a conocimiento de los académicos europeos después de que Duperron publicara una traducción al francés en 1771. Aun así, no fue hasta principios del siglo XX que el poema atrajo la atención que recibe en la actualidad, especialmente entre el sacerdocio parsi.[2]"
+        }
+    },
+    {
+        "id": "53235/mwHQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The first chapter of the narrative begins with the fall of the Sassanid Empire in 642CE, as part of the Muslim conquest of Persia. The subsequent persecution of Zoroastrians led to the dispersion of the people \"of good faith\", and ultimately the Zoroastrians' departure from Greater Khorasan."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El primer capítulo de la narrativa empieza con la caída del Sassanid Imperio en 642CE, cuando parte de la conquista musulmana de Persia. La persecución subsiguiente de Zoroastrians dirigió a la dispersión de las personas \"de fe buena\", y finalmente el Zoroastrians' salida de más Grande Khorasan."
+        },
+        "target": {
+            "content": "El primer capítulo de la narrativa empieza con la caída del Imperio sasánida en 642 dC durante la conquista musulmana de Persia. La persecución subsiguiente del zoroastrismo motivó un éxodo de creyentes en la antigua religión que difundió el zoroastrismo fuera de Persia."
+        }
+    },
+    {
+        "id": "53235/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The refugees first made for a major port city [a1] near Bushire, where they stayed for 15 years. From there they sailed for Hindustan, the northern territories of the Indian subcontinent. They landed on the Island of Div, in southern Saurashtra, where they stayed for another 19 years. From Div, they sailed along the coast, weathered a severe storm at sea, and finally landed in Gujarat. Some accounts state that about 18,000 Parsis came in seven junks, five of them landing in Div, one at Variav near Surat and one at Cambay in Gujarat."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los refugiados primero hechos para una ciudad portuaria importante cercana Bushire, donde se quedaron para 15 años.[a1] De allí navegaron para Hindustan, los territorios del norte del indios subcontinent. Aterrizaron en la Isla de Div, en del sur Saurashtra, donde se quedaron para otros 19 años. De Div, navegaron a lo largo de la costa, weathered una tormenta severa en mar, y finalmente aterrizado en Gujarat. Algunas cuentas declaran que aproximadamente 18,000 Parsis entró siete junks, cinco de ellos aterrizando en Div, uno en Variav cercano Surat y uno en Cambay en Gujarat."
+        },
+        "target": {
+            "content": "Los refugiados llegaron primero a una ciudad portuaria importante cerca de Bushire, donde se quedaron 15 años.[a1] Desde allí navegaron hacia Hindustán, los territorios del norte del subcontinente indio. Desembarcaron en la Isla de Div, en del sur de Saurashtra, donde se quedaron otros 19 años, y desde ahí navegaron a lo largo de la costa, sufrieron una severa tormenta en el mar y finalmente llegaron a Gujarat. Algunas cronicas afirman que sumaban aproximadamente 18 000 parsis en siete juncos, cinco de ellos en Div, uno en Variav cerca de Surat y uno en Cambay en Gujarat."
+        }
+    },
+    {
+        "id": "53235/mwLA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "There, they approached the local Hindu king, Jadi Rana, and requested asylum. The ruler, fearing for his kingdom, asked them to explain their beliefs, and made four other stipulations for granting asylum:"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Allí, se acercaron el locales Hindu rey, Jadi Rana, y asilo pedido. El gobernante, temiendo para su reino, les preguntó para explicar sus creencias, e hizo cuatro otras estipulaciones para conceder asilo:"
+        },
+        "target": {
+            "content": "Allí, fueron recibidos por el rey hindú local, Jadi Rana, ante el que solicitaron asilo. El gobernante, temiendo por su reino, les pidió explicar sus creencias y puso cuatro condiciones para concederles la entrada:"
+        }
+    },
+    {
+        "id": "53235/mwLw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "they were to adopt the local language (Gujarati) their women were to wear the garments of the local women (the Sari) they were to cease to carry weapons marriages were only to be performed in the evenings"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eran para adoptar la lengua local (Gujarati) Sus mujeres eran para llevar el garments de las mujeres locales (el Sari) Eran para cesar para llevar armas Los matrimonios eran sólo para ser actuados en los anocheceres"
+        },
+        "target": {
+            "content": "Adoptar la lengua local (Gujarati) Sus mujeres debían llevar la vestimentan de las mujeres locales (el Sari) Debían dejar de portar armas Los matrimonios sólo debían celebrarse en los anocheceres"
+        }
+    },
+    {
+        "id": "53235/mwNw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The refugees, accepting the demands, expounded on the teachings of their faith, and \"when the Hindu Raja heard the oration, his mind regained perfect ease.\" Having been granted asylum, the emigrants established the settlement of Sanjan (Gujarat), which was soon flourishing."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los refugiados, aceptando las demandas, expounded en las enseñanzas de su fe, y \"cuándo el Hindu Raja oyó el oration, su mente recuperó facilidad perfecta.\" Habiendo sido asilo concedido, los emigrantes establecieron el poblamiento de Sanjan (Gujarat), el cual era pronto floreciente."
+        },
+        "target": {
+            "content": "Los refugiados, aceptando las demandas, expusieron las enseñanzas de su fe y \"cuándo el rajá hindú oyó su oración, su mente recuperó la calma.\" Habiendo sido aceptados, los emigrantes se establecieron y fundaron Sanjan (Gujarat), que floreció."
+        }
+    },
+    {
+        "id": "53235/mwOQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Some time thereafter, the priests of the fledgling community approached the king with a request to establish a Fire Temple. Their wish was granted, and a temple was subsequently installed and consecrated. The Fire is subsequently referred to in the story as the \"Fire of Warharan.\"[b]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Algunos cronometran después, los sacerdotes del fledgling la comunidad se acercó el rey con una petición para establecer un Templo de Fuego. Su deseo estuvo concedido, y un templo era posteriormente instalado y consagró. El Fuego es posteriormente referido a en la historia como el \"Fuego de Warharan.\"[b]"
+        },
+        "target": {
+            "content": "Algún tiempo después, los sacerdotes de la nueva comunidad se aproximaron al rey para solicitarle establecer un Templo del Fuego. Su deseo fue concedido, y el templo fue construido y consagrado. El fuego de dicho lugar fue llamado el \"Fuego de Warharan.\"[b]"
+        }
+    },
+    {
+        "id": "53235/mwPA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The narrative then glosses over the next five or seven centuries (both periods are mentioned). At the end of the first chapter, many of the descendants of the original settlers are said to have dispersed in all directions."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El narrativo entonces glosas sobre el próximos cinco o siete siglos (ambos periodos están mencionados). Al final del primer capítulo, muchos de los descendientes del originales settlers está dicho para tener dispersado en todas las direcciones."
+        },
+        "target": {
+            "content": "La narración sigue con los siguientes cinco o siete siglos (se mencionan ambas cifras). Al final del primer capítulo, se afirma que muchos descendientes de los emigrantes originales se forman una diáspora por el subcontinente."
+        }
+    },
+    {
+        "id": "53235/mwPQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the subsequent three chapters, the account narrates the invasion by Islamic troops. At first, with the assistance of the Zoroastrians, the invaders are repelled. In the battle on the next day, \"Fortune [...] turned its face\", and the Raja was killed."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En el subsiguiente tres capítulos, la cuenta narra la invasión por tropas islámicas. Al principio, con la asistencia del Zoroastrians, el invaders está repelido. En la batalla encima al día siguiente, \"Fortuna [...] Giró su cara\", y el Raja fue asesinado."
+        },
+        "target": {
+            "content": "En el siguiente tres capítulos, el poema narra una invasión por tropas islámicas. Al principio, con la asistencia de los zoroástricos, los invasores son rechazados. Pero en una batalla al día siguiente, \"la Fortuna [...] giró su cara\", y el rajá fue asesinado."
+        }
+    },
+    {
+        "id": "53235/mwPg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The fifth chapter narrates the fleeing of the Zoroastrians to Bahrot, taking the fire from the temple in Sanjan with them. They stayed there for twelve years, then moved to Bansdah, where a new temple was consecrated."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El quinto capítulo narra el huyendo del Zoroastrians a Bahrot, tomando el fuego del templo en Sanjan con ellos. se quedaron allí para doce años, entonces movidos a Bansdah, donde un templo nuevo estuvo consagrado."
+        },
+        "target": {
+            "content": "El quinto capítulo narra la huída de los zoroástricos a Bahrot, portando con ellos el fuego del templo de Sanjan. Se quedaron allí doce años antes de ir a Bansdah, donde consagraron un nuevo templo."
+        }
+    },
+    {
+        "id": "53235/mwQQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the sixth and final chapter of the narrative, the account describes the conveyance of the fire to a new temple at Navsari."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En el sexto y capítulo final de la narrativa, la cuenta describe el conveyance del fuego a un templo nuevo en Navsari."
+        },
+        "target": {
+            "content": "En el sexto y último capítulo, la crónica describe el traslado del fuego a un nuevo templo en Navsari."
+        }
+    },
+    {
+        "id": "53235/mwQw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Issues raised by the text"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los asuntos levantaron por el texto"
+        },
+        "target": {
+            "content": "Polémicas y discusiones sobre el texto"
+        }
+    },
+    {
+        "id": "53235/mwRA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the absence of alternatives, the Story of Sanjan is generally accepted to be the only narrative of the early years of the Zoroastrian migrants to the Indian subcontinent. Among the Parsi community, the story is perceived to be an accurate account of their forebearers."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En la ausencia de alternativas, la Historia de Sanjan es generalmente aceptado para ser la narrativa única de los años tempranos del Zoroastrian nómadas al indios subcontinent. Entre el Parsi comunidad, la historia está percibida para ser una cuenta cuidadosa de su forebearers."
+        },
+        "target": {
+            "content": "Dada la ausencia de alternativas, la Historia de Sanjan es generalmente aceptada como narrativa de los primeros años del zoroastrismo en el subcontinente indio. Entre la comunidad parsi, la historia está considerada la crónica de sus antecesores."
+        }
+    },
+    {
+        "id": "53235/mwSA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The importance of the story lies in any case not so much in its reconstruction of events than in its depiction of the Parsis - in the way they have come to view themselves - and in their relationship to the dominant culture. As such, the text plays a crucial role in shaping Parsi identity. But, \"even if one comes to the conclusion that the chronicle based on verbal transmission is not more than a legend, it still remains without doubt an extremely informative document for Parsee historiography.\"[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La importancia de las mentiras de historia de todas formas no tanto en su reconstrucción de acontecimientos que en su representación del Parsis - en la manera han venido para los ver - y en su relación a la cultura dominante. Cuando tal, el texto juega una función crucial en shaping Parsi identidad. Pero, \"incluso si uno viene a la conclusión que la crónica basada en la transmisión verbal no es más de una leyenda, todavía queda sin duda un documento extremadamente informativo para Parsee historiografía.\"[4]"
+        },
+        "target": {
+            "content": "A pesar de ello, la importancia de la historia no reside tanto en su descripción de los acontecimientos como en su valor como expresión de la visión que tienen los parsis de ellos y de otras culturas. El texto juega una función crucial conformando la identidad parsi. \"Incluso si uno llega a la conclusión de que la historia transmitida verbalmente es una leyenda, todavía resulta un documento sin duda extremadamente informativo para la historiografía parsi.\"[4]"
+        }
+    },
+    {
+        "id": "53235/mwSQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the Story of Sanjan, it appears as if the Zoroastrians must have had some contact with Gujarat prior to their journey there, which has prompted suggestions that the Zoroastrians of the story were not in fact the first migrants. Whether these were also asylum seekers is unclear, but Iranian influence and emigrants are discernible in India long before the Parsis of the narrative arrive. The text states the migrants knew in advance that Gujarat was governed by a monarch tolerant towards other (i.e. non-Hindu) religious beliefs, and this may have been determined through trade with the region (the city[a2] near Bushire - where the narrative's Zoroastrians are said to have lived for 15 years before setting sail - had extensive trading connections with the east)."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En la Historia de Sanjan, aparece como si el Zoroastrians el mosto ha tenido algún contacto con Gujarat con anterioridad a su viaje allí, el cual tiene incitó sugerencias que el Zoroastrians de la historia no fue de hecho los primeros nómadas. Si estos eran también buscadores de asilo es unclear, pero emigrantes e influencia iraníes son discernible en India mucho tiempo antes del Parsis de la narrativa llega. El texto declara los nómadas supieron por adelantado que Gujarat estuvo gobernado por un monarca tolerant hacia otro (i.e. no-Hindu) creencias religiosas, y esto puede haber sido determinado a través de comercio con la región (la ciudad cercana Bushire - donde la narrativa Zoroastrians está dicho para tener vivido para 15 años antes de poner vela - tuvo conexiones comerciales extensas con el del este).[a2]"
+        },
+        "target": {
+            "content": "La Historia de Sanjan, parece indicar que el zoroastrismo debía haber tenido algún contacto previo con Gujarat, apuntando a que hubieran llegado nómadas zoroástricos previamente. Si estos eran también buscadores de asilo es motivo de discusión pero se encuentran influencias iranias en India mucho antes de la llegada de los parsis de la narrativa. El texto afirma que los nómadas sabían por adelantado que Gujarat estaba gobernado por un monarca tolerante hacia otras creencias, lo que podía haberse sabido gracias al comercio con la región (la ciudad de Bushire - donde la crónica dice que los parsis residieron dicho 15 años - tuvo extensas relaciones comerciales con el este).[a2]"
+        }
+    },
+    {
+        "id": "53235/mwTQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The story's chronology is the basis of several different estimates of the year of migration. Although the story is precise with respect to some elapsed periods, it is vague or contradictory with respect to others. Consequently (and in conjunction with an unrelated document from 1826[5]), three dates - 936, 785 and 716 - have been proposed as the year of landing. The sacking of Sanjan referred to in the fourth chapter probably occurred in 1465 (see Delhi Sultanate), which would put 716 CE c. 750 years before the Islamic invasion and 936 CE c. 530 years before that event. Both periods (seven centuries and five centuries) are mentioned in the text."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La cronología de la historia es la base de varias estimaciones diferentes del año de migración. A pesar de que la historia es precisa con respetar a algunos elapsed periodos, es impreciso o contradictorio con respetar a otros. Consiguientemente (y conjuntamente con un documento no relacionado de 1826), tres fechas - 936, 785 y 716 - ha sido propuesto como el año de aterrizar.[5] El despidiendo de Sanjan refirió a en el cuarto capítulo probablemente ocurrido en 1465 (ve Delhi Sultanate), el cual pondría 716 CE c. 750 años antes de la invasión islámica y 936 CE c. 530 años antes de aquel acontecimiento. Ambos periodos (siete siglos y cinco siglos) está mencionado en el texto."
+        },
+        "target": {
+            "content": "La cronología de la historia es la base de varias estimaciones diferentes del año de migración. A pesar de que la historia es precisa con respecto a algunos periodos, es imprecisa o contradictoria con otros. Consiguientemente (y conjuntamente con un documento no relacionado de 1826), tres fechas - 936, 785 y 716 - ha sido propuestas como el año de la llegada.[5] El saqueo de Sanjan mencionado en el cuarto capítulo probablemente ocurrió en 1465 (probablemente por el Sultanato de Delhi), lo que implicaría que es 716 dC (750 años antes de la invasión final) o 936 CE (530 años antes de aquel acontecimiento). Ambos periodos (siete siglos y cinco siglos) son mencionados en el texto."
+        }
+    },
+    {
+        "id": "53235/mwUQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The question of whether Sanjan or Diu was the site of the first settlement in India was discussed with intensity in the early 20th century when a memorial commemorating their arrival was first proposed. That memorial was finally constructed at Sanjan, where it is today known as the Sanjan Stambh. Although the narrative is unclear on where precisely the Zoroastrians came from, the text may be interpreted such that the emigrants originated from Sanjan (Khorasan), a settlement near the ancient city of Merv (in today's Turkmenistan). Although the text states that many of the settlers took the name of 'Sanjana', the text is unclear as to whether they had done so before the naming of the settlement of Sanjan (that is, they had brought the name with them), or as a response to the naming of the settlement. The settlers were simply called 'Khorasanis' by the local citizens.[6] Moreover, (family) names are not believed to have been common until much later. The author of the text does not give himself a family name."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La cuestión de si Sanjan o Diu era el sitio del primer poblamiento en India estuvo hablado con intensidad en el siglo XX temprano cuándo un conmemorativo conmemorando su llegada era primero propuso. Aquel monumento era finalmente construido en Sanjan, donde es hoy sabido como el Sanjan Stambh. A pesar de que la narrativa es unclear encima dónde precisamente el Zoroastrians provino, el texto puede ser interpretado tal que los emigrantes originaron de Sanjan (Khorasan), un poblamiento cerca la ciudad antigua de Merv (en hoy Turkmenistan). A pesar de que el texto declara que muchos del settlers tomó el nombre de anjana', el texto es unclear tan a si habían hecho tan antes del nombrando del poblamiento de Sanjan (aquello es, habían traído el nombre con ellos), o como respuesta al nombrando del poblamiento. El settlers era sencillamente llamado 'Khorasanis' por los ciudadanos locales.[6] Además, (familiar) los nombres no son creídos a ha sido común hasta que mucho más tardío. El autor del texto no se da un nombre familiar."
+        },
+        "target": {
+            "content": "La cuestión de si Sanjan o Diu fue su primer asentamiento en India ha sido debatido con intensidad en el siglo XX cuándo se propuso una conmemoración de su llegada. Se construyó un monumento en Sanjan, hoy llamado Sanjan Stambh. A pesar de que la narrativa es incierta sobre el origen de los emigrantes, se puede interpretar del texto que llegaron desde Sanjan (Jorasán), cerca de la ciudad antigua de Merv (en el actual Turkmenistán). A pesar de que el texto declara que muchos de los emigrantes tomaron el nombre de \"sanjana\", el texto es ambiguo sobre si lo hicieron antes de asentarse en Sanjan (trayendo el nombre con ellos) o en honor al nombre de la nueva población. Los nuevos habitantes fueron llamados simplemente jorasanis por los locales.[6] Además, los apellidos no fueron comunes hasta mucho más tarde, como evidencia el hecho de que el autor del texto no use apellidos."
+        }
+    },
+    {
+        "id": "53235/mwWA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Scholars of Parsi history are divided over interpretations of the stipulations for asylum, in particular that of the last, i.e. that marriages only be performed in the evenings, as the Hindus do. Even without any inclination to infer a hidden meaning, it does raise the question why was such a minor issue was a condition for asylum. In general, \"that [the Parsis] clothe their cultural concessions to their Indian environment in the form of conditions set by a Hindu prince can be considered as self-justification of this group which, without these concessions - that is, giving up only a few customs while traditions were otherwise strictly kept - would hardly have been able to survive [...] as a minority in India.\"[7]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Becarios de Parsi la historia está dividida sobre interpretaciones de las estipulaciones para asilo, en particular que del último, i.e. que matrimonios sólo ser actuados en los anocheceres, cuando el Hindus hacer. Incluso sin cualquier inclinación para inferir un significado escondido, levanta la cuestión por qué era #un asunto tan menor era una condición para asilo. En general, \"que [el Parsis] clothe sus concesiones culturales a su entorno indio en la forma de las condiciones puestas por un Hindu el príncipe puede ser considerado tan self-justificación de este agrupar cuál, sin estas concesiones - aquello es, dejando sólo #unos cuantos aduana mientras las tradiciones eran otherwise estrictamente mantenidos - difícilmente habría sido capaz de sobrevivir [...] Como minoría en India.\"[7]"
+        },
+        "target": {
+            "content": "Los estudiosos de la historia parsi están divididos sobre como interpretar los requisitos que reciben para el asilo, en particular el último (que matrimonios sólo podrían ser realizados en los anocheceres, como en la tradición hindú). Incluso sin inferir un significado oculto, la cuestión de por qué un asunto tan menor era una condición clave para asilo suscita dudas. En general, \"que [los parsis] vistieran sus concesiones culturales ante su entorno indio como condiciones impuestas por un príncipe hindú puede ser considerado una autojustificación de un grupo que sin esas concesiones - renunciando a unas pocas costumbres mientras mantienen estrictamente otras - difícilmente podrían haber sobrevivido como una minoría en la India.\"[7]"
+        }
+    },
+    {
+        "id": "53235/mwWQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Notes"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Notas"
+        },
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "53235/mwXA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "↑ Kotwal 1974, p. 664,n.2. 1 2 Boyce & Kotwal 2003. ↑ Hodivala 1920, pp. 94–117. 1 2 Kulke 1978, p. 25. ↑ cf. Modi 1905, pp. 9ff. ↑ Vimadalal 1979, p. 2. ↑ Kulke 1978, p. 29. ↑ Maneck 1997, p. 15."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "↑ Kotwal 1974, p. 664,n.2. 1 2 Boyce & Kotwal 2003. ↑ Hodivala 1920, pp. 94@–117. 1 2 Kulke 1978, p. 25. ↑ Cf. Modi 1905, pp. 9ss. ↑ Vimadalal 1979, p. 2. ↑ Kulke 1978, p. 29. ↑ Maneck 1997, p. 15."
+        },
+        "target": {
+            "content": "↑ Kotwal 1974, p. 664,n.2. 1 2 Boyce & Kotwal 2003. ↑ Hodivala 1920, pp. 94–117. 1 2 Kulke 1978, p. 25. ↑ Cf. Modi 1905, pp. 9ss. ↑ Vimadalal 1979, p. 2. ↑ Kulke 1978, p. 29. ↑ Maneck 1997, p. 15."
+        }
+    },
+    {
+        "id": "53235/mwfg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Further reading"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Lectura más lejana"
+        },
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "53795/mweQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 \"NASA Exoplanet Archive – Confirmed Planet Overview – Kepler-452b\". NASA Exoplanet Archive. 2015. Retrieved 23 July 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:\"\\\"\"\"\\\"\"\"'\"\"'\"}.mw-parser-output .citation .cs1-lock-free a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em} ↑ \"NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth\". National Aeronautics and Space Administration. 23 July 2015. Retrieved 10 June 2016. 1 2 Rincon, Paul (23 July 2015). \"'Earth 2.0' found in Nasa Kepler telescope haul\". BBC News. Retrieved 24 July 2015. 1 2 3 4 Kepler-452b: How long would it take humans to reach 'Earth 2' and could we live there? ↑ Pat Brennan (15 December 2015). \"8 planets that make you think Star Wars is real\". NASA. Retrieved 26 July 2016. 1 2 3 Jenkins, Jon M.; Twicken, Joseph D.; Batalha, Natalie M.; et al. (23 July 2015). \"Discovery and Validation of Kepler-452b: A 1.6 R⨁ Super Earth Exoplanet in the Habitable Zone of a G2 Star\" (PDF). The Astronomical Journal. 150 (2): 56. arXiv:1507.06723. Bibcode:2015AJ....150...56J. doi:10.1088/0004-6256/150/2/56. ISSN 1538-3881. Retrieved 24 July 2015. ↑ KEPLER’S EARTH-LIKE PLANETS SHOULD NOT BE CONFIRMED WITHOUT INDEPENDENT DETECTION: THE CASE OF KEPLER-452b Fergal Mullally, Susan E. Thompson, Jeffrey L. Coughlin, Christopher J. Burke, and Jason F. Rowe, 2 April 2018. Available at https://arxiv.org/pdf/1803.11307.pdf, Accessed 3 April 2018. ↑ \"The Habitable Exoplanets Catalog – Planetary Habitability Laboratory @ UPR Arecibo\". upr.edu. 1 2 Chou, Felicia; Johnson, Michele (23 July 2015). \"NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth\" (Press release). NASA. Retrieved 23 July 2015. ↑ \"NASA telescope discovers Earth-like planet in star's 'habitable zone\". BNO News. 23 July 2015. Retrieved 23 July 2015. 1 2 Feltman, Rachel (23 July 2015). \"Scientists discover 12 new potential Earth-like planets\". The Washington Post. Retrieved 23 July 2015. 1 2 Overbye, Dennis (23 July 2015). \"Kepler Data Reveals What Might Be Best 'Goldilocks' Planet Yet\". The New York Times. Retrieved 23 July 2015. ↑ Witze, Alexandra (23 July 2015). \"NASA spies Earth-sized exoplanet orbiting Sun-like star\". Nature. Retrieved 23 July 2015. ↑ Fraser Cain (15 September 2008). \"Temperature of the Sun\". Universe Today. Retrieved 19 February 2011. ↑ \"Planet HIP 11915\". Retrieved 17 July 2015. ↑ NASA Kepler press conference. 23 July 2015. 1 2 Lugmayr, Luigi (23 July 2015). \"Kepler-452b details unveiled\". I4U News. Retrieved 23 July 2015. ↑ \"Is Earth's Closest Cousin A Dying Planet?\". Gizmodo.com. 30 July 2015. Retrieved 24 May 2016. 1 2 SETI Targets Kepler-452b, Earth's 'Cousin,' in Search for Alien Life ↑ https://www.youtube.com/watch?v=EBebWBjpWIQ?t=13m22s Have you ever imagined how interstellar travel could work? | Ryan Weed | TEDxDanubia"
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 \"NASA Exoplanet Archive – Confirmed Planet Overview – Kepler-452b\". NASA Exoplanet Archive. 2015. Retrieved 23 July 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:\"\\\"\"\"\\\"\"\"'\"\"'\"}.mw-parser-output .citation .cs1-lock-free a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url(\"//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png\")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em} ↑ \"NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth\". National Aeronautics and Space Administration. 23 July 2015. Retrieved 10 June 2016. 1 2 «'Earth 2.0' found in Nasa Kepler telescope haul». BBC News. 23 July 2015. Consultado el 24 July 2015.  1 2 3 4 Kepler-452b: How long would it take humans to reach 'Earth 2' and could we live there? ↑ Pat Brennan (15 December 2015). «8 planets that make you think Star Wars is real». NASA. Consultado el 26 July 2016.  |autor= y |apellido= redundantes (ayuda) 1 2 3 Jenkins, Jon M.; Twicken, Joseph D.; Batalha, Natalie M. et al. (23 July 2015). «Discovery and Validation of Kepler-452b: A 1.6 R⨁ Super Earth Exoplanet in the Habitable Zone of a G2 Star». The Astronomical Journal 150 (2): 56. Bibcode:2015AJ....150...56J. ISSN 1538-3881. doi:10.1088/0004-6256/150/2/56. Consultado el 24 July 2015.  ↑ KEPLER’S EARTH-LIKE PLANETS SHOULD NOT BE CONFIRMED WITHOUT INDEPENDENT DETECTION: THE CASE OF KEPLER-452b Fergal Mullally, Susan E. Thompson, Jeffrey L. Coughlin, Christopher J. Burke, and Jason F. Rowe, 2 April 2018. Available at https://arxiv.org/pdf/1803.11307.pdf, Accessed 3 April 2018. ↑ «The Habitable Exoplanets Catalog – Planetary Habitability Laboratory @ UPR Arecibo». upr.edu.  1 2 Chou, Felicia; Johnson, Michele (23 July 2015). \"NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth\" (Press release). NASA. Retrieved 23 July 2015. ↑ \"NASA telescope discovers Earth-like planet in star's 'habitable zone\". BNO News. 23 July 2015. Retrieved 23 July 2015. 1 2 Feltman, Rachel (23 July 2015). \"Scientists discover 12 new potential Earth-like planets\". The Washington Post. Retrieved 23 July 2015. 1 2 Overbye, Dennis (23 July 2015). \"Kepler Data Reveals What Might Be Best 'Goldilocks' Planet Yet\". The New York Times. Retrieved 23 July 2015. ↑ Witze, Alexandra (23 July 2015). \"NASA spies Earth-sized exoplanet orbiting Sun-like star\". Nature. Retrieved 23 July 2015. ↑ Fraser Cain (15 September 2008). \"Temperature of the Sun\". Universe Today. Retrieved 19 February 2011. ↑ \"Planet HIP 11915\". Retrieved 17 July 2015. ↑ NASA Kepler press conference. 23 July 2015. 1 2 Lugmayr, Luigi (23 July 2015). \"Kepler-452b details unveiled\". I4U News. Retrieved 23 July 2015. ↑ \"Is Earth's Closest Cousin A Dying Planet?\". Gizmodo.com. 30 July 2015. Retrieved 24 May 2016. 1 2 SETI Targets Kepler-452b, Earth's 'Cousin,' in Search for Alien Life ↑ https://www.youtube.com/watch?v=EBebWBjpWIQ?t=13m22s Have you ever imagined how interstellar travel could work? | Ryan Weed | TEDxDanubia"
+        }
+    },
+    {
+        "id": "55611/mwNQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Song Artist Year #thatPOWER will.i.am ft. Justin Bieber 2013 Counting Stars OneRepublic 2013 Diamonds Rihanna 2012 Happy Pharrell Williams 2013 I Wish Cher Lloyd ft. T.I. 2013 Royals Lorde 2013 Show Me Kid Ink ft. Chris Brown 2013 Talk Dirty Jason Derulo ft. 2 Chainz 2013 Titanium David Guetta ft. Sia 2011 Wake Me Up! Avicii 2013"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Canción Artista Año #thatPOWER will.i.am ft. Justin Bieber 2013 Contando Estrellas OneRepublic 2013 Diamantes Rihanna 2012 Feliz Pharrell Williams 2013 Deseo Cher Lloyd ft. T.Yo. 2013 Royals Lorde 2013 Mostrarme Tinta de niño ft. Chris Brown 2013 Hablar Cochinamente Jason Derulo ft. 2 Chainz 2013 Titanio David Guetta ft. Sia 2011 Despertarme! Avicii 2013"
+        },
+        "target": {
+            "content": "Canción Artista Año #thatPOWER will.i.am ft. Justin Bieber 2013  Counting   OneRepublic 2013 Diamantes Rihanna 2012 Feliz Pharrell Williams 2013 Deseo Cher Lloyd ft. T.Yo. 2013 Royals Lorde 2013 Mostrarme Tinta de niño ft. Chris Brown 2013 Hablar Cochinamente Jason Derulo ft. 2 Chainz 2013 Titanio David Guetta ft. Sia 2011 Despertarme! Avicii 2013"
+        }
+    },
+    {
+        "id": "55611/mwBE4",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "References"
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "55611/mwBE8",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 \"Dance Central Spotlight review: Twerking hard or hardly twerking?\". GameSpot. Retrieved 26 November 2014.  ↑ \"Practice Makes Perfect in Dance Central Spotlight\". Microsoft. Retrieved 26 November 2014.  1 2 3 4 5 6 \"Harmonix is back to selling Kinect sensors with Dance Central: Spotlight\". Polygon. Retrieved 26 November 2014.  1 2 3 4 5 \"Harmonix shines the Dance Central Spotlight on the Xbox One (interview)\". VentureBeat. Retrieved 28 August 2014.  1 2 3 \"Dance Central Spotlight dated, will cost $10\". CVG. Future plc. Retrieved 28 August 2014.  ↑ \"Standalone Xbox One Kinect Launching October 7 for $150 With Dance Central\". GameSpot. Retrieved 16 December 2014.  ↑ \"Borderlands' Nisha And Claptrap Available Now As Free Dance Central: Spotlight Dancers\". Game Informer. Retrieved 8 March 2015.  1 2 \"Dance Central Songs\". Microsoft. Retrieved 26 November 2014.  ↑ \"New Dance Central DLC: Two Great Legacy Packs!\". Microsoft. Retrieved 26 November 2014. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 \"Dance Central Spotlight review: Twerking hard or hardly twerking?\". GameSpot. Retrieved 26 November 2014.  ↑ \"Practice Makes Perfect in Dance Central Spotlight\". Microsoft. Retrieved 26 November 2014.  1 2 3 4 5 6 \"Harmonix is back to selling Kinect sensors with Dance Central: Spotlight\". Polygon. Retrieved 26 November 2014.  1 2 3 4 5 \"Harmonix shines the Dance Central Spotlight on the Xbox One (interview)\". VentureBeat. Retrieved 28 August 2014.  1 2 3 \"Dance Central Spotlight dated, will cost $10\". CVG. Future plc. Retrieved 28 August 2014.  ↑ \"Standalone Xbox One Kinect Launching October 7 for $150 With Dance Central\". GameSpot. Retrieved 16 December 2014.  ↑ \"Borderlands' Nisha And Claptrap Available Now As Free Dance Central: Spotlight Dancers\". Game Informer. Retrieved 8 March 2015.  1 2 \"Dance Central Songs\". Microsoft. Retrieved 26 November 2014.  ↑ \"New Dance Central DLC: Two Great Legacy Packs!\". Microsoft. Retrieved 26 November 2014. "
+        }
+    },
+    {
+        "id": "56605/mwBg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A Chakravatin, possibly Ashoka, 1st century BCE/CE. Andhra Pradesh, Amaravati. Preserved at Guimet Museum"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Un Chakravatin, posiblemente Ashoka, siglo I aC/CE. Andhra Pradesh, Amaravati. Preservado en Guimet Museo"
+        },
+        "target": {
+            "content": "Un Chakravatin, posiblemente Ashoka, siglo I a.C. Andhra Pradesh, Amaravati. Preservado en el Museo Guimet"
+        }
+    },
+    {
+        "id": "56605/mwDA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Chakravartin (Sanskrit cakravartin, Pali cakkavattin) is an ancient Indian term used to refer to an ideal universal ruler[1] who rules ethically and benevolently over the entire world. Such a ruler's reign is called sarvabhauma. It is a bahuvrīhi, figuratively meaning \"whose wheels are moving\", in the sense of \"whose chariot is rolling everywhere without obstruction\". It can also be analysed as an 'instrumental bahuvrīhi: \"through whom the wheel is moving\" in the meaning of \"through whom the Dharmachakra (\"Wheel of the Dharma) is turning\" (most commonly used in Buddhism)."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Chakravartin (Sánscrito cakravartin, Pali cakkavattin) es un plazo indio antiguo utilizó para referir a un gobernante universal ideal quién gobierna éticamente y benévolamente sobre el mundo entero.[1] El reinado de tal gobernante se apellida sarvabhauma. Es un bahuvrīhola, figuratively significado \"cuyas ruedas están moviendo\", en el sentido de \"de quién chariot está rodando en todas partes sin obstrucción\". También pueda ser analizado como un 'instrumental bahuvrīhola: \"a través de quien la rueda está moviendo\" en el significado de \"a través de quien el Dharmachakra (\"Rueda del Dharma) es torneado\" (la mayoría generalmente utilizado en budismo)."
+        },
+        "target": {
+            "content": "Chakravartin (en sánscrito cakravartin, en pali cakkavattin) es un término indio antiguamente utilizado para referirse a un gobernante universal ideal que gobierna ética y benévolamente sobre el mundo entero.[1] El reinado de tal gobernante se denomina sarvabhauma. Es un bahuvrīhi o nombre compuesto indio que significa \"aquél cuyas ruedas se están moviendo\", en el sentido de que \"su carro está rodando en todas partes sin obstáculos\". También puede ser entendido como un 'bahuvrīhi instrumental', es decir, \"a través de quien la rueda se está moviendo\" diciendo que es a través de él que el Dharmachakra (\"Rueda del Dharma\") gira (en la tradición budista)."
+        }
+    },
+    {
+        "id": "56605/mwFg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The first references to a cakravala cakravrtin appear in monuments from the time of the Maurya Empire (322–185 BCE), dedicated to Chandragupta Maurya and his grandson Ashoka. It has not been generally used for any other historic figure. In Buddhism, the chakravarti came to be considered the secular counterpart of a buddha. In general, the term applies to temporal as well as spiritual kingship and leadership, particularly in Buddhism and Jainism. In Hinduism, the term generally denotes a powerful ruler whose dominion extended to the entire earth."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Las primeras referencias a un cakravala cakravrtin aparecer en monumentos del tiempo del Maurya Imperio (322@–185 BCE), dedicado a Chandragupta Maurya y su nieto Ashoka. No ha sido generalmente utilizado para cualquier otra figura histórica. En budismo, el chakravarti vino para ser considerado el secular counterpart de un buddha. En general, el plazo aplica a temporal así como espiritual kingship y liderazgo, particularmente en budismo y Jainism. En Hinduismo, el plazo generalmente denota un gobernante potente cuyo dominion extendió a la tierra entera."
+        },
+        "target": {
+            "content": "Las primeras referencias a un cakravala cakravrtin aparecen en monumentos del Imperio Maurya (322–185 BCE), dedicados a Chandragupta Maurya y su nieto Ashoka. No ha sido generalmente utilizado para otras figuras históricas. En el budismo, el chakravarti es considerado la versión secular de un buda. En general, el término designa a un reinado espiritual y temporal, particularmente en la tradición budista y jainísta. En el hinduismo, el término generalmente denota un poderoso gobernante cuyo reino se extiende a la Tierra entera."
+        }
+    },
+    {
+        "id": "56605/mwHg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Hindu Mainstream tradition"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Hindu Mainstream Tradición"
+        },
+        "target": {
+            "content": "Tradición hindú"
+        }
+    },
+    {
+        "id": "56605/mwHw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The \"Chakravarti Rajya\" did not mean the rule of any one emperor or of one imperialist country. What it meant was a sort of world federation in which the central power would be in the hands of a council composed of the representatives.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El \"Chakravarti Rajya\" no significó la regla de cualquiera emperador o de uno país imperialista. Qué signifique era una clase de la federación mundial en qué el poder central sería en las manos de un consejo compuesto de los representantes.[2]"
+        },
+        "target": {
+            "content": "El \"Chakravarti Rajya\" no se considera en la tradición mayoritaria hindú el gobierno de cualquier emperador sino una especie de federación mundial en la que el poder central estaría en manos de un consejo de representantes.[2]"
+        }
+    },
+    {
+        "id": "56605/mwIA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Jain tradition"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Jain Tradición"
+        },
+        "target": {
+            "content": "Tradición jainísta"
+        }
+    },
+    {
+        "id": "56605/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "During the each motion of the half-cycle of the wheel of time, 63 Salakapurusa or 63 illustrious men, consisting of the 12 Chakravartin regularly appear.[3] The Jain cosmology or legendary history is basically a compilation of the deeds of these illustrious men. As per Jain cosmology, Chakravartins are Universal Monarchs or World Conquerors. Golden in complexion, they all belonged to the Kasyapa gotra. The mother of a Chakravartin sees some dreams at the time of conception. A chakravartin is considered an ideal human being endowed with thirty-two major signs of excellence and many minor signs of excellence."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Durante el cada movimiento del medio-ciclo de la rueda de tiempo, 63 Salakapurusa o 63 illustrious hombres, constando de el 12 Chakravartin regularmente aparecer.[3] El Jain la cosmología o la historia legendaria es básicamente una recopilación de las acciones de estos illustrious hombres. Cuando por Jain cosmología, Chakravartins es Monarcas Universales o Mundiales Conquerors. Dorado en #tez, ellos todo perteneció al Kasyapa gotra. La madre de un Chakravartin ve algunos sueños en el tiempo de concepción. Un chakravartin está considerado un ser humano ideal dotado con treinta y dos señales importantes de excelencia y muchos señales menores de excelencia."
+        },
+        "target": {
+            "content": "Según la tradición jainísta, en cada movimiento del medio-ciclo de la rueda de tiempo, aparecen 63 Salakapurusa (hombres ilustres), incluyendo 12 Chakravartin. La cosmología jainísta es básicamente una recopilación de las acciones de estos hombres ilustres. Entre ellos, los chakravartins son Monarcas Universales o Conquistadores Mundiales. De tez dorada, todos pertenecen al gotra de Kasyapa. La madre de un Chakravartin tiene sueños durante la concepción. Un chakravartin está considerado un ser humano ideal dotado con treinta y dos señales de excelencia y muchos signos menores."
+        }
+    },
+    {
+        "id": "56605/mwKQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The list of 12 chakravartin of Avasarpini as per Jainism is as follows[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La lista de 12 chakravartin de Avasarpini cuando por Jainism es como sigue[4]"
+        },
+        "target": {
+            "content": "La lista de 12 chakravartin de Avasarpini según el jainismo es:[4]"
+        }
+    },
+    {
+        "id": "56605/mwLA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Bharata, son of Tirthankara Rishabhanatha Sagara, ancestor of Bhagiratha as in the Puranas Maghava[5] Sanatkumara[5] Tirthankara Shantinatha Tirthankara Kunthunatha[6] Tirthankara Aranatha[6] Subhauma[6] Padmanabha Harishena Jayasena Brahmadatt"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Bharata, hijo de Tirthankara Rishabhanatha Sagara, antepasado de Bhagiratha cuando en el Puranas Maghava[5] Sanatkumara[5] Tirthankara Shantinatha Tirthankara Kunthunatha[6] Tirthankara Aranatha[6] Subhauma[6] Padmanabha Harishena Jayasena Brahmadatt"
+        },
+        "target": {
+            "content": "Bharata, hijo de Tirthankara Rishabhanatha Sagara, antepasado de Bhagiratha Maghava Sanatkumara Tirthankara Shantinatha Tirthankara Kunthunatha Tirthankara Aranatha Subhauma Padmanabha Harishena Jayasena Brahmadatt"
+        }
+    },
+    {
+        "id": "56605/mwRQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In Jainism, a chakravartin was characterised by possession of saptaratna, or \"seven jewels\":[citation needed]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En Jainism, un chakravartin estuvo caracterizado por posesión de saptaratna, o \"siete joyas\":[la cita necesitada]"
+        },
+        "target": {
+            "content": "Además, un chakravartin posee las  saptaratna, o \"siete joyas\":"
+        }
+    },
+    {
+        "id": "56605/mwSQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "chakram queen chariot jewel wealth horse elephant"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "chakram Reina chariot Joya Riqueza Caballar Elefante"
+        },
+        "target": {
+            "content": "Chakram Reina carro Joya Riqueza Caballo Elefante"
+        }
+    },
+    {
+        "id": "56605/mwWA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Some lists cite navaratna or \"nine jewels\" instead, adding \"prime minister\" and \"son\".[citation needed]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Algunas listas citan navaratna o \"nueve joyas\" en cambio, añadiendo \"primer ministro\" y \"hijo\".[La cita necesitada]"
+        },
+        "target": {
+            "content": "Algunas listas citan hablan navaratna o \"nueve joyas\", añadiendo \"primer ministro\" e \"hijo\"."
+        }
+    },
+    {
+        "id": "56605/mwXg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Cakravarti King in Buddhism"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El Cakravarti Rey en budismo"
+        },
+        "target": {
+            "content": "El Cakravarti en el budismo"
+        }
+    },
+    {
+        "id": "56605/mwXw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Tibetan mandala of the six chakravartis"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Tibetan mandala Del seis chakravartis"
+        },
+        "target": {
+            "content": "Mandala tibetano de los seis chakravartis"
+        }
+    },
+    {
+        "id": "56605/mwZA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The concept of the cakravarti existed in Buddhism as well as in Jainism. The Buddhist Mahāvastu (1.259f) and the Divyāvadāna, as well as the Theravadin Milindapañha, describe the marks of the cakravarti as ruler: uṣṇīṣa, chhatra \"parasol\", \"horn jewel\" or vajra, whisk and sandals. These were the marks of the kshatriya. Plastic art of early Mahayana Buddhism illustrates bodhisattvas in a form called uṣṇīṣin \"wearing a turban/hair binding\", wielding the mudras for \"nonviolent cakravarti rule\".[7]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El concepto del cakravarti existió en budismo así como en Jainism. El budista Mahāvastu (1.259f) y el Divyāvadāna, así como el Theravadin Milindapañha, describir las marcas del cakravarti cuando gobernante: uṣṇīṣun, chhatra \"parasol\", \"joya de cuerno\" o vajra, whisk y sándalos. Estos eran las marcas del kshatriya. Arte plástico de temprano Mahayana el budismo ilustra bodhisattvas en una forma llamó uṣṇīṣen \"llevar un cabello/de turbante que ata\", ejerciendo el mudras para \"nonviolent cakravarti regla\".[7]"
+        },
+        "target": {
+            "content": "Los textos budistas Mahāvastu (1.259f) y Divyāvadāna, así como el theravadin Milindapañha, describen los signos del cakravarti como gobernante: uṣṇīṣun, chhatra o \"parasol\", vajra, whisk y sandalias. Estas eran las marcas del arte kshatriya de comienzos del budismo Mahayana con las que se representaba a los bodhisattvas en una forma llamó uṣṇīṣen \"llevar un cabello/de turbante que ata\", ejerciendo el mudras para \"nonviolent cakravarti regla\".[7]"
+        }
+    },
+    {
+        "id": "56605/mwdQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A Cakravarti King is a king who rules the all of the great continents (Pubbavideha, Jambudipa, Aparagoyana, Uttarakuru) of earth. The King wins all of the continents with peace. Since he's virtuous, seven miracle treasures appear including a large wheel spinning (Chakraratnaya) in the sky. King and his army can travel anywhere with that spinning wheel in the sky. He travels over the world and teaches all kings how to rule with peace Dasavidha-rājadhamma. He can travel to the lower heaven realms with the power of Chakraratnaya if he want. Cakravarti king only appears when humans are virtuous and long lived. Jataka tales a part of the Pali Canon describe about Buddhist Cakravarti Kings."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Un Cakravarti el rey es un rey quién gobierna el todo de los continentes grandes (Pubbavideha, Jambudipa, Aparagoyana, Uttarakuru) de tierra. El Rey gana todo de los continentes con paz. Desde entonces es virtuous, siete tesoros de milagro aparecen incluir una hiladura de rueda grande (Chakraratnaya) en el cielo. King y su ejército pueden viajar anywhere con aquella rueda de hiladura en el cielo. Viaja sobre el mundial y teaches todos los reyes cómo para gobernar con paz Dasavidha-rājadhamma. Pueda viajar a los reinos de cielo más bajos con el poder de Chakraratnaya si quiera. Cakravarti El rey sólo aparece cuándo los humanos son virtuous y mucho tiempo vivió. Jataka Cuentos una parte del Pali el canon describe sobre budista Cakravarti King."
+        },
+        "target": {
+            "content": "Un cakravarti es un rey que gobierna todos los continentes (Pubbavideha, Jambudipa, Aparagoyana, Uttarakuru). EDicho monarca gana todos ellos mediante la paz. Su virtud causa siete milagros, incluyendo una gran rueda que gira en el cielo (Chakraratnaya). El rey y su ejército pueden viajar a cualquier parte con aquella rueda. Viaja por el mundo y enseña a todos los reyes cómo gobernar en paz según el Dasavidha-rājadhamma. Puede viajar a los reinos celestiales con el poder de Chakraratnaya si lo desea. El cakravarti sólo aparece cuándo los humanos son virtuosos y de larga vida. Los Jataka, una parte del canon Pali, hablan sobre el rey Cakravarti."
+        }
+    },
+    {
+        "id": "56605/mweQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "See also"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Ve también"
+        },
+        "target": {
+            "content": "Veáse también"
+        }
+    },
+    {
+        "id": "56605/mwig",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "↑ Gopal, Madan (1990). K.S. Gautam, ed. India a través de las edades. División de publicación, Ministerio de Información y Retransmitiendo, Gobierno de India. p. 81.  ↑ P. 54 Político Pensado de Swami Dayanand Por Shanta Malhotra ↑ Jaini 1998. ↑ Jaini, Jagmanderlal, F.W. Thomas, ed., Esbozos de Jainism  apéndice III. 1 2 von Glasanapp 1999, p. 306. 1 2 3 von Glasanapp 1999, p. 308. ↑ Falk, Harry, \"budismo de Escala Pequeña\" en Voegeli, François; Eltschinger, Vincent; Candotti, Maria Piera; Diaconescu, Bogdan; Kulkarni, Malhar, eds. (2012). Devadattīyam : Johannes Bronkhorst felicitation volumen. Bern: Peter Lang. ISBN 9783034306829. , p. 495"
+        },
+        "target": {
+            "content": "↑ Gopal, Madan (1990). K.S. Gautam, ed. India through the ages. Publication Division, Ministry of Information and Broadcasting, Government of India. p. 81.  ↑ P. 54 Political Thought of Swami Dayanand By Shanta Malhotra ↑ Jaini 1998. ↑ Jaini, Jagmanderlal, F.W. Thomas, ed., Outlines of Jainism  appendix III. 1 2 von Glasanapp 1999, p. 306. 1 2 3 von Glasanapp 1999, p. 308. ↑ Falk, Harry, \"Small-Scale Buddhism\" in Voegeli, François; Eltschinger, Vincent; Candotti, Maria Piera; Diaconescu, Bogdan; Kulkarni, Malhar, eds. (2012). Devadattīyam : Johannes Bronkhorst felicitation volume. Bern: Peter Lang. ISBN 9783034306829. , p. 495"
+        }
+    },
+    {
+        "id": "56605/mwpQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "von Glasenapp, Helmuth (1 January 1999), Jainism: An Indian Religion of Salvation, Delhi: Motilal Banarsidass, ISBN 81-208-1376-6  Dictionary of Hindu Lore and Legend (ISBN 0-500-51088-1) by Anna Dallapiccola Cakkavatti Sutta The Wheel-turning Emperor (excerpt) Translated from the Pali by Thanissaro Bhikkhu A Glossary of Pali and Buddhist Terms"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "von Glasenapp, Helmuth (1 enero 1999), Jainism: Una Religión india de Salvación, Delhi: Motilal Banarsidass, ISBN 81-208-1376-6  Diccionario de Hindu Saber popular y Leyenda (ISBN 0-500-51088-1) por Anna Dallapiccola Cakkavatti Sutta El Emperador que gira Rueda (excerpt) Tradujo del Pali por Thanissaro Bhikkhu Un Glosario de Pali y Plazos budistas"
+        },
+        "target": {
+            "content": "von Glasenapp, Helmuth (1 January 1999), Jainism: An Indian Religion of Salvation, Delhi: Motilal Banarsidass, ISBN 81-208-1376-6  Dictionary of Hindu Lore and Legend (ISBN 0-500-51088-1) by Anna Dallapiccola Cakkavatti Sutta The Wheel-turning Emperor (excerpt) Translated from the Pali by Thanissaro Bhikkhu A Glossary of Pali and Buddhist Terms"
+        }
+    },
+    {
+        "id": "57082/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Unio Trium Nationum (Latin for \"Union of the Three Nations\") was a pact of mutual aid codified in 1438 by three Estates of Transylvania: the (largely Hungarian) nobility, the Saxon (German) burghers, and the free military Székelys.[1] The union was directed against the peasantry, many of whom were Romanian Orthodox Christians, as a reaction to a widespread peasant rebellion.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Unio Trium Nationum (Latino para \"Unión de las Tres Naciones\") era un pacto de ayuda mutua codified en 1438 por tres Propiedades de Transylvania: el (en gran parte húngaro) nobleza, el sajón (alemán) burghers, y el libre militar Székelys.[1] La unión estuvo dirigida contra el campesinado, muchos de quien era rumano cristianos ortodoxos, como reacción a una rebelión villana extendida.[1]"
+        },
+        "target": {
+            "content": "La Unio Trium Nationum (en latín, \"Unión de las Tres Naciones\") fue un pacto de ayuda mutua sellado en 1438 por tres estamentos de Transilvania: la nobleza (mayoritariamente) húngara, los burgueses sajones (alemanes), y los székelys.[1] La unión estaba planteada contra el campesinado, mayoritariamente rumano y ortodoxos, en respuesta a una rebelión campesina.[1]"
+        }
+    },
+    {
+        "id": "57082/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Medieval administrative structure in Transylvania"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Estructura administrativa medieval en Transylvania"
+        },
+        "target": {
+            "content": "Estructura administrativa medieval en Transilvania"
+        }
+    },
+    {
+        "id": "57082/mwFA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The territories of the Three Nations represented on a map made by Johann Homann in the first decades of the 18th century"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los territorios de las Tres Naciones representaron en un mapa hecho por Johann Homann en las primeras décadas del siglo XVIII"
+        },
+        "target": {
+            "content": "Los territorios de las Tres Naciones en un mapa hecho por Johann Homann en las primeras décadas del siglo XVIII"
+        }
+    },
+    {
+        "id": "57082/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In medieval times, Transylvania was organised into two types of territorial units:"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En tiempo medieval, Transylvania estuvo organizado a dos tipos de unidades territoriales:"
+        },
+        "target": {
+            "content": "En tiempos medievales, Transilvania estaba organizado en dos tipos de unidades territoriales:"
+        }
+    },
+    {
+        "id": "57082/mwGg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Noble Counties (Comitates) were ruled by feudal landlords. Here, the majority of population were Hungarian and Romanian serfs. In other regions called \"Seats\", the free Székely and Saxon nations lived without feudal landlords and had the royal privilege to have local authority and self-government."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los Condados Nobles (Comitates) estuvo gobernado por dueños feudales. Aquí, la mayoría de población era húngara y rumano serfs. En otras regiones llamaron \"Asientos\", el libres Székely y las naciones sajonas vivieron sin dueños feudales y tuvo el privilegio real para tener autoridad local y self-gobierno."
+        },
+        "target": {
+            "content": "Los Condados Nobles (Comitates) gobernados por señores feudales. La mayoría de población estaba constituida por siervos húngaros y rumanos. Otras regiones llamadas \"Sedes\", donde la baja nobleza székely y los colonos sajones vivían sin señores feudales y autogobierno por privilegio real."
+        }
+    },
+    {
+        "id": "57082/mwJA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Events leading to the Union"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Los acontecimientos que dirigen a la Unión"
+        },
+        "target": {
+            "content": "Antecedentes"
+        }
+    },
+    {
+        "id": "57082/mwJQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "With the rise of the Ottoman Empire, one of the first major Ottoman military campaigns against Transylvanian parts of the Kingdom of Hungary was organised in 1421. The invading forces entered the region from Wallachia. The Saxons and Székelys living in the border area tried to defend themselves, but were heavily outnumbered by the intruders. King Sigismund was not able to react promptly because he had recently inherited the Bohemian throne and was involved there in the Hussite Wars. Also, Transylvanian Diets had not been organized for decades and there was no forum to coordinate defence preparations of the three nations. Left alone, the Saxon Burzenland and the Székely Seat of Háromszék, both in the border region, were ravaged. Sigismund reacted to the attack only years later, leading a series of military campaigns against the Ottomans in Wallachia. The Ottomans, allied with the Wallachian Voivode, returned in 1432 and Southern Transylvania suffered serious damages again."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Con el aumento del Ottoman Imperio, uno del primer importante Ottoman campañas militares contra Transylvanian partes del Reino de Hungría estuvo organizado en 1421. Las fuerzas de invadir introdujeron la región de Wallachia. Los sajones y Székelys viviendo en el área de frontera los intentó defender, pero era fuertemente outnumbered por los intrusos. King Sigismund no fue capaz de reaccionar promptly porque haya recientemente heredó el Bohemian trono y estuvo implicado allí en el Hussite Guerras. También, Transylvanian las dietas no habían sido organizadas para décadas y había ningún foro para coordinar preparaciones de defensa de las tres naciones. A la izquierda sólo, el sajón Burzenland y el Székely Asiento de Háromszék, ambos en la región de frontera, era ravaged. Sigismund Reaccionó al ataque años únicos más tarde, dirigiendo una serie de campañas militares contra el Ottomans en Wallachia. El Ottomans, aliado con el Wallachian Voivode, regresado en 1432 y Del sur Transylvania padeció daños serios otra vez."
+        },
+        "target": {
+            "content": "En medio de la expansión del Imperio Otomano, una de las primeras campañas militares contra el Reino de Hungría en Transilvania tuvo lugar en 1421. Las fuerzas invasoras llegaron desde Valaquia y sobrepasaron a los sajones y székelys que vivían en la frontera. El rey Segismundo no fue capaz de reaccionar con la debida presteza por estar ocupado en el Reino de Bohemia (que había heredado) con las guerras husitas. La dieta de Transilvania no había sido convocada en décadas, por lo que tampoco había ninguna coordinación local para la defensa. Abandonados a sus propias fuerzas, el territorio sajón de Burzenland y el székely de Háromszék, fueron asolados. Segismundo solo reaccionó años después, con una serie de campañas contra la Valaquia otomana. Esto motivó a su vez otra incursión otomana en 1432, que causó graves daños en el sur de Transilvania."
+        }
+    },
+    {
+        "id": "57082/mwMA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the same period, nobles and church authorities in Central Transylvania were concerned about protesting and revolting serfs. Hungarian and Romanian peasants were dissatisfied with their oppressed status, the high taxes and restrictions to their free movement. Scattered peasant protests turned into a serious revolt in 1437, when peasants and petty nobles defeated the troops of their feudal landlords. The Budai Nagy Antal Revolt was triggered by an attempt by the Bishop of Transylvania to collect unpaid taxes. Although the revolt was led by a Hungarian petty noble – Antal Nagy de Buda - it was a coalition of various elements of Transylvanian society: Hungarian and Romanian serfs, also the burghers of Kolozsvár (Klausenburg, Cluj), and some petty nobles. After the successful battle the Treaty of Kolozsmonostor was reached with the nobles, allowing the serfs greater freedom and lower taxes. In this agreement, one of the peasant leaders, Pál Vajdaházi, was called vexilifer Universitatis regnicolarum Hungarorum et Valachorum huius principatus Hungariae (Standard-bearer of the Union of Hungarian and Romanian inhabitants of this province of Hungary). Consequently, it is possible that the peasant rebels called themselves as the Estate of Hungarians and Romanians (Universitas Hungarorum et Valachorum)."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En el mismo periodo, nobles y autoridades de iglesia en Centrales Transylvania estuvo preocupado aproximadamente protestando y repugnando serfs. Húngaro y campesinos de rumano eran descontentos con su oppressed estado, los impuestos altos y restricciones a su movimiento libre. Las protestas villanas esparcidas convirtieron en un serios repugnar en 1437, cuándo campesinos e insignificantes nobles derrotados las tropas de sus dueños feudales. El Budai Nagy Antal Repugna estuvo provocado por un intento por el Obispo de Transylvania para recoger unpaid impuestos. A pesar de que el repugnar estuvo dirigido por un húngaro insignificante noble @– Antal Nagy de Buda - sea una coalición de varios elementos de Transylvanian sociedad: húngaro y rumano serfs, también el burghers de Kolozsvár (Klausenburg, Cluj), y algunos insignificantes nobles. Después de la batalla exitosa el Tratado de Kolozsmonostor estuvo logrado con el nobles, dejando el serfs libertad más grande e impuestos más bajos. En este acuerdo, uno de los dirigentes villanos, Pál Vajdaházi, se apellidó vexilifer Universitatis regnicolarum Hungarorum et Valachorum huius principatus Hungariae (Estándar-portador de la Unión de húngaro y habitantes de rumano de esta provincia de Hungría). Consiguientemente, es posible que el campesino se rebela llamado ellos como la Propiedad de Hungarians y Romanians (Universitas Hungarorum et Valachorum)."
+        },
+        "target": {
+            "content": "Al mismo tiempo crecía la preocupación entre nobles y autoridades eclesiásticas en Transilvania central por las revueltas de los siervos. Los campesinos húngaros y rumanos estaban descontentos con su estatus legal, los altos impuestos y los privilegios señoriales que les impedían entre otras coss abandonar sus tierras de origen. Las protestas campesinas llegaron a ser una revuelta generalizada cuando en 1437, las fuerzas de los grandes señores se vieron sobrepasadas. La revuelta de Budai Nagy Antal se desencadenó por un intento del Obispo de Transilvania de reclamar impuestos impagados y, pese a ser liderada por un miembro de la baja nobleza, – Antal Nagy de Buda - fue apoyada por una amplia coalición social: siervos húngaros y rumanos, baja nobleza y burgueses de Kolozsvár (Klausenburg, Cluj). Después de ganar una batalla, lograron imponer el Tratado de Kolozsmonostor que daba derechos a los campesinos y rebajaba los impuestos. Tras este acuerdo, uno de los dirigentes campesino, Pál Vajdaházi, se apellidó vexilifer Universitatis regnicolarum Hungarorum et Valachorum huius principatus Hungariae (Portaestandarte de la Unión húngarod y rumanos de esta provincia de Hungría) por lo que es posible que el campesinado reivindicara ser considerado un estamento de húngaros y rumanos (Universitas Hungarorum et Valachorum)."
+        }
+    },
+    {
+        "id": "57082/mwRQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Brotherly Union (Union of Kápolna)"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Brotherly Unión (Unión de Kápolna)"
+        },
+        "target": {
+            "content": "Unión fraterna (Unión de Kápolna)"
+        }
+    },
+    {
+        "id": "57082/mwRg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In this situation, the Transylvanian Diet was still not called together by the voivode and the nobles initiated a meeting of the three nations. After almost half a century, the estates now had the opportunity to discuss about Transylvanian issues. On this occasion, nobles set up an alliance with Székelys and Saxons who were still afraid of possible Ottoman incursions. The alliance of mutual aid, signed in Kápolna (present-day Căpâlna), was called „Fraterna Unio” (Brotherly Union), and was designed to protect the parties both from peasant revolts and from Ottoman attacks. The existence of the \"Brotherly Union\" helped the feudal landlords to be able to re-negotiate and partly modify the terms of the previous agreement with the peasants, the alliance, however, did not organise any serious military operations until the end of 1437. When, however, King Sigismund died in December 1437, the alliance attacked and crushed the peasant army."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En esta situación, el Transylvanian la dieta era todavía no llamado junto por el voivode y el nobles inició una reunión de las tres naciones. Después de que casi a medias un siglo, las propiedades ahora tuvieron la oportunidad de hablar sobre Transylvanian asuntos. En esta ocasión, nobles instaló una alianza con Székelys y sajones quién era todavía temeroso de posible Ottoman incursiones. La alianza de ayuda mutua, firmado en Kápolna (presente-día Căpâlna), se apellidó „Fraterna Unio” (Brotherly Unión), y estuvo diseñado para proteger los partidos tanto de villanos repugna y de Ottoman ataques. La existencia del \"Brotherly la unión\" ayudó los dueños feudales para ser capaces a re-negociar y en parte modificar los plazos del acuerdo anterior con los campesinos, la alianza, aun así, no organizó cualesquier acciones de guerra serias hasta el fin de 1437. Cuando, aun así, King Sigismund murió en diciembre 1437, la alianza atacada y aplastó el ejército villano."
+        },
+        "target": {
+            "content": "En esta situación, la dieta transilvana seguía sin haber convocada por el voivoda y los nobles organizaron una asamblea de las tres \"naciones\". Era la primera vez en medio siglo que los estamentos transilvanos se congregaban. Los nobles húngaros apoyaron una alianza con székelys y sajones, todavía temerosos de posible incursiones turcas. La alianza de ayuda mutua, firmado en Kápolna (actual Căpâlna), se llamó \"Fraterna Unio\" (Unión de hermanos) y fue diseñada para proteger a las partes tanto de sublevaciones campesinas como de ataques otomanos. La existencia de esta unión ayudó a los señores feudales a renegociar los términos del acuerdo con los campesiones, aunque no hubo acciones militares serias hasta finales de 1437. Entonces, tras la muerte del rey Segismundo en diciembre 1437, la alianza atacó y aplastó al ejército campesino."
+        }
+    },
+    {
+        "id": "57082/mwSg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Founding of the Union of Three Nations"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Fundando de la Unión de Tres Naciones"
+        },
+        "target": {
+            "content": "Funación de la Unión de las Tres Naciones"
+        }
+    },
+    {
+        "id": "57082/mwSw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "After the successful campaign, the alliance of Nobles, Székelys and Saxons was reinforced in the agreement called \"Unio Trium Nationum\" (Union of three Nations) on February 2, 1438. Similarly to the Brotherly Union, the co-operation was aimed at providing mutual aid against peasant revolts and Ottoman military campaigns. The Union ensured that the (Hungarian and Romanian) serfs continued to be excluded from the political and social life of Transylvania, although they made up the majority of the population in the Noble Counties (Comitates). The alliance of the three privileged estates continued to be effective for many centuries and provided the framework of internal politics in Transylvania. After the 18th century, when the danger of Ottoman or Tatar attacks was over, the Union became an alliance of the three estates to protect their feudal privileges from those members of society who were not represented in the Transylvanian Diet. In the 19th century, the term \"three nations\" became charged with ethnic considerations, because Romanians were mostly peasants and were consequently excluded from Transylvanian politics."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Después de la campaña exitosa, la alianza de Nobles, Székelys y los sajones estuvo reforzado en el acuerdo llamó \"Unio Trium Nationum\" (Unión de tres Naciones) encima febrero 2, 1438. De modo parecido al Brotherly Unión, el co-la operación estuvo apuntada en proporcionar ayuda mutua contra villano repugna y Ottoman campañas militares. La Unión aseguró que el (húngaro y rumano) serfs continuado para ser excluido de la vida política y social de Transylvania, a pesar de que hicieron la mayoría de la población en los Condados Nobles (Comitates). La alianza de las tres propiedades privilegiadas continuó ser eficaz para muchos siglos y proporcionados el marco de política interna en Transylvania. Después del siglo XVIII, cuándo el peligro de Ottoman o Tatar los ataques era encima, la Unión devenía una alianza de las tres propiedades para proteger sus privilegios feudales de aquellos miembros de sociedad quién no fue representado en el Transylvanian Dieta. En el siglo XIX, el plazo \"tres naciones\" devinieron cobradas con consideraciones étnicas, porque Romanians era mayoritariamente campesinos y era consiguientemente excluido de Transylvanian política."
+        },
+        "target": {
+            "content": "Después de la exitosa campaña, la alianza de nobles, Székelys y los sajones fue reforzada con el acuerdo llamado \"Unio Trium Nationum\" (Unión de las Tres Naciones) el 2 de febrero de 1438. De modo parecido la unión de hermanos, se acordó cooperar contra rebeliones villanas e invasiones otomanas. La Unión aseguró que los siervos húngares y rumanos continuaran excluidos de la vida política y social de Transilvania, a pesar de que constituían la mayoría de la población en los Condados Nobles (Comitates). La alianza de los tres estamentos privilegiados se mantuvo varios siglos y fue uno de los elementos fundamentales de la política transilvana. Tras el siglo XVIII, cuándo el peligro de ataques otomanos o tartaros ya había pasado, la alianza se mantuvo solo como unión de los estamentos feudales frente a aquellos que no estaban representados en la Dieta  transilvana. En el siglo XIX, el término \"tres naciones\" cobró con consideraciones étnicas, porque los rumanos eran mayoritariamente campesinos y eran excluidos de la vida política al no pertenecer a dichos estamentos."
+        }
+    },
+    {
+        "id": "57082/mwUA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1711, the Bulgarians of Alvinc and Déva (led by church leader Balázs Marinovics) and the Armenians also claimed the privileges of a fourth and fifth natio, but their demands were not met with the elevation of their communities to that privileged status.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1711, el Bulgarians de Alvinc y Déva (dirigido por dirigente de iglesia Balázs Marinovics) y el Armenians también reclamó los privilegios de un cuarto y quinto natio, pero sus demandas no fueron conocidas con la elevación de sus comunidades a aquel estado privilegiado.[2]"
+        },
+        "target": {
+            "content": "En 1711, los búlgaros de Alvinc y Déva (dirigidos por el clérigo Balázs Marinovics) y los armenios también reclamaron los privilegios como cuarta y quinta natio, pero sus demandas no fueron concedidas.[2]"
+        }
+    },
+    {
+        "id": "57082/mwVw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 László Fosztó: Ritual Revitalisation After Socialism: Community, Personhood, and Conversion among Roma in a Transylvanian Village, Halle-Wittenberg, 2007 ↑ Trócsányi, Zs. (1985). \"The legal status of the Bulgarian colonies of Transylvania (1690-1848)\". Etudes historiques hongroises. "
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "1 2 László Fosztó: Revitalización Ritual Después de que Socialismo: Comunitario, Personhood, y Conversión entre Roma en un Transylvanian Pueblo, Halle-Wittenberg, 2007 ↑ Trócsányi, Zs. (1985). \"El estado legal de las colonias búlgaras de Transylvania (1690-1848)\". Etudes historiques hongroises. "
+        },
+        "target": {
+            "content": "1 2 László Fosztó: Ritual Revitalisation After Socialism: Community, Personhood, and Conversion among Roma in a Transylvanian Village, Halle-Wittenberg, 2007 ↑ Trócsányi, Zs. (1985). \"The legal status of the Bulgarian colonies of Transylvania (1690-1848)\". Etudes historiques hongroises. "
+        }
+    },
+    {
+        "id": "57082/mwXw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Further reading"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Lectura más lejana"
+        },
+        "target": {
+            "content": "Bibliografía"
+        }
+    },
+    {
+        "id": "57082/mwYA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Magyarország történeti kronológiája, MTA Történettudományi Intézet (Historical Chronology of Hungary, Hungarian Academy of Sciences), 1981 (Hungarian) Erdély története, MTA Történettudományi Intézet (History of Transylvania, Hungarian Academy of Sciences), 1986 (Hungarian)"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Magyarország történeti kronológiája, MTA Történettudományi Intézet (Cronología Histórica de Hungría, Academia húngara de Ciencias), 1981 (húngaros) Erdély története, MTA Történettudományi Intézet (Historia de Transylvania, Academia húngara de Ciencias), 1986 (húngaros)"
+        },
+        "target": {
+            "content": "Magyarország történeti kronológiája, MTA Történettudományi Intézet (Cronología Histórica de Hungría, Academia húngara de Ciencias), 1981 (húngaros) Erdély története, MTA Történettudományi Intézet (Historia de Transylvania, Academia húngara de Ciencias), 1986 (húngaros)"
+        }
+    },
+    {
+        "id": "57082/mwZw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "See also"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Ve también"
+        },
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "57082/mwaA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Budai Nagy Antal Revolt Transylvanian Memorandum Universitas Valachorum"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Budai Nagy Antal Repugna Transylvanian Memorándum Universitas Valachorum"
+        },
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "57944/mwIQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": ""
+        },
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "57944/mwAQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "La risa en vacaciones is a successful Mexican film series that has spawned eight sequels. The movies are popular in Mexico, Latin America and among the Hispanics of the United States."
+        },
+        "mt": null,
+        "target": {
+            "content": "La risa en vacaciones fue una serie de películas mexicanas exitosas que tuvo ocho secuelas. Las películas son populares en México, Latinoamérica y entre los hispanos de los Estados Unidos."
+        }
+    },
+    {
+        "id": "57944/mwCA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "La risa en vacaciones (Laughter on vacations) are movies where non-actors unwillingly participate. There are hidden cameras filming as people, mainly tourists, fall prey to pranks. These people, usually tourists, then have to sign a paper authorizing for their images to be used for the movie. Usually, the movies are shot in hotels, airports and fishing areas in Acapulco, Cancún or Cabo San Lucas, among other destinations. Three famous Mexican actors, who are identified in the movie only as \"Pedro\", \"Pablo\" and \"Paco\", appear in the movie as the pranksters."
+        },
+        "mt": null,
+        "target": {
+            "content": "La risa en vacaciones es una serie de películas donde donde personas involuntariamente participan. Por medio de cámaras escondidas se filman a personas, principalmente turistas, que son las víctimas de las bromas. Estas personas, normalmente turistas, entonces tienen que firmar un documento que autoriza sus imágenes para ser utilizadas para la película. Normalmente, las películas fueron filmadas en hoteles, aeropuertos y áreas pesqueras en Acapulco, Cancún o Cabo San Lucas, entre otros destinos. Los personajes principales, quiénes están identificados en la película sólo como \"Pedro\", \"Pablo\" y \"Paco\", son los bromistas."
+        }
+    },
+    {
+        "id": "57944/mwEA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Typical movie jokes usually involve the actors putting balloons on an unsuspecting woman's dress, causing the back of the dress to flip up once she leaves her seat, or turning a public telephone upside down when a person is using it, making a toilet in a public restroom throw water back at the user, delivering the wrong food to a client at a hotel's restaurant, telling awaiting passengers at an airport that their airplane has been designed to arrive at a different terminal, then have the passengers go back to their original terminal after announcing there has been \"another change\" and the plane will arrive in the same terminal they had been originally told to wait at, or Pepe pretending to be a homosexual and entering a men's restroom where he would tell other men how much he admires their private parts."
+        },
+        "mt": null,
+        "target": {
+            "content": "Las bromas normalmente implican a los actores poner globos en el vestido de una mujer, causando que se le levante el vestido una vez que deja el asiento, o girando un teléfono público al revés cuándo una persona está utilizándolo, haciendo que un lavabo en un sanitario público eche agua hacia la persona, entregando la comida incorrecta a un cliente en el restaurante de un hotel, diciendo a los pasajeros en un aeropuerto que su avión ha sido movido a una terminal diferente, después hacen que los pasajeros regresen a su terminal original después de anunciar que ha habido \"otro cambio\" y el avión llegará en la misma terminal habían estado originalmente, o Pepe pretendiendo ser un homosexual que entra a los baños para hombres diciéndoles cuánto admira sus partes privadas."
+        }
+    },
+    {
+        "id": "57944/mwFg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Because of the complicated nature of some of their jokes (such as the restroom, restaurant and airport ones), they require full cooperation from hotel and airport management, as well as from their own movie technicians."
+        },
+        "mt": null,
+        "target": {
+            "content": "Debido a la complicada naturaleza de algunos de sus chistes (como el del baño, restaurante y aeropuerto), requirieron cooperación del hotel y la administración de aeropuerto, así como de los técnicos propios de grabación. "
+        }
+    },
+    {
+        "id": "57944/mwFw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "External links"
+        },
+        "mt": null,
+        "target": {
+            "content": "Enlaces externos"
+        }
+    },
+    {
+        "id": "57944/mwGA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "La risa en vacaciones at the Internet Movie Database"
+        },
+        "mt": null,
+        "target": {
+            "content": "La risa en vacaciones at the Internet Movie Database"
+        }
+    },
+    {
+        "id": "59893/mwBQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The fibers which form a sling for the rectum are named the Puborectalis."
+        },
+        "mt": null,
+        "target": {
+            "content": "Las fibras que forman un asa  para el recto se conocen como Músculo Puborrectal."
+        }
+    },
+    {
+        "id": "59893/mwCQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "They arise from the lower part of the pubic symphysis, and from the superior fascia of the urogenital diaphragm."
+        },
+        "mt": null,
+        "target": {
+            "content": "Surgen de la parte inferior de la sínfisis del pubis, y de la fascia superior del diafragma urogenital."
+        }
+    },
+    {
+        "id": "59893/mwDA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "They meet with the corresponding fibers of the opposite side around the lower part of the rectum, and form for it a strong sling. Relaxation increases the angle between rectum and anus, allowing defecation in conjunction with relaxation of the internal and external anal sphincters."
+        },
+        "mt": null,
+        "target": {
+            "content": "Se unen con las fibras correspondientes del lado opuesto cerca a la parte inferior del recto, y forman por ello una fuerte honda. La relajación aumenta el ángulo entre el recto y el ano, lo que permite la defecación en conjunto con la relajación de los esfínter anal interno y externo."
+        }
+    },
+    {
+        "id": "59893/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Puborectalis is part of the levator ani muscle."
+        },
+        "mt": null,
+        "target": {
+            "content": "El musculo puborrecta hace parte del músculo elevador del ano."
+        }
+    },
+    {
+        "id": "60111/mwAsk",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "John Bryan Davis, D. Wade Hands, Uskali Mäki (1998). Handbook of Economic Methodology, E. Elgar Hands, D. Wade, ed. (1993). The Philosophy And Methodology Of Economics, Duke University Hausman, Daniel M. (1984). The Philosophy of Economics: An Anthology. New York: Cambridge University Press, ISBN 052145929X Boland, L. (1982) The Foundations of Economic Method, London: Geo. Allen & Unwin. Boland, L. (1989) The Methodology of Economic Model Building: Methodology after Samuelson, London: Routledge. Boland, L. (1997) Critical Economic Methodology: A Personal Odyssey, London: Routledge Boland, L. (2003) The Foundations of Economic Method: A Popperian Perspective, London: Routledge D.N. McCloskey (1983). The Rhetoric of Economics, Univ of Wisconsin Press, 1998 Daniel M. Hausman (1992). Essays on Philosophy and Economic Methodology, Cambridge University Press, 1992 Nell, E.J. and Errouaki, K. (2011) Rational Econometric Man. Edward Elgar. Düppe, T. (2011). How Economic Methodology Became a Separate Science, Journal of Economic Methodology, 18 (2): 163-176."
+        },
+        "mt": null,
+        "target": {
+            "content": "Referencias"
+        }
+    },
+    {
+        "id": "60111/mwAso",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "John Bryan Davis, D. Wade Hands, Uskali Mäki (1998). Handbook of Economic Methodology, E. Elgar"
+        },
+        "mt": null,
+        "target": {
+            "content": "John Bryan Davis, D. Wade Hands, Uskali Mäki (1998). Handbook of Economic Methodology, E. Elgar Hands, D. Wade, ed. (1993). The Philosophy And Methodology Of Economics, Duke University Hausman, Daniel M. (1984). The Philosophy of Economics: An Anthology. New York: Cambridge University Press, ISBN 052145929X Boland, L. (1982) The Foundations of Economic Method, London: Geo. Allen & Unwin. Boland, L. (1989) The Methodology of Economic Model Building: Methodology after Samuelson, London: Routledge. Boland, L. (1997) Critical Economic Methodology: A Personal Odyssey, London: Routledge Boland, L. (2003) The Foundations of Economic Method: A Popperian Perspective, London: Routledge D.N. McCloskey (1983). The Rhetoric of Economics, Univ of Wisconsin Press, 1998 Daniel M. Hausman (1992). Essays on Philosophy and Economic Methodology, Cambridge University Press, 1992 Nell, E.J. and Errouaki, K. (2011) Rational Econometric Man. Edward Elgar. Düppe, T. (2011). How Economic Methodology Became a Separate Science, Journal of Economic Methodology, 18 (2): 163-176."
+        }
+    },
+    {
+        "id": "60111/mwAuc",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Journal of Economic Methodology - page @ EconPapers Daniel M. Hausman, Philosophy of Economics (with focus on methodology), Stanford Encyclopedia of Philosophy Milton Friedman, \"The Methodology of Positive Economics\""
+        },
+        "mt": null,
+        "target": {
+            "content": "Enlaces externos"
+        }
+    },
+    {
+        "id": "60111/mwAug",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Journal of Economic Methodology - page @ EconPapers"
+        },
+        "mt": null,
+        "target": {
+            "content": "Journal of Economic Methodology - page @ EconPapers Daniel M. Hausman, Philosophy of Economics (with focus on methodology), Stanford Encyclopedia of Philosophy Milton Friedman, \"The Methodology of Positive Economics\""
+        }
+    },
+    {
+        "id": "60111/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Economic methodology is the study of methods, especially the scientific method, in relation to economics, including principles underlying economic reasoning.[1] In contemporary English, 'methodology' may reference theoretical or systematic aspects of a method (or several methods). Philosophy and economics also takes up methodology at the intersection of the two subjects."
+        },
+        "mt": null,
+        "target": {
+            "content": "La metodología económica es el estudio de los métodos, especialmente el científico, relacionados con la economía, incluyendo los principios que subyacen al razonamiento económico.[1] La filosofía de la economía también aborda la metodología en la intersección de ambas disciplinas."
+        }
+    },
+    {
+        "id": "60111/mwCA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Scope"
+        },
+        "mt": null,
+        "target": {
+            "content": "Alcance"
+        }
+    },
+    {
+        "id": "60111/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "General methodological issues include similarities and contrasts to the natural sciences and to other social sciences and, in particular, to:"
+        },
+        "mt": null,
+        "target": {
+            "content": "Las cuestiones metodológicas generales incluyen similaridades y contrastes a las ciencias naturales y otras ciencias sociales y, en particular, a:"
+        }
+    },
+    {
+        "id": "60111/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "the definition of economics[2] the scope of economics as defined by its methods[3] fundamental principles and operational significance of economic theory[4] methodological individualism versus holism in economics[5] the role of simplifying assumptions such as rational choice and profit maximizing in explaining or predicting phenomena[6] descriptive/positive, prescriptive/normative, and applied[7] uses of theory[8] the scientific status[9] and expanding domain of economics[10] issues critical to the practice and progress of econometrics[11] the balance of empirical and philosophical approaches[12] the role of experiments in economics[13] the role of mathematics and mathematical economics in economics[14] the writing[15] and rhetoric of economics[16] the relation between theory, observation, application, and methodology in contemporary economics.[17]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La definición de la economía[2] El alcance de la economía definido desde sus métodos[3] Principios fundamentales y significancia operativa de la teoría económica[4] Individualismo metodológico frente a holismo[5] El rol de los supuestos simplificadores tales como la elección racional o la maximización de beneficios a la hora de explicar o predecir fenómenos económicos[6] Usos descriptivos/positivos, prescriptivos/normativos, y aplicados[7] de la teoría[8] el estatus científico[9] y dominio expansivo de la economía[10] cuestiones críticas con la práctica y progreso de la econometría[11] el balance de enfoques empíricos y filosóficos[12] el papel de los experimentos en economía[13] El papel de las matemáticas y la economía matemática en la economía[14] la escritura[15] y retórica de la economía[16] la relación entre teoría, observación, aplicación, y metodología en la economía contemporánea.[17]"
+        }
+    },
+    {
+        "id": "60111/mwLA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Economic methodology has gone from periodic reflections of economists on method to a distinct research field in economics since the 1970s. In one direction, it has expanded to the boundaries of philosophy, including the relation of economics to the philosophy of science, the theory of knowledge[18] In another direction of philosophy and economics, additional subjects are treated include decision theory and ethics.[19]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La metodología económica ha pasado de reflexiones periódicas de los economistas a campo de investigación propio desde los años 70. Por una parte, ha expandido las fronteras de la filosofía, incluyendo la relación de la economía con la filosofía de la ciencia y la teoría del conocimiento[18] Por otra, en la filosofía de la economía, se tratan temas como la teoría de la decisión y la ética.[19]"
+        }
+    },
+    {
+        "id": "60111/mwMw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "See also"
+        },
+        "mt": null,
+        "target": {
+            "content": "Ver también"
+        }
+    },
+    {
+        "id": "60111/mwNA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Economic systems Methodology of econometrics Model (economics)"
+        },
+        "mt": null,
+        "target": {
+            "content": "Sistemas económicos Metodología econométrica Modelo (economía)"
+        }
+    },
+    {
+        "id": "60111/mwOw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Notes"
+        },
+        "mt": null,
+        "target": {
+            "content": "Notes"
+        }
+    },
+    {
+        "id": "60111/mwPA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "↑ Press + button to enlarge small-text links below.    • Roger E. Backhouse, 2008. \"methodology of economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Lawrence A. Boland, 1987. \"methodology\", The New Palgrave: A Dictionary of Economics, v. 3, pp. 455-56.    • Daniel M. Hausman, 1989. \"Economic Methodology in a Nutshell\", Journal of Economic Perspectives, 3(2), pp. 115-127.    • Kevin D. Hoover, 1995. \"Review Article: Why Does Methodology Matter for Economics?\" Economic Journal, 105(430), pp. 715-734. ↑ • John Stuart Mill, 1844. \"On the Definition of Political Economy; and on the Method of Investigation Proper to It\", Essay V, in Essays on Some Unsettled Questions of Political Economy.    • Roger E. Backhouse and Steven Medema, 2008. \"economics, definition of\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____. 2009. \"Retrospectives: On the Definition of Economics\", Journal of Economic Perspectives, 23(1), pp. 221–33 (close Bookmarks tab) Abstract. ↑ John Neville Keynes, 1891. The Scope and Method of Political Economy. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents. ↑ • John R. Hicks, 1939. Value and Capital: An Inquiry into Some Fundamental Principles of Economic Theory.    • Terence W. Hutchison, 1938. The Significance and Basic Postulates of Economic Theory.   • Martin Hollis and Edward J. Nell, 1975. Rational Economic Man, ch. 3,4,5 and 7. Cambridge University Press.   • Paul A. Samuelson, 1947. Foundations of Economic Analysis.    • Richard G. Lipsey, 2008. \"positive economics.\" The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.    • Lawrence A. Boland, 2008. \"instrumentalism and operationalism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2003. The Foundations of Economic Method, 2nd Edition. Description and chapter links. ↑ • Kaushik Basu, 2008. \"methodological individualism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.   • Edward J. Nell, 1998. General Theory of Transformational Growth, Part I. Cambridge University Press.    • Harold Kincaid, 2008. \"individualism versus holism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • F.A. Hayek, 1948. Individualism and Economic Order. Chapter-preview links.    • George J. Stigler and Paul A. Samuelson, 1963. \"A Dialogue on the Proper Economic Role of the State.\" Selected Papers, No. 7. University of Chicago Graduate School of Business.    • James M. Buchanan, 1990. \"The Domain of Constitutional Economics\", Constitutional Political Economy, 1(1), pp. 1-18, adapted as \"Constitutional Political Economy\" in C. K. Rowley and F. Schneider, ed., 2004, The Encyclopedia of Public Choice, v. 2, pp. 60-67.    • Kenneth J. Arrow, 1994. \"Methodological Individualism and Social Knowledge\", American Economic Review, 84(2), pp. 1-9.    • Richard H. Thaler and Cass R. Sunstein, 2008. Nudge: Improving Decisions about Health, Wealth, and Happiness. Yale. Description and preview.    • Shiozawa, Y. 2004 Evolutinary Economics in the 21st Century: A Manifest, Evolutionary and Institutional Economics Review, 1(1): 5-47. ↑ • Lawrence A. Boland, 2008. \"assumptions controversy\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Milton Friedman, 1953. \"The Methodology of Positive Economics\" in Essays in Positive Economics.    • Paul A. Samuelson, 1963. \"Problems of Methodology: Discussion\", American Economic Review, 53(2) American Economic Review, pp. 231-236. Reprinted in J.C. Wood & R.N. Woods, ed., 1990, Milton Friedman: Critical Assessments, v. I, pp. 107-13. Preview. Routledge.    • Stanley Wong, 1973. \"The 'F-Twist' and the Methodology of Paul Samuelson\", American Economic Review, 63(3) p p. 312-325. Reprinted in J.C. Wood & R.N. Woods, ed., Milton Friedman: Critical Assessments, v. II, pp. 224-43.    • Shaun Hargreaves Heap, 2008. \"economic man\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Kenneth J. Arrow, [1987] 1989. \"Economic theory and the hypothesis of rationality\", in The New Palgrave: Utility and Probability, pp. 25-39.    • Duncan K. Foley, 2004. \"Rationality and Ideology in Economics\", Social Research, pp. 329-342. Pre-publication version.    • Thomas J. Sargent, 1994. Bounded Rationality in Macroeconomics, Oxford. Description and chapter-preview 1st-page links.    • Vernon L. Smith, 2008. Rationality in Economics: Constructivist and Ecological Forms, Cambridge. Description/contents links and preview. ↑ • David Colander (1992). \"Retrospectives: The Lost Art of Economics\", Journal of Economic Perspectives, 6(3), pp. 191-198.    • John Neville Keynes, 1891. The Scope and Method of Political Economy. ch. I-II. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents. ↑ • Richard G. Lipsey, 2008. \"positive economics.\" The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.    • Amartya Sen, 1980. \"Description as Choice\", Oxford Economic Papers, N.S., 32(3), pp. 353-369. Reprinted in Sen, 1982, Choice, Welfare and Measurement, Oxford, Basil Blackwell. Chapter-preview link, p. 432-449.    • John Neville Keynes, 1891. The Scope and Method of Political Economy. ch. I, III. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents.    • Colin F. Camerer, 2003. Behavioral Game Theory: Experiments in Strategic Interaction, pp. 5-7 (scroll to at 1.1 What Is Game Theory Good For?).    • Kenneth E. Boulding, 1969. \"Economics as a Moral Science\", American Economic Review, 59(1), pp. 1–12.    • A. B. Atkinson, 2009. \"Economics as a Moral Science\", Economica, 76(1), pp. 791–804.    • \"Economics as a Moral Science\" session, 2011. American Economic Review, 101(3), article-abstract links. ↑ • Lionel Robbins, 1932. An Essay on the Nature and Significance of Economic Science.    • Richard G. Lipsey, 2009. \"Some Legacies of Robbins’ An Essay on the Nature and Significance of Economic Science\", Economica, 76(302), pp. 845-56 (press + button).    • Alexander Rosenberg (1983). \"If Economics Isn't Science, What Is It?\" Philosophical Forum, 14, pp. 296-314. Reprinted in M. Martin and L. C. McIntyre (1996), Readings in the Philosophy of Social Science, pp. 661-674.    • Douglas W. Hands, 1984. \"What Economics Is Not: An Economist's Response to Rosenberg\", Philosophy of Science, 51(3), p p. 495-503.    • Daniel M. Hausman, 1992. The Inexact and Separate Science of Economics. Description, to ch. 1 link, preview, and reviews, 1st pages: . ↑ • Edward P. Lazear, 2000. \"Economic Imperialism\", Quarterly Journal of Economics, 115(1), pp. 99-146.    • George J. Stigler, 1984. \"Economics—The Imperial Science?\" Scandinavian Journal of Economics, 86(3), p p. 301-313.    • Ben Fine, 2000. \" Economics Imperialism and Intellectual Progress: The Present as History of Economic Thought?\" History of Economics Review, 32, pp. 10-36.    • Jack Hirshleifer, 1985. \"The Expanding Domain of Economics\", American Economic Review, 75(6), pp. 53-68 (press +). Reprinted in Jack Hirshleifer, 2001, The Dark Side of the Force: Economic Foundations of Conflict Theory, ch.14, pp. 306- 42.    • Gary S. Becker, 1976. The Economic Approach to Human Behavior. Description and preview.    • _____, 1992. \"The Economic Way of Looking at Life.\" Nobel Lecture link, also in 1993, Journal of Political Economy, 101(3), pp. 383-409. ↑ • Kevin D. Hoover, 2008. \"causality in economics and econometrics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract and galley proof.    • H. Wold 1954. \"Causality and Econometrics\", Econometrica, 22(2), p p. 162-177.    • C. W. J. Granger and P. Newbold, 1974. \"Spurious Regressions in Econometrics\", Journal of Econometrics, 2(2), pp. 111-120.    • David F. Hendry, 1980. \"Econometrics — Alchemy or Science?\" Economica, N.S., 47(188), pp. 387-406.    • _____ 2001a. \"Achievements and Challenges in Econometric Methodology\", Journal of Econometrics, 100(1), pp. 7-10. PDF, pp. 1-4.    • _____, 2001b. Econometrics: Alchemy or Science Essays in Econometric Methodology, 2nd Edition. Oxford. Description and contents. Review in the Economic Journal.    • Edward E. Leamer, 1983. \"Let's Take the Con Out of Econometrics\", American Economic Review, 73(1), pp. 31-43.    • Christopher A. Sims, 1980. \"Macroeconomics and Reality\", Econometrica,48, No. 1, pp. 1-48.    • Fischer Black, 1982. \"The Trouble with Econometric Models\", Financial Analysts Journal, 38(2), pp. 29-37. Reprinted in Black, 2009, Business Cycles and Equilibrium, Wiley. Updated version, pp. 135 - 150.    • From Truman F. Bewley, ed., 1987. Advances in Econometrics: Fifth World Congress, Cambridge v. 2:          Edward E. Leamer, \"Econometric Metaphors\", pp. 1- 28.          David F. Hendry. \"Econometric Methodology: A Personal Perspective\", pp. 29- 42.    • P.C.B. Phillips, 1988. \"Reflections on Econometric Methodology\", Economic Record, 64(4), pp. 344–359. Abstract.    • David F. Hendry, Edward E. Leamer, and Dale J. Poirier, 1990. \"The ET Dialogue: A Conversation on Econometric Methodology\", Econometric Theory, 6(2), pp. 171-261.    • Deirdre N. McCloskey and Stephen T. Ziliak, 1996. \"The Standard Error of Regressions\", Journal of Economic Literature, 34(1), pp. 97–114.    • Kevin D. Hoover and Mark V. Siegler, 2008. \"Sound and Fury: McCloskey and Significance Testing in Economics\", Journal of Economic Methodology, 15(1), pp. 1–37; McCloskey and Ziliak, \"Signifying Nothing: Reply to ...\" [preprint] and Hoover and Siegler, \"... Rejoinder to ..., pp. 39–68;    • Edward J. Nell and Karim Errouaki, 2011. Rational Econometric Man,Part I and ch. 10. Edward Elgar. ↑ • Mark Blaug, 2007. \"The Social Sciences: Economics\", Postwar developments, Methodological considerations in contemporary economics, The New Encyclopædia Britannica, v. 27, pp. 346-47.    • Edward J. Nell (2004) \"Critical Realism and Transformational Growth.\" In Transforming Economics. Edited by P. Lewis. London: Routledge.76-95.    • Frank H. Knight, 1924. \"The Limitations of Scientific Method in Economics\", in The Trend of Economics, R.G. Tugwell, ed., pp. 229-67. Reprinted in Frank H. Knight, 1935 [1997], The Ethics of Competition, pp. 97- 139.    •Daniel M. Hausman, 1983. \"The Limits of Economic Science\", in The Limits of Lawfulness: Studies on the Scope and Nature of Scientific Knowledge, N. Rescher, ed. Reprinted in D.M. Hausman, 1992, Essays on Philosophy and Economic Methodology, pp. 99-108.    • Ludwig von Mises, 1949. Human Action.    • Bruce Caldwell, [1987] 2008. \"positivism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. ↑ • C.F. Bastable, [1925] 1987. \"experimental methods in economics\", i, The New Palgrave: A Dictionary of Economics, v. 2, p. 241.    • Vernon L. Smith, [1987] 2008a. \"experimental methods in economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2008b. \"experimental economics\", The New Palgrave Dictionary of Economics, 2nd Edition, Abstract.    • Herman O. Wold (1969). \"Econometrics as Pioneering in Nonexperimental Model Building\", Econometrica, 37(3), p p. 369-381. ↑ • W. Stanley Jevons, 1879. The Theory of Political Economy, 2nd ed., ch. I, \"Introduction\", pp. 1-29.    • Paul A. Samuelson, 1952. \"Economic Theory and Mathematics — An Appraisal\", American Economic Review, 42(2), pp. 56-66.    • D.W. Bushaw and R.W. Clower, 1957. Introduction to Mathematical Economics, pp. vii-viii and ch. 1, pp. 3-8.    • Gérard Debreu, ([1987] 2008). \"mathematical economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. (First published with revisions from 1986, \"Theoretic Models: Mathematical Form and Economic Content\", Econometrica, 54(6), pp. 1259-1270.)    • _____ 1991. \"The Mathematization of Economic Theory\", American Economic Review, 81(1), pp. 1-7.    • Robert W. Clower, 1994. \"Economics as an Inductive Science\", Southern Economic Journal, 60(4), pp. 805-814.    • _____, 1995. \"Axiomatics in Economics\", Southern Economic Journal, 62(2), pp. 307-319.    • Mark Blaug, 2003. \"The Formalist Revolution of the 1950s\", Journal of the History of Economic Thought, 25(2), pp. 145-156. Abstract. Reprinted in Warren J. Samuels, et al., ed., 2003, A Companion to the History of Economic Thought, Wiley, pp. 395- 409.    • _____, 1998. \"Disturbing Currents in Modern Economics\", Challenge, 41(3), pp. 11-34. Reprint.    • Paul Krugman, 1998, \"Two Cheers for Formalism\", Economic Journal, 108(451), pp. 1829-1836.    • Terence Hutchison, 2000. On the Methodology of Economics and the Formalist Revolution, Edward Elgar. Description and preview.    • E. Roy Weintraub, 2008. \"mathematics and economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2002. How Economics Became a Mathematical Science, Duke University Press. Description, preview, and review extract.    • Kenneth J. Arrow, 1951. Social Choice and Individual Values.    • Amartya K. Sen, 1970 [1984]. Collective Choice and Social Welfare ISBN 0-444-85127-5.    • _____, 2008. \"social choice\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. ↑ • William Thomson, 1999. \"The Young Person's Guide to Writing Economic Theory,\" Journal of Economic Literature, 37(1), pp. 157-183.    • _____, 2001. A Guide for the Young Economist: Writing and Speaking Effectively about Economics. Chapter-preview links.    • Eric Rasmusen, 2001. \"Aphorisms on Writing, Speaking, and Listening\", in E. Rasmusen, ed., Readings in Games and Information, pp. 389-420. PDF.    • Donald McCloskey, 1985. \"Economical Writing\", Economic Inquiry, 23(2), pp. 187-222.    • David N. Laband and Christopher N. Taylor, 1992. \"The Impact of Bad Writing in Economics\", Economic Inquiry, 30(4), pp. 673-688. ↑ • D.N. McCloskey, 1983. \"The Rhetoric of Economics\", Journal of Economic Literature, 21(2), pp. 481-517.    • _____, [1985] 1998, 2nd ed. The Rhetoric of Economics. Chapter-preview links.    • Roger Backhouse, T. Dudley-Evans, and Willie Henderson, 1993. \"Exploring the Language and Rhetoric of Economics\", in Willie Henderson et al., Economics and Language, pp. 1-20 (preview)    • John Kenneth Galbraith, 1962. \"The Language of Economics\", Fortune, LXVI(6), Dec. pp. 12-30, 169, 31. Excerpt at [CNN] \"FORTUNE: John Kenneth Galbraith, excerpts from his writing\", May 17, 2006. ↑ • Wassily Leontief, 1971. \"Theoretical Assumptions and Nonobserved Facts\", American Economic Review, 61(1), pp. 1-7. Reprinted in W. Leontief, 1977, Essays in Economics, v. 1, ch. III, pp. 24-34.    • Mark Blaug, 1992. The Methodology of Economics: Or How Economists Explain, 2nd ed., Cambridge. Description and Preview.    • Roger Backhouse and Mark Blaug, 1994. New Directions in Economic Methodology, Routledge. Contents preview.    • P.A.G. van Bergeijk et al., 1997. Economic Science and Practice: The Roles of Academic Economists and Policy-Makers. Description & preview links.    • D. Wade Hands, 2001. Without Rules: Economic Methodology and Contemporary Science Theory, Oxford. Description and contents preview.    • Christopher A. Sims, 1996. \"Macroeconomics and Methodology\", Journal of Economic Perspectives, 10(1), pp. 105-120.    • Kevin D. Hoover, 2001. The Methodology of Empirical Macroeconomics, Oxford. Description and preview.    • Bruno S. Frey, 2001. \"Why Economists Disregard Economic Methodology, Journal of Economic Methodology, 8(1), pp. 41–47. ↑ Lawrence A. Boland, 2006. \"Seven Decades of Economic Methodology: A Popperian Perspective\", in Karl Popper: A Centenary Assessment, v. 3, ed. Ian Charles Jarvie et al., pp. 219 ↑ • _____, [1994] 2006, Economic Analysis and Moral Philosophy, 2nd ed. New York, Cambridge University Press. ISBN 0521558506"
+        },
+        "mt": null,
+        "target": {
+            "content": "↑ Press + button to enlarge small-text links below.    • Roger E. Backhouse, 2008. \"methodology of economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Lawrence A. Boland, 1987. \"methodology\", The New Palgrave: A Dictionary of Economics, v. 3, pp. 455-56.    • Daniel M. Hausman, 1989. \"Economic Methodology in a Nutshell\", Journal of Economic Perspectives, 3(2), pp. 115-127.    • Kevin D. Hoover, 1995. \"Review Article: Why Does Methodology Matter for Economics?\" Economic Journal, 105(430), pp. 715-734. ↑ • John Stuart Mill, 1844. \"On the Definition of Political Economy; and on the Method of Investigation Proper to It\", Essay V, in Essays on Some Unsettled Questions of Political Economy.    • Roger E. Backhouse and Steven Medema, 2008. \"economics, definition of\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____. 2009. \"Retrospectives: On the Definition of Economics\", Journal of Economic Perspectives, 23(1), pp. 221–33 (close Bookmarks tab) Abstract. ↑ John Neville Keynes, 1891. The Scope and Method of Political Economy. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents. ↑ • John R. Hicks, 1939. Value and Capital: An Inquiry into Some Fundamental Principles of Economic Theory.    • Terence W. Hutchison, 1938. The Significance and Basic Postulates of Economic Theory.   • Martin Hollis and Edward J. Nell, 1975. Rational Economic Man, ch. 3,4,5 and 7. Cambridge University Press.   • Paul A. Samuelson, 1947. Foundations of Economic Analysis.    • Richard G. Lipsey, 2008. \"positive economics.\" The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.    • Lawrence A. Boland, 2008. \"instrumentalism and operationalism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2003. The Foundations of Economic Method, 2nd Edition. Description and chapter links. ↑ • Kaushik Basu, 2008. \"methodological individualism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.   • Edward J. Nell, 1998. General Theory of Transformational Growth, Part I. Cambridge University Press.    • Harold Kincaid, 2008. \"individualism versus holism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • F.A. Hayek, 1948. Individualism and Economic Order. Chapter-preview links.    • George J. Stigler and Paul A. Samuelson, 1963. \"A Dialogue on the Proper Economic Role of the State.\" Selected Papers, No. 7. University of Chicago Graduate School of Business.    • James M. Buchanan, 1990. \"The Domain of Constitutional Economics\", Constitutional Political Economy, 1(1), pp. 1-18, adapted as \"Constitutional Political Economy\" in C. K. Rowley and F. Schneider, ed., 2004, The Encyclopedia of Public Choice, v. 2, pp. 60-67.    • Kenneth J. Arrow, 1994. \"Methodological Individualism and Social Knowledge\", American Economic Review, 84(2), pp. 1-9.    • Richard H. Thaler and Cass R. Sunstein, 2008. Nudge: Improving Decisions about Health, Wealth, and Happiness. Yale. Description and preview.    • Shiozawa, Y. 2004 Evolutinary Economics in the 21st Century: A Manifest, Evolutionary and Institutional Economics Review, 1(1): 5-47. ↑ • Lawrence A. Boland, 2008. \"assumptions controversy\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Milton Friedman, 1953. \"The Methodology of Positive Economics\" in Essays in Positive Economics.    • Paul A. Samuelson, 1963. \"Problems of Methodology: Discussion\", American Economic Review, 53(2) American Economic Review, pp. 231-236. Reprinted in J.C. Wood & R.N. Woods, ed., 1990, Milton Friedman: Critical Assessments, v. I, pp. 107-13. Preview. Routledge.    • Stanley Wong, 1973. \"The 'F-Twist' and the Methodology of Paul Samuelson\", American Economic Review, 63(3) p p. 312-325. Reprinted in J.C. Wood & R.N. Woods, ed., Milton Friedman: Critical Assessments, v. II, pp. 224-43.    • Shaun Hargreaves Heap, 2008. \"economic man\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • Kenneth J. Arrow, [1987] 1989. \"Economic theory and the hypothesis of rationality\", in The New Palgrave: Utility and Probability, pp. 25-39.    • Duncan K. Foley, 2004. \"Rationality and Ideology in Economics\", Social Research, pp. 329-342. Pre-publication version.    • Thomas J. Sargent, 1994. Bounded Rationality in Macroeconomics, Oxford. Description and chapter-preview 1st-page links.    • Vernon L. Smith, 2008. Rationality in Economics: Constructivist and Ecological Forms, Cambridge. Description/contents links and preview. ↑ • David Colander (1992). \"Retrospectives: The Lost Art of Economics\", Journal of Economic Perspectives, 6(3), pp. 191-198.    • John Neville Keynes, 1891. The Scope and Method of Political Economy. ch. I-II. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents. ↑ • Richard G. Lipsey, 2008. \"positive economics.\" The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.    • Amartya Sen, 1980. \"Description as Choice\", Oxford Economic Papers, N.S., 32(3), pp. 353-369. Reprinted in Sen, 1982, Choice, Welfare and Measurement, Oxford, Basil Blackwell. Chapter-preview link, p. 432-449.    • John Neville Keynes, 1891. The Scope and Method of Political Economy. ch. I, III. Annotated chapter links. 4th ed., 1917 [1999]. Full Contents.    • Colin F. Camerer, 2003. Behavioral Game Theory: Experiments in Strategic Interaction, pp. 5-7 (scroll to at 1.1 What Is Game Theory Good For?).    • Kenneth E. Boulding, 1969. \"Economics as a Moral Science\", American Economic Review, 59(1), pp. 1–12.    • A. B. Atkinson, 2009. \"Economics as a Moral Science\", Economica, 76(1), pp. 791–804.    • \"Economics as a Moral Science\" session, 2011. American Economic Review, 101(3), article-abstract links. ↑ • Lionel Robbins, 1932. An Essay on the Nature and Significance of Economic Science.    • Richard G. Lipsey, 2009. \"Some Legacies of Robbins’ An Essay on the Nature and Significance of Economic Science\", Economica, 76(302), pp. 845-56 (press + button).    • Alexander Rosenberg (1983). \"If Economics Isn't Science, What Is It?\" Philosophical Forum, 14, pp. 296-314. Reprinted in M. Martin and L. C. McIntyre (1996), Readings in the Philosophy of Social Science, pp. 661-674.    • Douglas W. Hands, 1984. \"What Economics Is Not: An Economist's Response to Rosenberg\", Philosophy of Science, 51(3), p p. 495-503.    • Daniel M. Hausman, 1992. The Inexact and Separate Science of Economics. Description, to ch. 1 link, preview, and reviews, 1st pages: . ↑ • Edward P. Lazear, 2000. \"Economic Imperialism\", Quarterly Journal of Economics, 115(1), pp. 99-146.    • George J. Stigler, 1984. \"Economics—The Imperial Science?\" Scandinavian Journal of Economics, 86(3), p p. 301-313.    • Ben Fine, 2000. \" Economics Imperialism and Intellectual Progress: The Present as History of Economic Thought?\" History of Economics Review, 32, pp. 10-36.    • Jack Hirshleifer, 1985. \"The Expanding Domain of Economics\", American Economic Review, 75(6), pp. 53-68 (press +). Reprinted in Jack Hirshleifer, 2001, The Dark Side of the Force: Economic Foundations of Conflict Theory, ch.14, pp. 306- 42.    • Gary S. Becker, 1976. The Economic Approach to Human Behavior. Description and preview.    • _____, 1992. \"The Economic Way of Looking at Life.\" Nobel Lecture link, also in 1993, Journal of Political Economy, 101(3), pp. 383-409. ↑ • Kevin D. Hoover, 2008. \"causality in economics and econometrics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract and galley proof.    • H. Wold 1954. \"Causality and Econometrics\", Econometrica, 22(2), p p. 162-177.    • C. W. J. Granger and P. Newbold, 1974. \"Spurious Regressions in Econometrics\", Journal of Econometrics, 2(2), pp. 111-120.    • David F. Hendry, 1980. \"Econometrics — Alchemy or Science?\" Economica, N.S., 47(188), pp. 387-406.    • _____ 2001a. \"Achievements and Challenges in Econometric Methodology\", Journal of Econometrics, 100(1), pp. 7-10. PDF, pp. 1-4.    • _____, 2001b. Econometrics: Alchemy or Science Essays in Econometric Methodology, 2nd Edition. Oxford. Description and contents. Review in the Economic Journal.    • Edward E. Leamer, 1983. \"Let's Take the Con Out of Econometrics\", American Economic Review, 73(1), pp. 31-43.    • Christopher A. Sims, 1980. \"Macroeconomics and Reality\", Econometrica,48, No. 1, pp. 1-48.    • Fischer Black, 1982. \"The Trouble with Econometric Models\", Financial Analysts Journal, 38(2), pp. 29-37. Reprinted in Black, 2009, Business Cycles and Equilibrium, Wiley. Updated version, pp. 135 - 150.    • From Truman F. Bewley, ed., 1987. Advances in Econometrics: Fifth World Congress, Cambridge v. 2:          Edward E. Leamer, \"Econometric Metaphors\", pp. 1- 28.          David F. Hendry. \"Econometric Methodology: A Personal Perspective\", pp. 29- 42.    • P.C.B. Phillips, 1988. \"Reflections on Econometric Methodology\", Economic Record, 64(4), pp. 344–359. Abstract.    • David F. Hendry, Edward E. Leamer, and Dale J. Poirier, 1990. \"The ET Dialogue: A Conversation on Econometric Methodology\", Econometric Theory, 6(2), pp. 171-261.    • Deirdre N. McCloskey and Stephen T. Ziliak, 1996. \"The Standard Error of Regressions\", Journal of Economic Literature, 34(1), pp. 97–114.    • Kevin D. Hoover and Mark V. Siegler, 2008. \"Sound and Fury: McCloskey and Significance Testing in Economics\", Journal of Economic Methodology, 15(1), pp. 1–37; McCloskey and Ziliak, \"Signifying Nothing: Reply to ...\" [preprint] and Hoover and Siegler, \"... Rejoinder to ..., pp. 39–68;    • Edward J. Nell and Karim Errouaki, 2011. Rational Econometric Man,Part I and ch. 10. Edward Elgar. ↑ • Mark Blaug, 2007. \"The Social Sciences: Economics\", Postwar developments, Methodological considerations in contemporary economics, The New Encyclopædia Britannica, v. 27, pp. 346-47.    • Edward J. Nell (2004) \"Critical Realism and Transformational Growth.\" In Transforming Economics. Edited by P. Lewis. London: Routledge.76-95.    • Frank H. Knight, 1924. \"The Limitations of Scientific Method in Economics\", in The Trend of Economics, R.G. Tugwell, ed., pp. 229-67. Reprinted in Frank H. Knight, 1935 [1997], The Ethics of Competition, pp. 97- 139.    •Daniel M. Hausman, 1983. \"The Limits of Economic Science\", in The Limits of Lawfulness: Studies on the Scope and Nature of Scientific Knowledge, N. Rescher, ed. Reprinted in D.M. Hausman, 1992, Essays on Philosophy and Economic Methodology, pp. 99-108.    • Ludwig von Mises, 1949. Human Action.    • Bruce Caldwell, [1987] 2008. \"positivism\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. ↑ • C.F. Bastable, [1925] 1987. \"experimental methods in economics\", i, The New Palgrave: A Dictionary of Economics, v. 2, p. 241.    • Vernon L. Smith, [1987] 2008a. \"experimental methods in economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2008b. \"experimental economics\", The New Palgrave Dictionary of Economics, 2nd Edition, Abstract.    • Herman O. Wold (1969). \"Econometrics as Pioneering in Nonexperimental Model Building\", Econometrica, 37(3), p p. 369-381. ↑ • W. Stanley Jevons, 1879. The Theory of Political Economy, 2nd ed., ch. I, \"Introduction\", pp. 1-29.    • Paul A. Samuelson, 1952. \"Economic Theory and Mathematics — An Appraisal\", American Economic Review, 42(2), pp. 56-66.    • D.W. Bushaw and R.W. Clower, 1957. Introduction to Mathematical Economics, pp. vii-viii and ch. 1, pp. 3-8.    • Gérard Debreu, ([1987] 2008). \"mathematical economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. (First published with revisions from 1986, \"Theoretic Models: Mathematical Form and Economic Content\", Econometrica, 54(6), pp. 1259-1270.)    • _____ 1991. \"The Mathematization of Economic Theory\", American Economic Review, 81(1), pp. 1-7.    • Robert W. Clower, 1994. \"Economics as an Inductive Science\", Southern Economic Journal, 60(4), pp. 805-814.    • _____, 1995. \"Axiomatics in Economics\", Southern Economic Journal, 62(2), pp. 307-319.    • Mark Blaug, 2003. \"The Formalist Revolution of the 1950s\", Journal of the History of Economic Thought, 25(2), pp. 145-156. Abstract. Reprinted in Warren J. Samuels, et al., ed., 2003, A Companion to the History of Economic Thought, Wiley, pp. 395- 409.    • _____, 1998. \"Disturbing Currents in Modern Economics\", Challenge, 41(3), pp. 11-34. Reprint.    • Paul Krugman, 1998, \"Two Cheers for Formalism\", Economic Journal, 108(451), pp. 1829-1836.    • Terence Hutchison, 2000. On the Methodology of Economics and the Formalist Revolution, Edward Elgar. Description and preview.    • E. Roy Weintraub, 2008. \"mathematics and economics\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.    • _____, 2002. How Economics Became a Mathematical Science, Duke University Press. Description, preview, and review extract.    • Kenneth J. Arrow, 1951. Social Choice and Individual Values.    • Amartya K. Sen, 1970 [1984]. Collective Choice and Social Welfare ISBN 0-444-85127-5.    • _____, 2008. \"social choice\", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract. ↑ • William Thomson, 1999. \"The Young Person's Guide to Writing Economic Theory,\" Journal of Economic Literature, 37(1), pp. 157-183.    • _____, 2001. A Guide for the Young Economist: Writing and Speaking Effectively about Economics. Chapter-preview links.    • Eric Rasmusen, 2001. \"Aphorisms on Writing, Speaking, and Listening\", in E. Rasmusen, ed., Readings in Games and Information, pp. 389-420. PDF.    • Donald McCloskey, 1985. \"Economical Writing\", Economic Inquiry, 23(2), pp. 187-222.    • David N. Laband and Christopher N. Taylor, 1992. \"The Impact of Bad Writing in Economics\", Economic Inquiry, 30(4), pp. 673-688. ↑ • D.N. McCloskey, 1983. \"The Rhetoric of Economics\", Journal of Economic Literature, 21(2), pp. 481-517.    • _____, [1985] 1998, 2nd ed. The Rhetoric of Economics. Chapter-preview links.    • Roger Backhouse, T. Dudley-Evans, and Willie Henderson, 1993. \"Exploring the Language and Rhetoric of Economics\", in Willie Henderson et al., Economics and Language, pp. 1-20 (preview)    • John Kenneth Galbraith, 1962. \"The Language of Economics\", Fortune, LXVI(6), Dec. pp. 12-30, 169, 31. Excerpt at [CNN] \"FORTUNE: John Kenneth Galbraith, excerpts from his writing\", May 17, 2006. ↑ • Wassily Leontief, 1971. \"Theoretical Assumptions and Nonobserved Facts\", American Economic Review, 61(1), pp. 1-7. Reprinted in W. Leontief, 1977, Essays in Economics, v. 1, ch. III, pp. 24-34.    • Mark Blaug, 1992. The Methodology of Economics: Or How Economists Explain, 2nd ed., Cambridge. Description and Preview.    • Roger Backhouse and Mark Blaug, 1994. New Directions in Economic Methodology, Routledge. Contents preview.    • P.A.G. van Bergeijk et al., 1997. Economic Science and Practice: The Roles of Academic Economists and Policy-Makers. Description & preview links.    • D. Wade Hands, 2001. Without Rules: Economic Methodology and Contemporary Science Theory, Oxford. Description and contents preview.    • Christopher A. Sims, 1996. \"Macroeconomics and Methodology\", Journal of Economic Perspectives, 10(1), pp. 105-120.    • Kevin D. Hoover, 2001. The Methodology of Empirical Macroeconomics, Oxford. Description and preview.    • Bruno S. Frey, 2001. \"Why Economists Disregard Economic Methodology, Journal of Economic Methodology, 8(1), pp. 41–47. ↑ Lawrence A. Boland, 2006. \"Seven Decades of Economic Methodology: A Popperian Perspective\", in Karl Popper: A Centenary Assessment, v. 3, ed. Ian Charles Jarvie et al., pp. 219 ↑ • _____, [1994] 2006, Economic Analysis and Moral Philosophy, 2nd ed. New York, Cambridge University Press. ISBN 0521558506"
+        }
+    },
+    {
+        "id": "60993/mwVw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A thousand years before the events of Wild Arms, a war raged between the inhabitants of Filgaia and the Metal Demons seeking to turn the planet into their new home. After a fierce struggle, the humans managed to capture the demon's leader, \"Mother\", and sealed her deep within a castle in the tundra of Arctica. Unable to completely destroy her constantly regenerating body, the people of Arctica removed her heart and tore it into three pieces, imprisoned her within a cocoon, and sealed the pieces of her heart inside three stone statues which they spread across the world. With their leader gone, a majority of the demons disappeared, with only a few remaining in seclusion over the next few centuries, eventually launching an attack on the castle to reclaim the incapacitated body of Mother.[17][18]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Mil años antes de los acontecimientos de Armas Salvajes, una guerra bramada entre los habitantes de Filgaia y los Demonios de Metal que buscan para girar el planeta a su casa nueva. Después de una lucha feroz, los humanos dirigieron capturar el dirigente del demonio, \"Madre\", y selló su profundo dentro de un castillo en la tundra de Arctica. Incapaz a completamente destruirle constantemente regenerando cuerpo, las personas de Arctica sacó su corazón y desgarró él a tres piezas, le encarceló dentro un capullo, y selló las piezas de su interior de corazón tres estatuas de piedra qué extendieron a través del mundo. Con su dirigente ido, una mayoría de los demonios desapareció, con único unos cuantos restante en reclusión sobre el próximo pocos siglos, finalmente lanzando un ataque en el castillo a reclaim el cuerpo incapacitado de Madre.[17][18]"
+        },
+        "target": {
+            "content": "Mil años antes de los eventos de Wild Arms, hubo una guerra entre los habitantes de Filgaia y los Demonios de Metal que buscaban hacer del planeta su nuevo hogar. Después de una lucha encarnizada, los humanos lograron capturar al líder de los demonios, \"Madre\", y la encerraron bajo un castillo en la tundra de Arctica. Incapaces de destruir su cuerpo en constante regeneración, la gente de Arctica removió su corazón y lo dividió en tres partes, la encerraron dentro de una pupa, y encerraron mágicamente dichas piezas dentro de tres esculturas de piedra que repartieron por el mundo. Sin su líder, la mayoría de los demonios desaparecieron, salvo unos pocos que quedaron recluidos en los siglos siguientes, que eventualmente lanzaron un ataque sobre el castillo para recuperar el cuerpo incapacitado de Madre.[17][18]"
+        }
+    },
+    {
+        "id": "60993/mwWw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Succeeding in their mission, a small band of demon warriors known as the Quarter Knights kept watch over the body of Mother in their fortress protected behind a powerful force field, and began gathering information as to the whereabouts of the guardian statues with the hope of one day reviving her and claiming Filgaia as their own.[19] As time passed, talk of the ancient invasion began to dwindle, though stories of demonic weaponry such as \"ARMs\" and robotic soldiers still persisted in the minds of many. When a mysterious child named Rudy drifted into the small town of Surf, he came with an ARM at his side. Though he is able to hide it for a time his ARM makes him into a pariah after he is involved with a disastrous earthquake.[20]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Teniendo éxito en su misión, una banda pequeña de guerreros de demonio sabidos como los Caballeros de Trimestre vigilaron sobre el cuerpo de Madre en su fortaleza protegida detrás de un campo de fuerza potente, y empezó reunir información cuando al paradero de las estatuas de guardián con la esperanza de un día que le revive y reclamando Filgaia como propios.[19] Cuando el tiempo pasó, la charla de la invasión antigua empezó para disminuir, aunque historias de demonic weaponry como \"Armas\" y los soldados robóticos todavía persistidos en las mentes de muchos. Cuándo un niño misterioso nombró Rudy fue a la deriva a la ciudad pequeña de Surf, venga con un BRAZO en su lado. Aunque es capaz de esconder él para un tiempo su BRAZO le hace a un pariah después de que está implicado con un terremoto desastroso.[20]"
+        },
+        "target": {
+            "content": "Después de tener éxito en su misión, un grupo pequeño de guerreros demonio conocidos como Los Caballeros del Cuarto (Quarter Knights) se dedicaron a mantener vigía sobre el cuerpo de Madre en la fortaleza, protegida por un poderoso campo de fuerza, y comenzaron a buscar información acerca de la localización de las esculturas guardianas con la esperanza de revivir a Madre y reclamar Filgaia como suya en el futuro.[19] A medida que pasó el tiempo, la historia sobre la antigua invasión comenzó a desaparecer, aunque aún persistían las historias sobre armamento demónico como las \"ARMs\" y soldador robóticos. Cuando un niño misterioso llamado Rudy llegó a la pequeña ciudad de Surf, llegó con una ARM a su lado. Aunque logra esconder dicha ARM por un tiempo, ésta lo hace un paria después de su envolvimiento con un terremoto desastroso.[20]"
+        }
+    },
+    {
+        "id": "60993/mwXA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Making his way to the city of Adlehyde, Rudy meets Cecilia, a magician-in-training and successor to the Adlehyde royal family, and Jack, a headstrong treasure hunter. The trio teams up for the first time to help a local engineer named Emma, who is researching ancient technology in a nearby tomb and believes a remnant of the Demon Wars may be inside, but came across the monsters inside the tomb. Upon discovering the object, a deactivated robotic creature called a \"golem\", the three adventurers escort Emma and their discovery back to Adlehyde to exhibit it at the town's Ruin Festival.[21] During the event, where several other golem creatures are on display, a small army of demons led by Belselk of the Quarter Knights precede to burn the town, steal the golems, and mortally wound Cecilia's father, the king. In order to spare the remaining people of Adlehyde, Cecilia gives Belselk her family heirloom, a pendant called the Tear Drop that has magical properties which the demons believe can be used as a catalyst for reviving their leader.[22] When the invaders recall from the town, Rudy and his friends make a pact to stop the Knights from taking control of Filgaia, and to restore balance to the weakening elemental forces of the world that have been in decline since the demons' initial invasion."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Haciendo su manera a la ciudad de Adlehyde, Rudy conoce Cecilia, un mago-en-entrenando y sucesor al Adlehyde familia real, y Jack, un headstrong cazador de tesoro. Los equipos de trío arriba por primera vez para ayudar un ingeniero local nombró Emma, quién está investigando tecnología antigua en una tumba cercana y cree un resto de las Guerras de Demonio puede ser interior, pero encontró los monstruos dentro de la tumba. A descubrir el objeto, un deactivated la criatura robótica llamó un \"golem\", la tres escolta de aventureros Emma y su descubrimiento atrás a Adlehyde para exhibir él en el festival de Ruina de la ciudad.[21] Durante el acontecimiento, donde muchos otro golem las criaturas son encima exhibición, un ejército pequeño de demonios dirigió por Belselk de los Caballeros de Trimestre preceden para quemar la ciudad, robar el golems, y mortalmente el padre de herida Cecilia, el rey. Para de sobra las personas restantes de Adlehyde, Cecilia da Belselk su familiar heirloom, un racimo llamó la Lágrima Cae aquello tiene propiedades mágicas qué los demonios creen puede ser utilizado como catalizador para revivir su dirigente.[22] Cuándo el invaders recordar de la ciudad, Rudy y sus amigos hacen un pacto para parar los Caballeros de tomar control de Filgaia, y para restaurar equilibrio al debilitando fuerzas elementales del mundiales aquello ha agonizado desde los demonios' invasión inicial."
+        },
+        "target": {
+            "content": "En su camino hacia la ciudad de Adlehyde, Rudy conoce a Cecilia, una hechicera aprentiz y la sucesora de la familia real de Adlehyde, y a Jack, un cazador de tesoros testarudo. El trío se une por primera vez para ayudar a una ingeniera de la ciudad llamada Emma, quien está investigando la tecnología antigua encontrada en una tumba cercana y que cree que hay un remanente de las Guerras Demoníacas adentro, pero encuentra monstruos dentro de la tumba. Al descubrir el objeto, una criatura robótica llamada golem, los tres aventureros escoltan a Emma y sus descubrimientos de vuelta a Adlehyde para exhibirlo en el Festival de las Ruinas.[21] Durante el evento, donde hay otros golems en exhibición, una pequeña armada de demonios liderada por Belselk de los Caballeros del Cuarto proceden a incendiar la ciudad, robar los golems y herir mortalmente al padre de Cecilia, el rey. A fin de salvar al resto del pueblo de Adlehyde, Cecilia le da a Belselk una reliquia de su familia,un colgante llamado la Lágrima que tiene propiedades mágicas, que los demonios creen que pueden ser usadas como catalizador para revivir a su líder.[22] Cuando los invasores abandonan la ciudad, Rudy y sus amigos hacen un pacto de detener a los Caballeros, impedir que tomen el control de Filgaia y restaurar el balance a las cada vez más débiles fuerzas elementales del mundo que han decaído desde la invasión inicial de los demonios."
+        }
+    },
+    {
+        "id": "60993/mw9g",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "60993/mwAQg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    }
+
+]

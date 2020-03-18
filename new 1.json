@@ -1,0 +1,1729 @@
+[
+	 {
+        "id": "10059/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Before New Montgomery Street was created, an inner street called Jane Street ran parallel to Second and Third Street.[1] In the 1870s, Montgomery Street South was established in its place as the southern extension of Montgomery Street, one of the main thoroughfares in San Francisco's Financial District, running north from Market to Telegraph Hill. The extension was strongly supported by businessman and Bank of California founder William Ralston – who started the construction of the original Palace Hotel, at the time the largest hotel in the Western United States – in an effort to expand San Francisco's business district to the yet undeveloped area south of Market.[2][3] Ralston's original plans to connect Montgomery Street to the waterfront failed due to the unwillingness of two property owners (governor Milton Latham and shipping baron John Parrott) to sell their mansions on Rincon Hill, which is why Montgomery Street South never got past Howard Street.[1][4]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Antes de Montgomery Nuevo Calle estuvo creado, una calle interior llamó Jane Calle corrió paralela a Segundo y Tercera Calle.[1] En el @1870s, Sur de Calle del Montgomery estuvo establecido en su sitio como la extensión del sur de Montgomery Calle, uno del principal thoroughfares en el distrito Financiero de San Francisco, corriendo del norte de Mercado a Cerro de Telégrafo. La extensión era fuertemente apoyada por businessman y Banco de fundador de California William Ralston @– quién empezó la construcción del Hotel de Palacio original, en el tiempo el hotel más grande en los Estados Unidos Occidentales @– en un esfuerzo para expandir el distrito empresarial de San Francisco al todavía undeveloped sur de área de Mercado.[2][3] Ralston planes originales para conectar Montgomery Calle al waterfront falló debido al unwillingness de dos dueños de propiedad (gobernador Milton Latham y embarcando barón John Parrott) para vender sus mansiones en Rincon Cerro, el cual es por qué Montgomery Calle Al sur pasado conseguido nunca Howard Calle.[1][4]"
+        }
+    },
+    {
+        "id": "10059/mwMw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "References"
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "10059/mwNA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 Bloomfield, Anne B. \"Commercial Development\". Shaping San Francisco's Digital Archive. Retrieved 28 August 2013.  ↑ Fogelson, Robert M. (2003). Downtown: Its Rise and Fall, 1880-1950. Yale University Press. p. 114. ISBN 9780300098273.  ↑ James Brook, Chris Carlsson, Nancy J. Peters, ed. (1998). Reclaiming San Francisco: History, Politics, Culture. City Lights Books. p. 107. ISBN 9780872863354.  ↑ Bevk, Alex (2012). \"Then & Now: Latham Mansion/666 Folsom Street\". Curbed. Retrieved 28 August 2013.  ↑ Temple, James (28 August 2013). \"Yelp signs Pacific Telephone Building lease to 2021\". San Francisco Chronicle. Retrieved 7 November 2012. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 Bloomfield, Anne B. \"Commercial Development\". Shaping San Francisco's Digital Archive. Retrieved 28 August 2013.  ↑ Fogelson, Robert M. (2003). Downtown: Its Rise and Fall, 1880-1950. Yale University Press. p. 114. ISBN 9780300098273.  ↑ James Brook, Chris Carlsson, Nancy J. Peters, ed. (1998). Reclaiming San Francisco: History, Politics, Culture. City Lights Books. p. 107. ISBN 9780872863354.  ↑ Bevk, Alex (2012). \"Then & Now: Latham Mansion/666 Folsom Street\". Curbed. Retrieved 28 August 2013.  ↑ Temple, James (28 August 2013). \"Yelp signs Pacific Telephone Building lease to 2021\". San Francisco Chronicle. Retrieved 7 November 2012. "
+        }
+    },
+    {
+        "id": "34505/mwBA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Laura García Benitez (born 19 April 1981 in Pamplona) is a Spanish judoka who has represented Spain at the 2008 and 2012 Summer Paralympics."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Laura García Benitez (nacido 19 abril 1981 en Pamplona) es un español judoka quién ha representado España en el 2008 y 2012 Verano Paralympics."
+        },
+        "target": {
+            "content": "Laura García Benitez (nacida en 19 abril 1981 en Pamplona) es una judoka español que ha representado a España en los Juegos Paralímpicos de Verano de 2008 y 2012."
+        }
+    },
+    {
+        "id": "34505/mwBw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "García was born on 19 April 1981 in Pamplona,[1] and is from the Navarre region of Spain.[2][3] Her father practiced karate but because of her vision problems, she was unable to follow him in the sport.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "García nació el 19 de abril de 1981 en Pamplona, y es del Navarre región de España.[1][2][3] Su padre kárate practicado pero debido a sus problemas de visión, sea incapaz de seguirle en el deporte.[1]"
+        },
+        "target": {
+            "content": "García nació el 19 de abril de 1981 en Pamplona, y es de la comunidad Navarra de España.[1][2][3] Su padre practicaba kárate pero debido a sus problemas de visión, fue incapaz de seguirle en el deporte.[1]"
+        }
+    },
+    {
+        "id": "34505/mwCQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "García has lived in Barañáin.[1] She attended Colegio Público Eulza.[1] She attended the Polytechnic Carlos III in Pamplona, where she trained to become a kindergarten assistant.[1] Following the completion of her program, she decided instead to sell coupons for ONCE.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "García ha vivido en Barañáin.[1] Atienda Colegio Público Eulza.[1] Atienda el Polytechnic Carlos III en Pamplona, donde entrene para devenir un ayudante de guardería.[1] Siguiendo la conclusión de su programa, decida en cambio para vender cupones por una vez.[1]"
+        },
+        "target": {
+            "content": "García ha vivido en Barañáin.[1] Asistió al Colegio Público Eulza.[1] Asistió también al Colegio Técnico Carlos III en Pamplona, donde estudió para convertirse en ayudante de guardería.[1] Una vez concluyó sus estudios, decidió en cambio para vender cupones para ONCE.[1]"
+        }
+    },
+    {
+        "id": "34505/mwDQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "García took up judo when she was eight years old and living in Lagunak because a friend was practicing the sport. After three years, she stopped playing it, only to take it up again when she was twenty-one years old.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "García tomó arriba de judo cuándo tenga ocho años y viviendo en Lagunak porque un amigo practicaba el deporte. Después de que tres años, pare jugar lo, sólo para tomarlo arriba otra vez cuándo tenga veintiún años .[1]"
+        },
+        "target": {
+            "content": "García empezó a practicar judo cuando tenía ocho años y vivía en Lagunak porque un amigo practicaba el deporte. Después de que tres años, dejó de practicarlo para luego retomarlo cuándo tenía veintiún años .[1]"
+        }
+    },
+    {
+        "id": "34505/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Competing at the 2007 IPC European Judo Championships in Azerbaijan, García came away with a bronze medal.[1] In April 2008, she was one of four Navarre sportspeople on the short list to attend the Beijing Paralympics.[4] Prior to the 2008 Games, she trained in France.[4] That year, she had financial support to compete at the highest level because of funding through Plan ADOP.[4] She competed at the 2008 Summer Paralympics in judo[1] as a 27-year-old in the less than 48 kilogram group.[4] In October 2011, she competed in a regional Spanish national vision impaired judo event in Guadalajara.[5] In 2011, she competed at the IPC Judo World Championships.[1] In 2012, she was coached by Yolanda Soler and José Tomás Toro while based in Larrabide.[1] She competed at the 2012 Summer Paralympics in the less than 48 kilogram group. She lost her first match and then lost in the repechage.[6] One of her matches was against Ukrainian Yuliya During.[7] Overall, she finished in seventh place, enough to get her a Paralympic diploma.[8] The 2013 IPC European Judo Championships were held in early December in Eger, Hungary, and she competed in them.[2][9][10][11] In July 2013, she was one of 306 from Navarre named as a \"Deportistas de élite\",[12] a category of Spanish elite sportspeople that provides a number of benefits.[13]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Compitiendo en el 2007 IPC europeo Judo Campeonatos en Azerbaiyán, García se apartó con una medalla de bronce.[1] En abril 2008, sea una de cuatro Navarre sportspeople en la lista corta para atender la Beijing Paralympics.[4] Con anterioridad a los 2008 Juegos, entrene en Francia.[4] Aquel año, tenga @financial support para competir en el nivel más alto debido a financiar a través de Plan ADOP.[4] Compita en el 2008 Verano Paralympics en judo como persona de 27 años en el menos de 48 grupo de kilogramo.[1][4] En octubre 2011, compita en una visión nacional española regional impaired judo acontecimiento en Guadalajara.[5] En 2011, compita en el IPC Judo Campeonatos Mundiales.[1] En 2012, esté entrenada por Yolanda Soler y José Tomás Toro mientras basado en Larrabide.[1] Compita en el 2012 Verano Paralympics en el menos de 48 grupo de kilogramo. Pierda su primer partido y entonces perdido en la repesca.[6] Uno de sus partidos era contra ucraniano Yuliya Durante.[7] En general, acabe en séptimo lugar, bastante para conseguirle un Paralympic diploma.[8] El 2013 IPC europeo Judo los campeonatos estuvieron aguantados en diciembre temprano en Eger, Hungría, y compita en ellos.[2][9][10][11] En julio 2013, sea una de 306 de Navarre nombrado como \"Deportistas de élite\", una categoría de élite española sportspeople aquello proporciona un número de beneficios.[12][13]"
+        },
+        "target": {
+            "content": "Al competir en el 2007 en el Campeonato Europeo Paralímpico de Judo en Azerbaiyán, García consiguió una medalla de bronce.[1] En abril de 2008, fue una de los cuatro deportistas navarrenses llamados a competir en los Juegos Paralímpicos de Beijing.[4] Con anterioridad a los Juegos de 2008, García entrenó en Francia.[4] Aquel año, tuvo ayuda financiera para competir en el nivel más alto debido al financiamiento a través de Plan ADOP.[4] Compitió en los Juegos Paralímpicos de Verano 2008 en judo como persona de 27 años en el grupo de menos de 48 kilogramos.[1][4] En octubre de 2011, compitió en un evento de judo nacional español para personas con discapacidad visual en Guadalajara.[5] En 2011, compitió en el Campeonato Mundial de Judo.[1] En 2012, es entrenada por Yolanda Soler y José Tomás Toro mientras vivía en Larrabide.[1] Compitió en los Juegos Paralímpicos de Verano 2012 en el  grupo de menos de 48 kilogramos. Perdió su primer partido y luego perdió en la repesca.[6] Uno de sus partidos era contra la ucraniana Yuliya Durante.[7] En general, acabó en séptimo lugar, suficiente para conseguirle un diploma paralímpico.[8] El Campeonato Europeo Paralímpico de Judo fue llevado a cabo en diciembre en Eger, Hungría, y compitió allí.[2][9][10][11] En julio de 2013, fue una de las 306 personas de Navarra nombradas como \"Deportistas de élite\", una categoría de élite deportiva española que proporciona una serie de beneficios.[12][13]"
+        }
+    },
+    {
+        "id": "34505/845f9286400f42697fbb196d24c794",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Personal"
+        },
+        "mt": null,
+        "target": {
+            "content": "Vida Personal"
+        }
+    },
+    {
+        "id": "34505/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Laura García Benitez Personal information Nationality Spanish Sport Country  Spain Sport Judo"
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "34505/mwHQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 5 6 7 8 9 10 11 \"Federación Mujeres Jóvenes\" (in Spanish). Spain: Mujeresjovenes.org. Retrieved 26 December 2013.  1 2 \"El diario de Alhaurín de la Torre\" (in Spanish). Spain: diariolatorre.es. 2 August 2007. Archived from the original on 27 December 2013. Retrieved 26 December 2013.  ↑ \"Malagueña Herrera y granadino Del Valle, entre favoritos en Hungría\" (in Spanish). Spain: Mundodeportivo.com. Retrieved 26 December 2013.  1 2 3 4 \"Espíritu de superación — NAVARRA DEPORTE — Diario de Navarra\" (in Spanish). Spain: Diariodenavarra.es. Retrieved 26 December 2013.  ↑ \"Servimedia-Noticias-Sociedad\" (in Spanish). Spain: Servimedia.es. Retrieved 26 December 2013.  ↑ \"JJ.PP. Londres 2012 — Portal del Consejo Superior de Deportes\" (in Spanish). Spain: Government of Spain. Retrieved 26 December 2013.  ↑ \"Laura Garcia Benitez Of Spain Competes Against... Fotografía de noticias | Getty Images España | 150997261\" (in Spanish). Spain: Gettyimages.es. 2012-08-30. Retrieved 26 December 2013.  ↑ \"Judo Reshinkan y el equipo parolímpico Español | General\" (in Spanish). Spain: Deporte Balear. 6 December 2013. Retrieved 26 December 2013.  ↑ \"Carmen Herrera y Mónica Merenciano lucharán en Hungría por conquistar el Campeonato de Europa de Judo Paralímpico\". MARCA.com. Retrieved 2013-12-26.  ↑ \"Deportes. carmen herrera y mónica merenciano lucharán en hungría por conquistar el campeonato de europa de judo paralímpico — EcoDiario.es\" (in Spanish). Spain: Ecodiario.eleconomista.es. 3 December 2013. Retrieved 26 December 2013.  ↑ \"El coruñés Adrián Rodríguez, hasta Hungría por un sueño — La Opinión A Coruña\" (in Spanish). Spain: Laopinioncoruna.es. 4 December 2013. Retrieved 26 December 2013.  ↑ \"Diario de Noticias de Navarra. Noticias de última hora locales, nacionales, e internacionales\" (in Spanish). Spain: Noticias de Navarra. 30 July 2013. Archived from the original on 26 December 2013. Retrieved 26 December 2013.  ↑ \"Deportistas de Élite — Beneficios\" (in Spanish). Spain: Esport. 24 January 2006. Retrieved 26 December 2013. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 5 6 7 8 9 10 11 «Federación Mujeres Jóvenes». Spain: Mujeresjovenes.org. Consultado el 26 December 2013.  1 2 «El diario de Alhaurín de la Torre». Spain: diariolatorre.es. 2 August 2007. Archivado desde el original el 27 December 2013. Consultado el 26 December 2013.  ↑ «Malagueña Herrera y granadino Del Valle, entre favoritos en Hungría». Spain: Mundodeportivo.com. Consultado el 26 December 2013.  1 2 3 4 «Espíritu de superación — NAVARRA DEPORTE — Diario de Navarra». Spain: Diariodenavarra.es. Consultado el 26 December 2013.  ↑ «Servimedia-Noticias-Sociedad». Spain: Servimedia.es. Consultado el 26 December 2013.  ↑ «JJ.PP. Londres 2012 — Portal del Consejo Superior de Deportes». Spain: Government of Spain. Consultado el 26 December 2013.  ↑ «Laura Garcia Benitez Of Spain Competes Against... Fotografía de noticias | Getty Images España | 150997261». Spain: Gettyimages.es. 2012-08-30. Consultado el 26 December 2013.  ↑ «Judo Reshinkan y el equipo parolímpico Español | General». Spain: Deporte Balear. 6 December 2013. Consultado el 26 December 2013.  ↑ «Carmen Herrera y Mónica Merenciano lucharán en Hungría por conquistar el Campeonato de Europa de Judo Paralímpico». MARCA.com. Consultado el 2013-12-26.  ↑ «Deportes. carmen herrera y mónica merenciano lucharán en hungría por conquistar el campeonato de europa de judo paralímpico — EcoDiario.es». Spain: Ecodiario.eleconomista.es. 3 December 2013. Consultado el 26 December 2013.  ↑ «El coruñés Adrián Rodríguez, hasta Hungría por un sueño — La Opinión A Coruña». Spain: Laopinioncoruna.es. 4 December 2013. Consultado el 26 December 2013.  ↑ «Diario de Noticias de Navarra. Noticias de última hora locales, nacionales, e internacionales». Spain: Noticias de Navarra. 30 July 2013. Archivado desde el original el 26 December 2013. Consultado el 26 December 2013.  ↑ «Deportistas de Élite — Beneficios». Spain: Esport. 24 January 2006. Consultado el 26 December 2013. "
+        }
+    },
+    {
+        "id": "34505/mwcx-source-title",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Laura García Benítez"
+        },
+        "mt": null,
+        "target": {
+            "content": "Usuario:Karenqc/Laura García Benítez"
+        }
+    },
+    {
+        "id": "36998/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Christopher Henry \"Chris\" Smith (born March 4, 1953) is the U.S. Representative for New Jersey's 4th congressional district, serving since 1981. He is a member of the Republican Party. The district is based in Trenton and includes large portions of central New Jersey. He is currently the dean of the New Jersey congressional delegation."
+        },
+        "mt": null,
+        "target": {
+            "content": "Christopher Henry \"Chris\" Smith (nacido el  4 de marzo de 1953) es el representante estadounidense para el 4º distrito congresual de New Jersey, sirviendo en el cargo desde 1981. Es un miembro del Partido Republicano. El distrito tiene sede en Trenton e incluye porciones importantes del área central de New Jersey. Es actualmente el decano de la delegación congresual de New Jersey."
+        }
+    },
+    {
+        "id": "36998/mwCQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Early life, education, and early career"
+        },
+        "mt": null,
+        "target": {
+            "content": "Ver también"
+        }
+    },
+    {
+        "id": "36998/mwCg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Smith grew up in the Iselin neighborhood of Woodbridge Township, New Jersey, worked in his family's sporting goods business, and earned the Eagle Scout award. After graduating with a B.A. from Trenton State College (now The College of New Jersey) in 1975, became executive director of the New Jersey Right to Life Committee in 1976. Originally a Democrat, he switched parties and became a Republican in 1978.[1]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Ethan Gutmann David Kilgour David Matas Edward McMillan-Scott"
+        }
+    },
+    {
+        "id": "36998/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "U.S. House of Representatives"
+        },
+        "mt": null,
+        "target": {
+            "content": "Enlaces externos"
+        }
+    },
+    {
+        "id": "36998/mwEw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Elections"
+        },
+        "mt": null,
+        "target": {
+            "content": "Congresista Chris Smith - web oficial del Congreso de EEUU Chris Simth para Congreso Chris Smith en DMOZ"
+        }
+    },
+    {
+        "id": "37097/156",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "References"
+        }
+    },
+    {
+        "id": "37097/158",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "↑ Ethel Griffies at the Internet Broadway Database ↑ Ethel Griffies at the Internet Movie Database"
+        }
+    },
+    {
+        "id": "37097/37",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Ethel Griffies (Nacida como Ethel Bosque, 26 abril 1878, Sheffield @– 9 septiembre 1975, Londres) fue una actriz inglesa de teatro, cine y televisión. Hija de los también actores Samuel Rupert Bosque y Lillie Roberts, debutó a los tres añoscontinuando su carrera hasta casi los 86 años. Estuvo casada con Walter Beaumont y en segundas nupcias con otro actor, Edward Cooper, dejándola viuda sus últimos 20 añosde vida."
+        }
+    },
+    {
+        "id": "37097/43",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Carrera"
+        }
+    },
+    {
+        "id": "37097/45",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Apareció en numerosos obras, haciendo su debut teatral en Londres en 1899. Antes de comenzar su carrera cinematográfica de pleno en la década de los 30, realizó breves cameos en películas desde 1917. Su filmografía abarca más de 90 películas  y 10 episodios de televisión en una carrera que duró hasta su jubilación en 1967. Actuó como  Grace Poole en dos versiones de Jane Eyre, en la primera versión de 1934 y en la posterior de 1943. Uno de sus últimos papeles, por el qué es más recordada, era el de la anciana ornitóloga Señora Bundy en la película de Alfred Hitchcock es Los Pájaros (1963).[1][2]"
+        }
+    },
+    {
+        "id": "37097/57",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Filmografía parcial"
+        }
+    },
+    {
+        "id": "37097/59",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "El Coste de un Beso (1917) Posibilidades (1931) El puente de Waterloo (1931) Una vez una Señora (1931) Eres Escuchando? (1932) Mujer blanca (1933) Alicia en el país de las maravillas (película de 1933) Ana Karenina (película de 1935) No Tan Dusty (1936) Melodía culpable (1936) Kathleen Mavourneen (1937) Crackerjack (1938) Waterloo Puente (1940) (uncredited) Muertos que matan (1941) ¡Qué verde era mi valle! (1941) como la Señora Nicholas Un Yankie en la R.A.F. (1941) como la Señora Fitzhugh Entre nosotras (1942) Jane Eyre (1943) (uncredited) La sombra de una duda (1943) Al compás del corazón (1944) como la Señora McGuff Pesadilla (1945) Los Pájaros (1963) como la Señora Bundy, ornitóloga Billy el embustero (1963) Brazos de terciopelo (1965) Castillo en el Desierto (1942)"
+        }
+    },
+    {
+        "id": "39592/mwAw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Jorge Paulo Lemann (born August 26, 1939)[3] is a Brazilian-Swiss investor. He is ranked as the 26th richest person in the world by Forbes, with an estimated net worth of US$32.7 billion as of September 2016[2] He is the richest person in Brazil.[4][5] As of 2015, Forbes Brazil listed Lemann as the top entry for the Richest Brazilians list.[6]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Jorge Paulo Lemann (agosto nacido 26, 1939) es un brasileño-inversor suizo.[3] Es ranked como la 26.ª persona más rica en el mundo por Forbes, con un valor neto estimado de EE.UU.$32.7 mil millones cuando de septiembre 2016 es la persona más rica en Brasil.[2][4][5] Cuando de 2015, Forbes Brasil listó Lemann como la entrada superior para la lista de brasileños más Rica.[6]"
+        },
+        "target": {
+            "content": "Jorge Paulo Lemann (agosto nacido 26, 1939) es un empresario e inversor brasileño, aunque de origen suizo.[3] Está reconocido como la 26.ª persona más rica en el mundo por la revista Forbes, con una fortuna valorada en $32.700 millones (2016). Además, es la persona más rica de Brasil.[2][4][5] Cuando de 2015, Forbes Brasil listó Lemann como la entrada superior para la lista de brasileños más Rica.[6]"
+        }
+    },
+    {
+        "id": "39592/mwAQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Jorge Paulo Lemann Born August 26, 1939 (1939-08-26) (age 77) Rio de Janeiro, Brazil Residence Zurich, Switzerland Citizenship Brazil, Switzerland[1] Education Harvard University[2] Net worth US$32.7 billion (September 2016)[2] Spouse(s) Married[2] Children 6[2]"
+        },
+        "mt": null,
+        "target": {
+            "content": "Main Page Página no enlazada a Wikidata Si no existe en otras Wikipedias: [crea nuevo ítem] Si existe en otras Wikipedias: [busca ítem para enlazar] y añade el enlace en español: Main Page."
+        }
+    },
+    {
+        "id": "39592/mwQw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1 2 3 4 5 6 Stefan Barmettler: Der Brauer vom Zuerichsee. Handelszeitung, Nr. 19, May 8, 2014, p. 7 1 2 3 4 5 \"The World's Billionaires\". Forbes.  ↑ \"Today's ranking of the world's richest people of brazil\". Bloomberg. 29 November 2012. Retrieved 30 November 2012.  Cite web URL http://topics.bloomberg.com/bloomberg-billionaires-index/ Title Today's ranking of the world's richest people of brazil Source date 29 November 2012 Publisher Bloomberg URL access date 30 November 2012 ↑ \"Langnau: Nachfahre der Käse-Dynastie Lemann wurde reich - Region: Emmental\". bernerzeitung.ch. Retrieved 2015-09-26.  Cite web URL http://www.bernerzeitung.ch/region/emmental/Nachfahre-der-KaeseDynastie-Lemann-wurde-reich/story/10724334 Title Langnau: Nachfahre der Käse-Dynastie Lemann wurde reich - Region: Emmental Publisher bernerzeitung.ch URL access date 2015-09-26 ↑ \"Now, 56 varieties\". The Economist. 2013-02-23. Retrieved 2015-09-26.  Cite web URL http://www.economist.com/news/business/21572227-under-new-ownership-heinz-will-both-slim-down-and-bulk-up-now-56-varieties Title Now, 56 varieties Source date 2013-02-23 Publisher The Economist URL access date 2015-09-26 ↑ Antunes, Anderson. \"The richest people in Brazil 2015\". Forbes.  Cite news URL http://www.forbes.com/sites/andersonantunes/2014/09/18/the-complete-list-with-the-150-richest-people-in-brazil/ Source title The richest people in Brazil 2015 Last name Antunes First name Anderson Work Forbes ↑ \"DOU 20/08/1959 - Pg. 96 - Seção 1 | Diário Oficial da União | Diários JusBrasil\". Jusbrasil.com.br. Retrieved 2015-09-26.  ↑ \"Jornal do Brasil - Pesquisa no arquivo do Google Notícias\". News.google.com. 1966-07-01. Retrieved 2015-09-26.  ↑ \"ABI Lemann Telles Article - Documents\". Docslide.us. 2015-04-08. Retrieved 2015-09-26.  1 2 \"Jorge Lemann: He Is ... the World's Most Interesting Billionaire\". Bloomberg.  1 2 João Sandrini (2013-04-16). \"17 fatos que você (provavelmente) desconhece sobre o homem mais rico do Brasil\". InfoMoney. Retrieved 2015-09-26.  1 2 \"Jorge Paulo Lemann Net Worth - biography, quotes, wiki, assets, cars, homes and more\". Bornrich.com. Retrieved 2015-09-26.  ↑ \"Jorge Paulo LEMANN\". Daviscup.com. Retrieved 2015-09-26.  ↑ \"Jorge Paulo Lemann\". Forbes. Retrieved 2015-09-26.  ↑ \"Multimilliardär Jorge Paulo Lemann: Banker, Braumeister und Burgerketten-Besitzer - NZZ\". Nzz.ch. 2012-11-30. Retrieved 2015-09-26.  1 2 \"Jorge Paulo Lemann Family - Parents, Spouse, Children, Net Worth | Celebrity Family\". Celebfamily.com. 1939-08-26. Retrieved 2015-09-26.  1 2 \"Jorge Paulo Lemann, A.B. 1961; Carlos A. Sicupira, OPM 9, 1984; Marcel H. Telles, OPM 10, 1985 - Alumni - Harvard Business School\". Alumni.hbs.edu. 2009-01-01. Retrieved 2015-09-26.  ↑ Ascarelli, Silvia (2015-03-25). \"6 things to know about Kraft Foods buyer 3G\". MarketWatch. Retrieved 2015-09-26.  ↑ \"Jorge Lemann: He Is ... the World's Most Interesting Billionaire\". Bloomberg.  ↑ Inbev Prospectus January 2005 ↑ Richard Tomlison, The New King of Beer, Fortune Magazine, October 18, 2004 ↑ Julie MacIntosh, Dethroning the King: The Hostile Takeover of Anheuser-Busch, an American Icon; 2010 ↑ \"Burger King to Sell Itself to 3G for $4 Billion\", \"Dealbook\" blog, The New York Times, September 2, 2010, 9:50 am. Retrieved 2010-09-02. ↑ \"Berkshire Hathaway and 3G Capital Complete Acquisition of H.J. Heinz Company | Heinz Online Newsroom\". News.heinz.com. 2013-06-07. Retrieved 2015-09-26.  ↑ \"Merger announcement Kraft with Heinz\" (PDF). Files.shareholder.com. March 2015. Retrieved 2015-09-26. "
+        },
+        "mt": null,
+        "target": {
+            "content": "1 2 3 4 5 6 Stefan Barmettler: Der Brauer vom Zuerichsee. Handelszeitung, Nr. 19, May 8, 2014, p. 7 1 2 3 4 5 \"The World's Billionaires\". Forbes.  ↑ «Today's ranking of the world's richest people of brazil». Bloomberg. 29 November 2012. Consultado el 30 November 2012.  ↑ «Langnau: Nachfahre der Käse-Dynastie Lemann wurde reich - Region: Emmental». bernerzeitung.ch. Consultado el 2015-09-26.  ↑ «Now, 56 varieties». The Economist. 2013-02-23. Consultado el 2015-09-26.  ↑ «The richest people in Brazil 2015».  ↑ «DOU 20/08/1959 - Pg. 96 - Seção 1 | Diário Oficial da União | Diários JusBrasil». Jusbrasil.com.br. Consultado el 2015-09-26.  ↑ «Jornal do Brasil - Pesquisa no arquivo do Google Notícias». News.google.com. 1966-07-01. Consultado el 2015-09-26.  ↑ «ABI Lemann Telles Article - Documents». Docslide.us. 2015-04-08. Consultado el 2015-09-26.  1 2 «Jorge Lemann: He Is ... the World's Most Interesting Billionaire».  1 2 João Sandrini (2013-04-16). «17 fatos que você (provavelmente) desconhece sobre o homem mais rico do Brasil». InfoMoney. Consultado el 2015-09-26.  1 2 \"Jorge Paulo Lemann Net Worth - biography, quotes, wiki, assets, cars, homes and more\". Bornrich.com. Retrieved 2015-09-26.  ↑ «Jorge Paulo LEMANN». Daviscup.com. Consultado el 2015-09-26.  ↑ «Jorge Paulo Lemann». Forbes. Consultado el 2015-09-26.  ↑ «Multimilliardär Jorge Paulo Lemann: Banker, Braumeister und Burgerketten-Besitzer - NZZ». Nzz.ch. 2012-11-30. Consultado el 2015-09-26.  1 2 «Jorge Paulo Lemann Family - Parents, Spouse, Children, Net Worth | Celebrity Family». Celebfamily.com. 1939-08-26. Consultado el 2015-09-26.  1 2 \"Jorge Paulo Lemann, A.B. 1961; Carlos A. Sicupira, OPM 9, 1984; Marcel H. Telles, OPM 10, 1985 - Alumni - Harvard Business School\". Alumni.hbs.edu. 2009-01-01. Retrieved 2015-09-26.  ↑ Ascarelli, Silvia (2015-03-25). «6 things to know about Kraft Foods buyer 3G». MarketWatch. Consultado el 2015-09-26.  ↑ «Jorge Lemann: He Is ... the World's Most Interesting Billionaire».  ↑ Inbev Prospectus January 2005 ↑ Richard Tomlison, The New King of Beer, Fortune Magazine, October 18, 2004 ↑ Julie MacIntosh, Dethroning the King: The Hostile Takeover of Anheuser-Busch, an American Icon; 2010 ↑ \"Burger King to Sell Itself to 3G for $4 Billion\", \"Dealbook\" blog, The New York Times, September 2, 2010, 9:50 am. Retrieved 2010-09-02. ↑ «Berkshire Hathaway and 3G Capital Complete Acquisition of H.J. Heinz Company | Heinz Online Newsroom». News.heinz.com. 2013-06-07. Consultado el 2015-09-26.  ↑ «Merger announcement Kraft with Heinz». Files.shareholder.com. March 2015. Consultado el 2015-09-26. "
+        }
+    },
+    {
+        "id": "48445/137",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "48445/139",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "↑ \"Baltic Beverages Holding AB: Private Company Information - BusinessWeek\". investing.businessweek.com. Retrieved 2009-06-04.  ↑ \".: ALDARIS :.\". www.aldaris.lv. Retrieved 2009-06-04.  ↑ \"Aldaris (Baltic Beverages Holdings - Carlsberg)\". www.ratebeer.com. Retrieved 2009-06-04.  ↑ Švyturys - Utenos Alus, Uab ↑ Stock from the Memeler Aktien-Brauerei ↑ \"Carlsberg Group - Estonia\". www.carlsberggroup.com. Retrieved 2013-02-13. "
+        }
+    },
+    {
+        "id": "48445/30",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Baltas Cerveza de trigo (5.2% abv)"
+        }
+    },
+    {
+        "id": "48445/35",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Baltic Beverages es una compañía cervecera perteneciente al grupo Carlsberg. Es un operador significativo en el industria cervecera en Rusia, Ucrania, Lituania, Letonia, Estonia, Uzbekistán y Kazajistán, posee una notable participación ejecutiva en Baltika. La compañía maneja una gama de 19 marcas, diez de los cuales están en Rusia, cuatro en los países bálticos, tres en Ucrania, uno en Kazajistán y uno en Uzbekistán. La compañía era una sociedad 50 -50  entre Carlsberg y Scottish & Newcastle previo a que Carlsberg realizara la adiquisición de S & N en abril de 2008."
+        }
+    },
+    {
+        "id": "48445/49",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Historia"
+        }
+    },
+    {
+        "id": "48445/51",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La compañía fue fundada en 1991 por la cervecería finlandesa Hartwall y la sueca Pripps.[1]"
+        }
+    },
+    {
+        "id": "48445/mwPA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Saku Brewery"
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "48445/mwPQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Saku Brewery dates back to 1820, making it the oldest commercial brewery in Estonia. It makes a wide range of pale lagers, such as the very popular Saku Originaal, and a few stronger and darker lagers. Since 2008, Saku has been 100% owned by the Carlsberg Group.[6]"
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "48938/107",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En el Reino Unido, Foster's es producida por Heineken en la Royal Brewery en Mánchester.[14]"
+        }
+    },
+    {
+        "id": "48938/109",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Foster's no es apta para Vegetarianos o veganos.[15]"
+        }
+    },
+    {
+        "id": "48938/111",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Mercado australiano"
+        }
+    },
+    {
+        "id": "48938/113",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Mientras que es popular en muchos países, particularmente dónde es hecha localmente, Foster's Lager no disfruta mucho éxito en Australia. Como la cerveza embotellada producida por el grupo Foster's (anteriormente grupo Carlton United Beverages (CUB)), raramente ha sido promovida en Australia desde prinicpios de los 2000. Una vez una \"marca\" de vanguardia, grupo Lager ha sido desplazada a favor de otras marcas del mismo grupo como Carlton Crown Lager y Stella Artois.[16][17]"
+        }
+    },
+    {
+        "id": "48938/120",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En Australia, hasta el fin de los 70s, Adoptivo Lager era una cerveza popular embotellada y enlatada con una cierta imagen de cerveza premium. Fue entonces, en la primer parte de los 80s cuando habría cambios importantes en la industria cervecera australiana, incluyendo la fusión de Castlemaine (Brisbane), Swan (Perth) y Toohey's (Sydney) en un grupo cervecero nacional, a raíz de adquisiciones por parte del emprendedor originario de Perth, Alan Bond."
+        }
+    },
+    {
+        "id": "48938/125",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Enfrentado a muchas incursiones en mercados ajenos a la provincia de Victoria, Carlton and United Beverages, CUB, rediseñaron su portafolio e intentaron reposicionar algunas de sus amrcas. opr ello, Foster's Draught fue lanzada, servida de barril junto con lagunas otras marcas de sifón como Castlemaine XXXX y Toohey's Draught. Pese a tener un éxito inicial, impulsado por una campaña comercial fuerte, la marca no llegó a ser popular y eventualmente fue retirada del mercado. Presumiblemente porque al final del experimento, Foster's Lager no era vista como un producto \"premium\"."
+        }
+    },
+    {
+        "id": "48938/130",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "El grupo Foster's ha tendido a promover las marcas de Carlton Drauht y Victoria Bitter (con un mercado en la clase laboral masculina).[18]"
+        }
+    },
+    {
+        "id": "48938/134",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La cervecería Power's, del sur de Brisbane, fue adquirida por CUB y es ahora utilizada para fabricar Victoria Bitter y otro Adoptivo marcas de Grupo en Queensland, (incluyendo Adoptivo Lager).[19]"
+        }
+    },
+    {
+        "id": "48938/137",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Sin embargo, a finales de 2014, Fosters' disfrutaba de un éxito renovado en el mercado australiano. Fosters' lager era comercializada con el nombre de \"Fosters' Classic\" y vendida en latas de 375ml con 4.0% alcohol por unidad."
+        }
+    },
+    {
+        "id": "48938/140",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Mercado global"
+        }
+    },
+    {
+        "id": "48938/142",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En abril de 2006, Scottish & Newcastle anunció que acordó la adquisición de la marca Foster's en Europa (incluyendo Turquía), la Federación rusa y otros países en el Commonwealth de Estados Independientes de grupo Foster's por aproximadamente £309 millones. En agosto de 2006, SABMiller anunció que la compra de los derechos de la  marca Foster's en India por $120m provenientes de inversores privados.[20][21]"
+        }
+    },
+    {
+        "id": "48938/148",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "48938/150",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Scotish & Newcastle lanzó Foster's Twist, una cerveza con una pista de cítrico que es comercializada como una alternativa refrescante a otras cervezas más pesadas. Foster's Twist tenía un contenido de 4.5% abv. Desde entonces ha sido retirado del mercado.[22]"
+        }
+    },
+    {
+        "id": "48938/156",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "También hay Foster's Super Chilled, el cual es servido a una temperatura más fría y está disponible en pubs y bares."
+        }
+    },
+    {
+        "id": "48938/158",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En 2008, Foster's fue introducido con un herramienta llamada \"scuba\" colocada en la lata para asegurar bueno mezclando.[23] Esta variante está actualmente disponible sólo en el Reino Unido."
+        }
+    },
+    {
+        "id": "48938/162",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En el Reino Unido, los clientes son también capaces de adquirir barriles de Foster's para eventos privados, recogiendo y regresando el barril en una tienda participante o pubs."
+        }
+    },
+    {
+        "id": "48938/164",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "También, hay Foster's Gold qué tiene un porcentaje de alcohol ligeramenteligeramente más alto a 4.8%."
+        }
+    },
+    {
+        "id": "48938/166",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Comercialización"
+        }
+    },
+    {
+        "id": "48938/168",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Desde 1964, la marca fue promocionada en el Reino Unido por el comediante Barry Humphries y su personaje de Private Eye Barry McKenzie, un australiano torpe y borrachin expatriado amante deFoster's.[5]"
+        }
+    },
+    {
+        "id": "48938/173",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Foster's Lager usa el eslogan \"El Néctar de Ámbar\" en Australia y el Reino Unido, y \"Cerveza en australiano\", en otros lugares en el extranjero. En el extranjero, el anuncio del producto a menudo enfoca connotaciones australianas de la cerveza, como hacer referencia a imágenes esteroetípicas australianas como canguros, acentos locales exagerados y sombreros de safari con pedazos de corhos añadidos. Esto fue parte de una campaña en los 80s encabezada por el comediante australiano Paul Hogan.[24]"
+        }
+    },
+    {
+        "id": "48938/180",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La campaña de 2009 para Foster's incluye dos anuncios de 40 segundos, \"Mochilero\" y \"Mar Profundo\"; ambos terminan con el eslogan, \"Foster's: pon algo de australiano en ti.\"[25]"
+        }
+    },
+    {
+        "id": "48938/182",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La marca Foster's  Lager fue utilizada como patrocinio publicitario para el Norwich City F.C. de 1986 a 1989. En su comienzo, el patrocinio por parte de Foster's fue el más lucrativo para un club de fútbol inglés."
+        }
+    },
+    {
+        "id": "48938/187",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La marca patrocinó eventos de F1 de manera regular de 1986 a 2006. Durante este período fue el patrocinador del título para el GP australiano (1986–1993 y 2002–2006), el GP británico (1990–1993 y 2000–2006) y el San Marino GP (2003–2006). También fue el mayor patrocinador de muchos otros Grand Prix durante este tiempo. La marca era también utilizada en un patrocinio con el Equipo A1 Australia de 2005 a 2007. La marca es actualmente utilizada en un patrocinio grande con el ASP World Tour."
+        }
+    },
+    {
+        "id": "48938/195",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La división de Reino Unido para Foster's se ha centrado en cultivar la comercialización centrada en comedia y arreglos de patrocinio y el 9 de noviembre de 2011 lanzaró un corto para su patrocinio, una versión únicamente par ainternet del éxito televisivo de los 90s única del golpe 90s' espectáculo televisivo The Fast Show.[26] Los seis episodios semanales empezaron el 10 de noviembre e incluían el reparto original (con la excepción de Mark Williams) y muchos de los personajes de la serie anterior.[27]"
+        }
+    },
+    {
+        "id": "48938/199",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Recientes comerciales de Foster's han inlcuido \"Good Call\", en qué numeroso británicos teléfonean a los australianos Brad y Dan para obtener consejo.[28]"
+        }
+    },
+    {
+        "id": "48938/201",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Ver también"
+        }
+    },
+    {
+        "id": "48938/220",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Lager"
+        }
+    },
+    {
+        "id": "48938/227",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Referencias"
+        }
+    },
+    {
+        "id": "48938/229",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "↑ 1.0 1.1 1.2 Deutsher, Keith (1999). The Breweries of Australia: A History. Lothian. p. 144. ISBN 978-0-85091-986-8.  ↑ http://www.fostersbeer.com/#/the-beer ↑ Alcoholic Drinks: Euromonitor from trade sources/national statistics 2012 ↑ 4.0 4.1 4.2 Garrett Oliver (2011). The Oxford Companion to Beer. Oxford University Press. p. 370. ISBN 978-0-19-536713-3.  ↑ 5.0 5.1 5.2 5.3 5.4 Garrett Oliver (2011). The Oxford Companion to Beer. Oxford University Press. p. 371. ISBN 978-0-19-536713-3.  ↑ Derdak, Thomas (1988). International directory of company histories. St. James Press. p. 228. ISBN 978-0-912289-10-6.  ↑ 7.0 7.1 Foster’S Lager Beer, Bitter Ale & Extra Stout, Melbourne: ↑ Or is it ↑ Beer - Carlton & United Breweries (CUB) ↑ \"Fosters (UK) from Berkshire (Heineken) – Ratebeer\". ratebeer.com. Retrieved 29 August 2009.  ↑ Foster's in the US, www.fostersbeer.com ↑ Foster's in India, www.sabmiller.in ↑ \"SABMiller acquires Foster's India\"[dead link]. Press release. SABMiller plc. 4 August 2006. ↑ SAB turns hostile with A$9.5bn bid for Foster's investors - Business News - Business - The Independent ↑ \"FAQ's\". Fosters. Retrieved 27 June 2014.  ↑ Stella Artois is brewed in Australia under licence from Belgian beer conglomerate InBev. ↑ \"Cheers! Why every brewer loves a premium beer or two\", www.smh.com.au, 18 August 2004. ↑ The New York Times - Breaking News, World News & Multimedia[dead link] ↑ Some Sports Betting Tips[dead link] ↑ S&N turns on Foster's tap in Europe, Times Online ↑ Scottish & Newcastle completes the acquisition of the Foster’s brand[dead link], Scottish & Newcastle ↑ Alcoholic Drinks: Euromonitor from trade sources/national statistics, 2011 ↑ S&N launches ‘widget’ versions of Foster’s and Kronenbourg ↑ Simon Bowers \"Foster's may be 'the Australian for lager' but it is brewed in Britain\", The Guardian, 21 June 2011 ↑ \"Foster’s returns to its advertising roots\". www.talkingretail.com. Retrieved 29 August 2009. [dead link] ↑ Foster's - YouTube ↑ Foster's - The Fast Show[dead link] ↑ Foster's » Good Call Ads[dead link]"
+        }
+    },
+    {
+        "id": "48938/385",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Enlaces externos"
+        }
+    },
+    {
+        "id": "48938/387",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Sitio web de Reino Unido oficial, www.fosters.co.uk Sitio web de EE.UU. oficiales, www.fostersbeer.com Reino Unido oficial Fosters Sitio web de Campaña Graciosa, www.fostersfunny.co.uk Entrevista con Trevor O'Hoy, CEO de Grupo Foster's en 2006. Historia de Foster's, www.australianbeers.com"
+        }
+    },
+    {
+        "id": "48938/45",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Foster's Lager es una marca australiana de cerveza tipo lager. Es parte del grupo sudafricano SABMiller, y es fabricada bajo licencia en un número significativo de países, incluyendo el Reino Unido, donde los derechos europeos de la marca son propiedad de Heineken Internacional."
+        }
+    },
+    {
+        "id": "48938/53",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La cantidad de ventas anuales de Foster's asciende alrededor de 5 millones de hectolitros en todo el mundo, gran parte de los cuales son en el Reino Unido, donde es segundo lugar en ventas después de Carling[3] Pese a que es conocida internacionalmente como la cerveza australiana por excelencia, Foster's no disfruta la popularidad extendida en Australia comparada con otras como las del portafolio de CUB, entre las cuales se encuentran Victoria Bitter o Carlton Draught.[4]"
+        }
+    },
+    {
+        "id": "48938/62",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Historia"
+        }
+    },
+    {
+        "id": "48938/64",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Foster's fue creada por dos hermanos estadounidenses irlandeses, William M. y Ralph R. Foster, quienes llegaron a Melbourne desde Nueva York en 1886.[5] Los hermanos fundaron la empresa en noviembre de 1888.[1] Este producto estuvo disponible al público de febrero de 1889.[1] El producto fue exportado por primera vez en 1901, cuándo las botellas fueron enviadas a combatientes australianos en la Guerra Boer.[6]"
+        }
+    },
+    {
+        "id": "48938/71",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En 1907 la compañía se fusionó para formar Carlton United Breweries.[5] Sólo disponible en botellas, Foster's Lager estuvo considerada para ser la  marca insignia de CUB.[5]"
+        }
+    },
+    {
+        "id": "48938/74",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "En 1958, latas de acero fueron introducidas.[7]"
+        }
+    },
+    {
+        "id": "48938/76",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Tim Foster's Lager fue importada al Reino Unido por primera vez en 1971.[4] Fue lanzada en los EE.UU. en 1972.[4]"
+        }
+    },
+    {
+        "id": "48938/79",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Desde 1981, la marca era fabricada bajo licencia en el Reino Unido por el grupo cervecero Courage.[5] Courage fue adquirido en 1986 por el australiano John Elliott.. Percibiendo la popularidad creciente de la importada Foster's Lager, éste decidido comenzar la fabricación local del producto bajo Courage. El tamaño de la ahora localmente producida Foster's en lata fue aumentada a los estándares del Reino Unido: 440 ml."
+        }
+    },
+    {
+        "id": "48938/86",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Producción"
+        }
+    },
+    {
+        "id": "48938/88",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Foster's Lager fue originalmente hecha con azúcar (se desconoce si éste es todavía el caso).[7]"
+        }
+    },
+    {
+        "id": "48938/90",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "La levadura que se utiliza en Tim Foster's hoy en día fue traída a Carlton en 1923 por el profesor Jorgensen de Dinamarca.[8]"
+        }
+    },
+    {
+        "id": "48938/92",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "A la lager se le agregan lúpulo Pride of Ringwood de forma tardía.[9]"
+        }
+    },
+    {
+        "id": "48938/95",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "El producto tiene un contenido de 4% ABV en Europa, 4.9% ABV en Australia, y 5% en los EE.UU.."
+        }
+    },
+    {
+        "id": "48938/97",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": "Los derechos europeos de la cerveza son propiedads de Heineken Internacional, quién fabrica y distribuiye una versión de 4% ABV en la mayoría de los países europeos.[10] En los Estados Unidos e India, los derechos a la marca están poseídos por SABMiller.[11][12][13] Respectivamente, en Canadá y Brasil, Foster's es fabricada por Molson Canada y Kirin Brasil bajo licencia de Foster's Brewing Internacional.[La cita necesitada]"
+        }
+    },
+    {
+        "id": "52338/mwAQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza Lucas Pinckney (December 28, 1722–1793) changed agriculture in colonial South Carolina, where she developed indigo as one of its most important cash crops. Its cultivation and processing as dye produced one-third the total value of the colony's exports before the Revolutionary War. Manager of three plantations,[1] Mrs. Pinckney had a major influence on the colonial economy."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza Lucas Pinckney (diciembre 28, 1722@–1793) cambió agricultura en Carolina del Sur colonial, donde desarrolle índigo cuando uno de su la mayoría de dinero efectivo importante cultivos. Su cultivation y procesando tan el tinte produjo un-tercer el valor total de las exportaciones de la colonia antes de la Guerra Revolucionaria. Director de tres plantaciones, Señora[1] Pinckney Tuvo una influencia importante en la economía colonial."
+        },
+        "target": {
+            "content": "Eliza Lucas Pinckney (28 de diciembre de 1722–1793) cambió la agricultura en la Carolina del Sur colonial, donde convirtió el índigo en uno de sus cultivos más importantes por valor. Su cultivo y procesado para obtener tinte produjo un tercio del valor total de las exportaciones de la colonia antes de la Guerra Revolucionaria. Directora de tres plantaciones,[1] Pinckney tuvo una gran influencia en la economía colonial."
+        }
+    },
+    {
+        "id": "52338/mwCg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the twentieth century, Eliza Pinckney was the first woman to be inducted into South Carolina's Business Hall of Fame."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En el vigésimo siglo, Eliza Pinckney era la primera mujer para ser inducted a la sala Empresarial de Carolina del Sur de Fama."
+        },
+        "target": {
+            "content": "En el siglo XX, Eliza Pinckney fue la primera mujer elegida para el Salón de la Fama Empresarial de Carolina del Sur."
+        }
+    },
+    {
+        "id": "52338/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Early life and education"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Educación y vida tempranas"
+        },
+        "target": {
+            "content": "Infancia y educación"
+        }
+    },
+    {
+        "id": "52338/mwDA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Elizabeth (known as Eliza) Lucas was born on December 28, 1722, in Antigua, British West Indies, where she grew up at Poerest, one of her family's three sugarcane plantations on the island. She was the eldest child of Lt. Colonel George Lucas, of Dalzell's Regiment of Foot in the British Army, and his wife Ann (probably Mildrum) Lucas. She had two brothers, Thomas and George, and a younger sister Mary (known to her family as Polly).[2] Col. and Mrs. Lucas sent all their children to London for schooling. It was customary for elite colonists to send boys to England for their education when they might be as young as 8 or 9. Girls would not be sent until their mid-teens when nearing marriageable age. During this period, many parents believed that girls' futures of being wives and mothers made education in more than \"the three Rs\" and social accomplishments less necessary."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Elizabeth (sabido cuando Eliza) Lucas nació encima diciembre 28, 1722, en Antigua, Antillas inglesas, donde crezca arriba en Poerest, uno de su familia tres sugarcane plantaciones en la isla. Sea el eldest niño de Lt. Coronel George Lucas, de Dalzell Regimiento de Pies en el Ejército británico, y su mujer Ann (probablemente Mildrum) Lucas. Tenga dos hermanos, Thomas y George, y una hermana más joven Mary (sabido a su familia como Polly).[2] Col. Y Señora Lucas envió todos sus niños a Londres para escolarización. Sea consuetudinario para colonizadores de élite para enviar chicos a Inglaterra para su educación cuándo podrían ser tan jóvenes cuando 8 o 9. Las chicas no serían enviadas hasta su mid-adolescentes cuándo acercándose marriageable edad. Durante este periodo, muchos padres creyeron que chicas' futuros de ser mujeres y madres educación hecha en más de \"el tres Rs\" y social accomplishments menos necesario."
+        },
+        "target": {
+            "content": "Elizabeth (llamada Eliza) Lucas nació el 28 de diciembre de 1722, en Antigua, Antillas inglesas. Creció allí, en Poerest, donde su familia poseía tres plantaciones de caña de azúcar. Era la hija mayor del teniente coronel George Lucas, del Regimiento Dalzell de Infantería del Ejército británico, y de su mujer Ann (probablemente Mildrum) Lucas. Tuvo dos hermanos, Thomas y George, y una hermana más joven llamada Mary (conocida familiarmente como Polly).[2] Los Lucas enviaron a todos sus niños a Londres para ser educados de acuerdo a la costumbre de la élite colonial. Las chicas no solían ser enviadas hasta su adolescencia, al acercarse la edad casadera, dado que se esperaba de ellas un futuro como madres y esposas."
+        }
+    },
+    {
+        "id": "52338/mwFQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "But Eliza's ability was recognized. She treasured her education at boarding school, where studies included French and music, but she said her favorite subject was botany.[3] She wrote to her father that she felt her \"education, which [she] esteems a more valuable fortune than any [he] could have given [her], … Will make me happy through my future life.\"[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Pero la capacidad de Eliza estuvo reconocida. Atesore su educación en entablar escuela, donde los estudios incluidos franceses y música, pero diga que su tema favorito era botany.[3] Escriba a su padre que sienta su \"educación , qué [ella] estimas una fortuna más valiosa que cualquier [él] podría haber dado [su], … me hará feliz a través de mi vida futura.\"[4]"
+        },
+        "target": {
+            "content": "Sin embargo, Eliza destacó. Sus estudios incluían francés y música, pero su tema favorito era la botánica.[3] Escribió a su padre que sentía su \"educación , qué estimaba una fortuna más valiosa que cualquiera otra que le hubiera dado, … me hará feliz a lo largo de mi vida futura.\"[4]"
+        }
+    },
+    {
+        "id": "52338/mwGA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Move to South Carolina and career"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Movimiento a Carolina del Sur y carrera"
+        },
+        "target": {
+            "content": "Mudanza a Carolina del Sur"
+        }
+    },
+    {
+        "id": "52338/mwGQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1738, the year Eliza would turn 16, Col. Lucas moved his family from Antigua to South Carolina, where he had inherited three plantations from his father.[5] With tensions increasing between Spain and England, he believed his family would be safer in Carolina than on the tiny, exposed island in the West Indies. Eliza's grandfather, John Lucas, had acquired three tracts of land: Garden Hill on the Combahee River (1,500 acres), another 3,000 acres on the Waccamaw River, and Wappoo Plantation (600 acres) on Wappoo Creek—a tidal creek that connected the Ashley and Stono Rivers.[6] They chose to reside at Wappoo, which was 17 miles by land to Charleston (then known as Charles Town) and six miles by river.[7]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1738, el año Eliza giraría 16, Col. Lucas movió su familia de Antigua a Carolina del Sur, donde haya heredado tres plantaciones de su padre.[5] Con las tensiones que aumentan entre España e Inglaterra, crea que su familia sería más seguro en Carolina que en la isla minúscula, expuesta en las Indias Del oeste. El abuelo de Eliza, John Lucas, había adquirido tres tramos de tierra: Cerro de Jardín en el Combahee Río (1,500 acres), otro 3,000 acres en el Waccamaw Río, y Wappoo Plantación (600 acres) en Wappoo Riachuelo—un tidal riachuelo que conectó la Ashley y Stono Ríos.[6] Escogieron residir en Wappoo, el cual era 17 millas por aterrizar a Charlestón (entonces sabido cuando Charles Ciudad) y seis millas por río.[7]"
+        },
+        "target": {
+            "content": "En 1738, cuando Eliza tenía 16 años, los Lucas se mudaron de Antigua a Carolina del Sur, donde su padre había heredado tres plantaciones.[5] Con el desarrollo de tensiones entre España e Inglaterra, el coronel Lucas creía que su familia estaría más segura en Carolina que en la minúscula isla. El abuelo de Eliza, John Lucas, había adquirido tres lotes de tierra: Garden Hill, en el río Combahee (1,500 acres), otro de 3,000 acres en el río Waccamaw y la plantación Wappoo (600 acres) en Wappoo —un riachuelo estacional que entre los ríos Ashley y Stono.[6] Escogieron residir en Wappoo, a 17 millas por carretera de Charleston (entonces Charles Twon) y seis millas por vía fluvial.[7]"
+        }
+    },
+    {
+        "id": "52338/mwIA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1739, Col. Lucas had to return to his post in Antigua to deal with the political conflict between England and Spain. He was appointed lieutenant governor of the island. England’s involvement in the War of the Austrian Succession thwarted his attempts to move back to South Carolina with his family. Eliza’s letters to him show that she regarded her father with great respect and deep affection, and demonstrated that she acted as head of the family in terms of managing the plantations. Her mother died shortly after they moved.[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En 1739, Col. Lucas tuvo que regresar a su correo en Antigua para tratar el conflicto político entre Inglaterra y España. Esté nombrado gobernador de lugarteniente de la isla. La implicación de Inglaterra en la Guerra de la Sucesión austriaca thwarted sus intentos de mover atrás a Carolina del Sur con su familia. Las letras de Eliza a él espectáculo que considere su padre con respeto grande y afecto profundo, y demostró que actúe tan cabeza de la familia en plazos de gestores las plantaciones. Su madre murió poco después movieron.[4]"
+        },
+        "target": {
+            "content": "En 1739, el coronel Lucas tuvo que regresar a Antigua por el conflicto entre Inglaterra y España. Fue vicegobernador de la isla. La implicación de Inglaterra en la Guerra de la Sucesión austriaca detuvo sus intentos de regesar a Carolina del Sur con su familia. Las cartas de Eliza a su padre muestran un gran cariño y afecto y señalan que actuba como gestora de las propiedades familiares en Carolina (sum madria había muerto al poco de llegar a dicha colonia).[4]"
+        }
+    },
+    {
+        "id": "52338/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza was 16 years old when she became responsible for managing Wappoo Plantation and its twenty slaves, plus supervising overseers at two other Lucas plantations, one inland producing tar and timber, and a 3,000 acres (12 km2) rice plantation on the Waccamaw River.[5] In addition she supervised care for her extremely young sister, as their two brothers were still in school in London. As was customary, she recorded her decisions and experiments by copying letters in a letter book. This letter book is one of the most impressive collections of personal writings of an eighteenth-century American woman. It gives insight into her mind and into the society of the time."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza tenía 16 años cuándo devenga responsable para gestor Wappoo Plantación y sus veinte esclavos, el plus que supervisa overseers en dos otro Lucas plantaciones, uno inland produciendo alquitrán y timber, y unos 3,000 acres (12 km2) plantación de arroz en el Waccamaw Río.[5] Además supervise cuidado para su hermana extremadamente joven, cuando sus dos hermanos siguieron en escolares en Londres. Cuando era consuetudinario, grabe sus decisiones y experimentos por copiar letras en un libro de letra. Este libro de letra es uno de las colecciones más impresionantes de escrituras personales de un decimoctavo-siglo mujer americana. Da idea a su mente y a la sociedad del tiempo."
+        },
+        "target": {
+            "content": "Eliza tenía 16 años cuándo comenzó a gestionar la plantación Wappoo y sus veinte esclavos, además de supervisar las otras propiedades de los Lucas.  Garden Hill producía alquitran y maderana mientras que Waccamaw producía arroz.[5] Además supervisaba la educación de su hermana menor, mientras sus hermanos seguían sus estudios en Londres. De acuerdo a la costumbre de la época, registraba sus decisiones en su libro de notas, un documento considerado uno de los mejores ejemplos de textos personales de mujeres americanas del siglo XVIII."
+        }
+    },
+    {
+        "id": "52338/mwJw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "From Antigua, Col. Lucas sent Eliza various types of seeds for trial on the plantations. They and other planters were eager to find crops for the uplands that could supplement their cultivation of rice. First, she \"experimented\" with ginger, cotton, and alfalfa. Starting in 1739, she began \"experimenting\" with cultivating and improving strains of the indigo plant, for which the expanding textile market created demand for its dye. When Col. Lucas sent Eliza indigofera seeds in 1740, she expressed her \"greater hopes\" for them, as she intended to plant them earlier in the season.[4] In experimenting with growing indigo in new climate and soil, Lucas also made use of knowledge and skills of enslaved Africans who had grown indigo in the West Indies and West Africa. [citation needed]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "De Antigua, Col. Lucas envió Eliza varios tipos de semillas para prueba en las plantaciones. Ellos y otro planters era ansioso de encontrar cultivos para el uplands que podría suplemento su cultivation de arroz. Primero, ella \"experimented\" con jengibre, algodón, y alfalfa. Empezando en 1739, empiece \"experimenting\" con cultivar y mejorando tensiones de la planta de índigo, para qué el expandiendo mercado textil demanda creada para su tinte. Cuándo Col. Lucas envió Eliza indigofera semillas en 1740, exprese sus \"esperanzas más grandes\" para ellos, cuando pretenda plantarles más temprana en la estación.[4] En experimenting con crecer índigo en tierra y clima nuevos, Lucas uso hecho también de conocimiento y habilidades de esclavizados Africans quién había crecido índigo en las Indias Del oeste y África Del oeste. [La cita necesitada]"
+        },
+        "target": {
+            "content": "Desde Antigua, el coronel Lucas envió a Eliza varios tipos de semillas para poner a prueba en las plantaciones. Como otros agricultores de las tierras altas, estaban buscando cultivos que complementaran al arroz. Primero, experimentó con jengibre, algodón, y alfalfa. Desde 1739 probó a cultivar y mejorar variedades de la planta de índigo, demandado por la creciente industria textil. Cuándo su padre envió a Eliza semillas de indigofera en 1740, esta pusó sus \"más grandes esperanzas\" para ellas y planeó plantarlas en la siguiente estación.[4] Experimientando con índigo en un nuevo terreno y clima, Lucas aprovechó también conocimiento y habilidades de los esclavos negros que había cultivado índigo en las Indias Occidentales y África Occidental."
+        }
+    },
+    {
+        "id": "52338/mwMw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "After three years of persistence and many failed attempts, Eliza proved that indigo could be successfully grown and processed in South Carolina. While she had first worked with an indigo processing expert from Montserrat, she was most successful in processing dye with the expertise of an indigo-maker of African descent whom her father hired from the French West Indies.[8]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Después de que tres años de la persistencia y muchos fallaron intentos, Eliza probó que el índigo podría ser exitosamente crecido y procesado en Carolina del Sur. Mientras primero haya trabajado con un experto de procesamiento del índigo de Montserrat, sea más exitosa en procesar tinte con la pericia de un índigo-fabricante de descenso africano quien le el padre contratado de las Indias Del oeste francesas.[8]"
+        },
+        "target": {
+            "content": "Después de que tres años de la persistencia y muchos intentos fallidos, Eliza demostró que el índigo podría ser exitosamente cultivado y procesado en Carolina del Sur. Primero había trabajado con un experto del índigo de Montserrat aunque fue finalmente sea la pericia de un fabricante de índigo de origen africano contratado por su padre desde las Indias Occidentales Francesas lo que tuvo mejor resultado.[8]"
+        }
+    },
+    {
+        "id": "52338/mwNg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza used her 1744 crop to make seed and shared it with other planters, leading to an expansion in indigo production.[8] She proved that colonial planters could make a profit in an extremely competitive market. Due to her successes, the volume of indigo dye exported increased dramatically from 5,000 pounds in 1745-46, to 130,000 pounds by 1748.[3] Indigo became second only to rice as the South Carolina colony's commodity cash crop, and contributed greatly to the wealth of its planters. Before the Revolutionary War, indigo accounted for more than one-third of the total value of exports from the colony.[9]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza utilizó su 1744 cultivo para hacer semilla y compartió él con otro planters, dirigiendo a una expansión en producción de índigo.[8] Pruebe que colonial planters podría hacer un beneficio en un mercado extremadamente competitivo. Debido a sus éxitos, el volumen de tinte de índigo exportó aumentado dramáticamente de 5,000 libras en 1745-46, a 130,000 libras por 1748.[3] El índigo devenía segundo único a arroz como el cultivo de dinero efectivo de la mercancía de la colonia de Carolina del Sur, y contribuyó mucho a la riqueza de su planters. Antes de la Guerra Revolucionaria, índigo accounted para más de uno-tercer del valor total de exportaciones de la colonia.[9]"
+        },
+        "target": {
+            "content": "Eliza utilizó su cosecha de 1744 para acumular semillas que compartió con otra plantaciones, causando un auge en la producción de índigo.[8] Probó que las plantaciones podían obtener beneficios en un mercado extremadamente competitivo. Debido a su éxito, el volumen de tinte de índigo exportado aumentado dramáticamente de 5,000 libras en 1745-46, a 130,000 libras en 1748.[3] El índigo se convirtió en el segundo cultivo por valor de Carolina del Sur, solo superado por el arroz, y contribuyó a la riqueza de su plantaciones. Antes de la Guerra Revolucionaria, el índigo suponía más de un tercio del valor total de las exportaciones de la colonia.[9]"
+        }
+    },
+    {
+        "id": "52338/mwOg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Her writings"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Sus escrituras"
+        },
+        "target": {
+            "content": "Escritos"
+        }
+    },
+    {
+        "id": "52338/mwOw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "From the time that she began her life in South Carolina on Wappoo Plantation to the time that she died in Philadelphia in 1793, Eliza carefully copied all of the letters she wrote to her family, friends, and acquaintances into a \"letter-book.\"[10] In her letter books, she organized her writings into multiple volumes each depicting with great detail a different period during her life. The volumes recount most of her life, with the bulk of her writings referring to the time between 1739 and 1762.[11]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Del tiempo que empiece su vida en Carolina del Sur en Wappoo Plantación al tiempo que muera en Filadelfia en 1793, Eliza cuidadosamente copió todo de las letras escriba a su familia, amigos, y acquaintances a una \"letra-libro.\"[10] En sus libros de letra, organice sus escrituras a volúmenes múltiples cada describiendo con detalle grande un periodo diferente durante su vida. Los volúmenes recount la mayoría de su vida, con el bulk de sus escrituras que refieren al tiempo entre 1739 y 1762.[11]"
+        },
+        "target": {
+            "content": "Desde que se trasladó a en Carolina del Sur hasta su muerte en Filadelfia en 1793, Eliza cuidadosamente copió todas sus cartas a familia, amigos, y conocidos en un archivo epistolar.[10] En él, organizaba sus cartas en varios volúmenes, siguiendo las etapas de su vida. El grueso de los documentos data de 1739 a 1762.[11]"
+        }
+    },
+    {
+        "id": "52338/mwPA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The first few volumes range from the years 1739 to 1746. They begin with her description of her family's move to the plantation in South Carolina when she was about seventeen years old. Throughout these years, she began to experiment with the indigo seeds along with others that her father had sent to her. She wanted to create a version of the crop that could be produced in South Carolina. Her letters describe the many years of experiments that she did on the crop to make it successful. They also detail her marriage to long time friend and neighbor Charles Pinckney in 1744.[11]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El primera poca gama de volúmenes de los años 1739 a 1746. Empiezan con su descripción del movimiento de su familia a la plantación en Carolina del Sur cuándo tenga aproximadamente diecisiete años. Durante estos años, empiece a experimento con las semillas de índigo junto con otros que le el padre había enviado a ella. Quiera crear una versión del cultivo que podría ser producido en Carolina del Sur. Sus letras describen los muchos años de experimentos que haga en el cultivo para hacerlo exitoso. También detallan su matrimonio a amigo de tiempo largo y vecino Charles Pinckney en 1744.[11]"
+        },
+        "target": {
+            "content": "Los primeros volúmenes datan de 1739 a 1746. Narran el traslado de su familia a Carolina del Sur y sus experimentos con las semillas de índigo que su padre le había enviado. Quería crear una versión del cultivo que pudiera ser empleado en Carolina del Sur. Sus cartas describen los muchos años de experimentos con el cultivo hasta hacerlo exitoso. También detallan su matrimonio con su amigo y vecino Charles Pinckney en 1744.[11]"
+        }
+    },
+    {
+        "id": "52338/mwPQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The second set of volumes begins around 1753 and ends around 1757. By this time, Eliza and Charles had begun their new life together and had multiple children. These sets reference the time she and her family moved to London for her husband’s job. They lived there for about five years while Charles worked as the commissioner of the South Carolina colony.[11]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El segundo conjunto de volúmenes empieza alrededor 1753 y fines alrededor 1757. Por este tiempo, Eliza y Charles habían empezado su vida nueva junta y tuvo niños múltiples. Estos pone referencia el tiempo ella y su familiar movido a Londres para el trabajo de su marido. Vivieron allí para aproximadamente cinco años mientras Charles trabajó como el comisario de la colonia de Carolina del Sur.[11]"
+        },
+        "target": {
+            "content": "El segundo conjunto de volúmenes empieza alrededor de 1753 y finaliza alrededor de 1757. Por entonces Eliza y Charles habían empezado su vida juntos y habían tenido niños. Estas cartas hacen referencia al tiempo que ella y su familia habían pasado en Londres por el trabajo de su marido. Vivieron allí aproximadamente cinco años mientras Charles trabajaba como el comisario de la colonia de Carolina del Sur.[11]"
+        }
+    },
+    {
+        "id": "52338/mwPg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The third set of volumes refers to the years 1758 through 1762. It corresponds with the family's return to South Carolina and soon after, the death of her husband. She was left widowed and in charge of overseeing her family’s plantations along with her late husband's as well. She lived as a widow for more than thirty years until her death in 1793 while she was searching for a cure for breast cancer. Though she continued to keep copies of her letters after her husband died, very few of them remain today.[11]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El tercer conjunto de volúmenes refiere a los años 1758 a través de 1762. Mantiene correspondencia con el regreso de la familia a Carolina del Sur y pronto después de que, la muerte de su marido. Quede viuda y en cargo de overseeing las plantaciones de su familia junto con su marido tardío es también. Viva como widow para más de treinta años hasta su muerte en 1793 mientras busque una cura para cáncer de pecho. Aunque continúe mantener copias de sus letras después de su marido murieron, muy pocos de ellos quedan hoy.[11]"
+        },
+        "target": {
+            "content": "El tercer conjunto de volúmenes refiere a los años 1758 a de 1762. Corresponde con el regreso de la familia a Carolina del Sur y la muerte de su marido. Queda viuda y a cargo de las plantaciones de su familia junto con las de su marido. Vivió como viuda más treinta años hasta su muerte en 1793 mientras buscaba una cura para su cáncer de pecho. Aunque continuó manteniendo copias de sus cartas, se han reservado pocas de este periodo.[11]"
+        }
+    },
+    {
+        "id": "52338/mwPw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "This letter book is one of the most complete collections of writing from 18th century America and provides a valuable glimpse into the life of an elite colonial woman living during this time period. Her writings detail goings on at the plantations, her pastimes, social visits, and even her experiments with indigo over several years. Many scholars consider this letter-book extremely precious because it describes everyday life over an extended period of time rather than a singular event in history. Eliza passed her letter-book onto her daughter Harriott, who in turn passed it to her daughter. The letter-book was passed down from mother to daughter well into the 20th century, at which point the Lucas-Pinckney family donated the letter-book to the South Carolina Historical Society.[10]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Este libro de letra es uno de las colecciones más completas de escribir de América de siglo XVIII y proporciona un vistazo valioso a la vida de una élite la mujer colonial que vive durante este periodo de tiempo. Su detalle de escrituras goings encima en las plantaciones, su pastimes, visitas sociales, e incluso sus experimentos con índigo sobre varios años. Muchos becarios consideran esta letra-reservar extremadamente precioso porque describe vida diaria sobre un periodo extendido de tiempo más que un acontecimiento singular en historia. Eliza pasó su letra-libro a su hija Harriott, quién en girar pasado lo a su hija. La letra-el libro estuvo pasado abajo de madre a hija bien al siglo XX, en qué punto el Lucas-Pinckney la familia dio la letra-reservar a la Carolina del Sur Sociedad Histórica.[10]"
+        },
+        "target": {
+            "content": "Se trata de una de las colecciones más completas de este tipo de la América del siglo XVIII y proporciona un valioso ejemplo de la vida de una mujer de la elite colonial. Detalla en escritos las plantaciones, pasatiempos, visitas sociales e incluso sus experimentos con índigo a lo largo de los años. Muchos académicos consideran estas cartas extremadamente valiosas porque describen la vida diaria de un extenso periodo de tiempo más que un acontecimiento singular en la historia. Eliza legó estos documentos a su hija Harriott, quién en a su vez lo legó a su hija. El libro fue pasando madre a hija bien hasta el siglo XX, cuando la familia Lucas-Pinckney donó el archivo a la Sociedad Histórica de Carolina del Sur.[10]"
+        }
+    },
+    {
+        "id": "52338/mwQQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza knew independence at a very young age. Her determination to stay independent carried over into her personal life. George Lucas, Eliza's father, presented two potential suitors—both wealthy, connected, South Carolina socialites—to Eliza in the years before she fell in love with and married Charles Pinckney. Eliza rejected both suitors. This was very strange and even unheard of in 18th-century colonial America.[11]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza supo independencia en una edad muy joven. Su determinación para quedarse independiente llevado encima a su vida personal. George Lucas, el padre de Eliza, presentó dos potencial suitors—ambos rico, conectado, Carolina del Sur socialites—a Eliza en los años antes de que caiga enamorada con y Charles casado Pinckney. Eliza rehusó ambos suitors. Esto era muy extraño e incluso unheard de en 18.º-siglo América colonial.[11]"
+        },
+        "target": {
+            "content": "Eliza fue independiente desde muy joven. Su determinación de mantener esta independencia se trasladó a su vida personal. George Lucas, su padre, le presentó dos posibles maridos —ambos ricos, bien relacionados y parte de la élite de Carolina del Sur — en los años antes de que Eliza se enamorara y casara con Charles Pinckney. Eliza rehusó ambos pretendientes, algo extraño en América colonial.[11]"
+        }
+    },
+    {
+        "id": "52338/mwQg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza and Charles Pinckney, a planter on a neighboring plantation, became attached after the death of his first wife. Eliza had been very close to the couple before his wife's death. They were married on May 25, 1744. She was 20 years old and took her family responsibilities seriously, vowing"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza y Charles Pinckney, un planter en un neighboring plantación, devino sujetado después de la muerte de su primera mujer. Eliza había sido muy cercana al par antes de la muerte de su mujer. Estuvieron casados encima mayo 25, 1744. Tenga 20 años y tomó sus responsabilidades familiares seriamente, jurando"
+        },
+        "target": {
+            "content": "La relación de Eliza y Charles Pinckney, un dueño de una plantación vecina, comenzó tras la muerte de su primera mujer. Eliza había sido muy cercana a la pareja antes de la muerte de ella. Se casaron el 25 de mayo de 1744, cuando ella tenía  20 años. Tomó sus responsabilidades familiares seriamente, jurando"
+        }
+    },
+    {
+        "id": "52338/mwRA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "\"to make a good wife to my dear Husband in all its several branches; to make all my actions Correspond with that sincere love and Duty I bear him… I am resolved to be a good mother to my children, to pray for them, to set them good examples, to give them good advice, to be careful both of their souls and bodies, to watch over their tender minds.\"[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "\"Para hacer una mujer buena a mi Marido querido en todo sus varias ramas; para hacer todas mis acciones Mantienen correspondencia con que Deber y amor sinceros le aguanto… estoy resuelto para ser una madre buena a mis niños, para rogar para ellos, para ponerles ejemplos buenos, para darles consejo bueno, para ser prudente ambos de sus almas y cuerpos, para vigilar sus mentes tiernas.\"[4]"
+        },
+        "target": {
+            "content": "\"ser una buena mujer de mi querido marido en todos sus aspectos; hacer todos mis actos de acuerdo al sincero amor y deber que le guardo… estoy resuelta a ser una buena madre buena para mis hijos, a rogar por ellos, serles un buen ejemplo, darles buen consejo, cuidar de sus almas y cuerpos, vigilar sus tiernas mentes.\"[4]"
+        }
+    },
+    {
+        "id": "52338/mwRQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Mr. Pinckney had studied law in England, and had become a politically active leader in the colony. He was South Carolina’s first native-born attorney, and served as advocate general of the Court of Vice-Admiralty, justice of the peace for Berkeley County, and attorney general. He was elected as a member of the Commons House of Assembly and Speaker of that body intermittently from 1736–1740, and he was a member of the Royal Provincial Council. Eliza was unlike many women of her time, as she was \"educated, independent, and accomplished.\" When the Pinckneys lived in Charleston, Eliza was soon planting oaks and magnolias at their mansion overlooking the bay, and corresponding regularly with major British botanists."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Señor Pinckney había estudiado ley en Inglaterra, y había devenido un dirigente políticamente activo en la colonia. Sea Carolina del Sur primer nativo-abogado nacido, y servido cuando defiende general del Tribunal de Vicio-Admiralty, justicia de la paz para Condado de Berkeley, y general de abogado. Esté elegido como miembro del Commons Casa de Asamblea y Hablante de aquel cuerpo intermittently de 1736@–1740, y sea un miembro del Consejo Provincial Real. Eliza era diferente muchas mujeres de su tiempo, cuando esté \"educada, independiente, y cumplió.\" Cuándo el Pinckneys vivió en Charlestón, Eliza pronto plantaba robles y magnolias en su mansión que pasa por alto la bahía, y correspondiendo regularmente con botánicos británicos importantes."
+        },
+        "target": {
+            "content": "Pinckney había estudiado derecho en Inglaterra y había llegado a ser un activo dirigente en la colonia. Fue el primer abogado nacido en Carolina del Sur y fue Abogado General de la Audiencia del Vicealmirante, juez de paz del Condado de Berkeley y fiscal general. Fue elegido miembro de la Asamble de Carolina de Sur, de la que fue portavoz de forma intermitente entre 1736 y 1740. También fue miembro del Consejo Real Provincial.  Eliza difería de muchas mujeres de su tiempo, al ser \"educada, independiente, y exisitosa.\" Cuándo Pinckneys vivió en Charlestón, Eliza plantó robles y magnolias en su mansión sobre la bahía, correspondiendo regularmente con botánicos británicos."
+        }
+    },
+    {
+        "id": "52338/mwSw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza soon gave birth to three sons and a daughter: Charles Cotesworth, George Lucas, Thomas, and Harriott Pinckney (born third). George Lucas Pinckney, her father's namesake, died soon after birth in June 1747. In 1753 the family moved to London for five years.[12]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza pronto dio nacimiento a tres hijos y una hija: Charles Cotesworth, George Lucas, Thomas, y Harriott Pinckney (tercio nacido). George Lucas Pinckney, el tocayo de su padre, murió pronto después de que nacimiento en junio 1747. En 1753 el familiar movido a Londres para cinco años.[12]"
+        },
+        "target": {
+            "content": "Eliza dio a luz a tres hijos y una hija: Charles Cotesworth, George Lucas, Harriott Pinckney y Harriot Pinckney. George Lucas Pinckney murió pronto después delnacimiento en junio de 1747. En 1753 la familia se trasladó a Londres, donde residió cinco años.[12]"
+        }
+    },
+    {
+        "id": "52338/mwTA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Shortly after their return in 1758 to South Carolina, Charles Pinckney contracted malaria and died.[13] Widowed, Eliza continued to manage their extensive plantations, in addition to the Lucas holdings.[14] Most of her agricultural experiments took place before this time.[12]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Poco después de su regreso en 1758 a Carolina del Sur, Charles Pinckney contrajo malaria y murió.[13] Viudo, Eliza continuó dirigir sus plantaciones extensas, además del Lucas holdings.[14] La mayoría de sus experimentos agrícolas tuvo lugar antes de este tiempo.[12]"
+        },
+        "target": {
+            "content": "Poco después de su regreso en 1758 a Carolina del Sur, Charles Pinckney contrajo malaria y murió.[13] Viuda, Eliza continuó dirigiendo sus extensas sus plantaciones, además de las de la familia Lucas.[14] La mayoría de sus experimentos agrícolas, sin embargo, tuvieron lugar antes de este periodo.[12]"
+        }
+    },
+    {
+        "id": "52338/mwTQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The surviving Pinckney sons became influential leaders. Charles Cotesworth Pinckney was a signatory of the United States Constitution and was the Federalist vice-presidential candidate in 1800. In 1804 and 1808, he was the Federalist candidate for president. Thomas Pinckney was appointed Minister to Spain, where he negotiated Pinckney's Treaty in 1795, to guarantee U.S. navigation rights on the Mississippi River to New Orleans. He was the Federalist vice presidential candidate in 1796."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El superviviente Pinckney los hijos devenían dirigentes influyentes . Charles Cotesworth Pinckney era un firmante de la Constitución de Estados Unidos y era el Federalist candidato vicepresidencial en 1800. En 1804 y 1808, sea el Federalist candidato para presidente. Thomas Pinckney estuvo nombrado Ministro a España, donde negocie Pinckney Tratado en 1795, para garantizar derechos de navegación de los EE.UU. en el Río de Misisipi a Nueva Orleans. Sea el Federalist candidato a la presidencia de vicio en 1796."
+        },
+        "target": {
+            "content": "Los hijos superfvivientes llegaron a ser dirigentes influyentes en Carolina del Sur. Charles Cotesworth Pinckney fue un firmante de la Constitución de los Estados Unidos y era fue el candidato federalista a la vicepresidencia en 1800. En 1804 y 1808, fue el candidato federalista a presidente. Thomas Pinckney fue nombrado embajador en España, donde negoció el Tratado Pinckney en 1795, para garantizar los derechos de navegación de los EE.UU. en el río Misisipi hasta Nueva Orleans. Fue el candidato ferederalista a la vicepresidencia en 1796."
+        }
+    },
+    {
+        "id": "52338/mwUw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza Lucas Pinckney died of cancer, in Philadelphia in 1793.[15]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Eliza Lucas Pinckney murió de cáncer, en Filadelfia en 1793.[15]"
+        },
+        "target": {
+            "content": "Eliza Lucas Pinckney murió de cáncer en Filadelfia en 1793.[15]"
+        }
+    },
+    {
+        "id": "52338/mwVA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "At the end of the 17th century, Antiguan political opponents of Eliza's grandfather, John Lucas, believed that the Lucas family had powerful influence in London through Henry Grey (1664–1740), later Duke of Kent, a senior member of Queen Anne's government; and Robert Lucas, 3rd Lord Lucas (1649–1705), then governor of the Tower of London. There is documentary evidence that the family used this influence for their own purposes.[16] The West India merchant Thomas Lucas (c.1720–1784) and his business partner William Coleman were prominent. But, no researcher has documented a \"blood\" relationship between any of these men and the Antigua and South Carolina family."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Al final del siglo XVII, Antiguan adversarios políticos del abuelo de Eliza, John Lucas, creyó que el Lucas familia tuvo influencia potente en Londres a través de Henry Grey (1664@–1740), Duque más tardío de Kent, un miembro sénior del gobierno de Reina Anne; y Robert Lucas, 3.º Señor Lucas (1649@–1705), entonces gobernador de la Torre de Londres. Hay evidencia documental que la familia utilizó esta influencia para sus propósitos propios.[16] La India Del oeste mercader Thomas Lucas (c.1720@–1784) y su socio empresarial William Coleman era prominente. Pero, ningún investigador ha documentado una \"relación\" de sangre entre cualquier de estos hombres y el Antigua y familia de Carolina del Sur."
+        },
+        "target": {
+            "content": "A finales del siglo XVII, adversarios políticos del abuelo de Eliza en Antigua, John Lucas, creían que la familia Lucas tuvo influencia en Londres a través de Henry Grey (1664–1740), luego Duque de Kent y miembro del gobierno de la reina Ana, y Robert Lucas, 3.º Señor Lucas (1649–1705), entonces gobernador de la Torre de Londres. Hay evidencia documental de que la familia utilizó esta influencia para sus propios intereses.[16] El mercader indiano Thomas Lucas (c.1720–1784) y su socio empresarial William Coleman fueron exitosos hombres de negocios. Pero ningún investigador ha documentado una relación famiiar entre estos hombres y la familia de Eliza."
+        }
+    },
+    {
+        "id": "52338/mwWg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "1989 - For her contributions to South Carolina's agriculture, Eliza Lucas Pinckney was the first woman to be inducted into the South Carolina Business Hall of Fame. 1793 - President George Washington served as a pallbearer at her funeral at St. Peter's Church, in Philadelphia where she had traveled for treatment. 1753 - At an audience with Augusta, the Dowager Princess of Wales, in London, Eliza presented the princess with a dress made of silk produced on the Pinckney plantations.[17][full citation needed]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "1989 - Para sus contribuciones a la agricultura de Carolina del Sur, Eliza Lucas Pinckney era la primera mujer para ser inducted a la Carolina del Sur Sala Empresarial de Fama. George de 1793 Presidentes Washington sirvió como pallbearer en su funeral en St. La iglesia de Peter, en Filadelfia donde haya viajado para tratamiento. 1753 - En una audiencia con Augusta, el Dowager Princesa de Gales, en Londres, Eliza presentó la princesa con un vestido hecho de la seda producida en el Pinckney plantaciones.[La cita llena necesitada][17]"
+        },
+        "target": {
+            "content": "1989 - Por sus contribuciones a la agricultura de Carolina del Sur, Eliza Lucas Pinckney fue la primera mujer en ser elegida para el Salón de la Fama Empresarial de Carolina del Sur. George Washington  fue uno de los portadores de su féretro en el funeral de Eliza, en la Iglesia de San Pedro de Filadelfia. 1753 - En una audiencia en Londres con Augusta, Princesa de Gales, Eliza presentó a la princesa un vestido hecho de seda producida en las plantaciones Pinckney.[17]"
+        }
+    },
+    {
+        "id": "52338/mwZw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Citations"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Citas"
+        },
+        "target": {
+            "content": "Notas"
+        }
+    },
+    {
+        "id": "52338/mwaA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "↑ Pearson, Ellen Holmes. \"Colonial Teenagers. .org. Accessed 13 July 2011. ↑ \"Eliza Lucas Pinckney's Family in Antigua, 1668-1747,\" Carol Walter Ramagosa, The South Carolina Historical Magazine, July 1998, Vol. 99, No. 3 1 2 \"Eliza Lucas Pinckney\", Distinguished Women of Past & Present, accessed 7 Dec 2008 1 2 3 4 Elise Pinckney and Marvin R. Zahniser, eds., The Letterbook of Eliza Lucas Pinckney: Intriguing Letters by One of Colonial America's Most Accomplished Women, Eliza Lucas Pinckney, Columbia, SC: Univ of South Carolina Press, 1972, Googlebooks, accessed 7 Dec 2008 1 2 Norman Rowman & Littlefield, 2001, p.240 ↑ {The South Carolina Genealogical Magazine|volume=16} ↑ Louise S. Grinstein, Carol A. Biermann, Rose K. Rose, \"Eliza Lucas Pinckney,\" Women in the Biological Sciences, Westport, CT: Greenwood Publishing, 1997, p.401 1 2 \"Eliza Lucas Pinckney\", The Devil's Blue Dye: Indigo and Slavery, archived from the original on 2012-03-22  ↑ \"Eliza Lucas Pinckney\", Biographies, National Women's History Museum, 2007, accessed 7 Dec 2008 1 2 Williams, Harriet Simons. \"Eliza Lucas and Her Family: Before the Letterbook\". South Carolina Historical Magazine. 99 (3): 259–279.  |access-date= requires |url= (help) 1 2 3 4 5 Bellows, Barbara L. \"Eliza Lucas Pinckney: The Evolution of an Icon\". South Carolina Historical Magazine. 106 (Apr. - Jul., 2005): 148–155.  |access-date= requires |url= (help) 1 2 Grinstein et al. (1997), Women in the Biological Sciences, p. 405 ↑ Norman K. Risjord, \"Eliza Lucas Pinckney\", Representative Americans, the Colonists, Lanham, MD: Rowman & Littlefield, 2001, p.249 ↑ \"Eliza Lucas Pinckney\", Infoplease, accessed 7 Dec 2008 ↑ The Gentry, by Adam Nicolson, chapter 'Courage', London, 2011 ↑ Calendar of State Papers Colonial, America and West Indies, Volume 16: 1697-1698, 605 ↑ The letterbook of Eliza Lucas Pinckney by"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "↑ Pearson, Ellen Holmes. \"Adolescentes coloniales. .org. Accedido 13 julio 2011. ↑ \"Eliza Lucas Pinckney Familia en Antigua, 1668-1747,\" Carol Walter Ramagosa, La Carolina del Sur Revista Histórica, julio 1998, Vol. 99, Núm. 3 1 2 \"Eliza Lucas Pinckney\", Mujeres Señaladas de Presente & Pasado, accedió 7 Dec 2008 1 2 3 4 Elise Pinckney y Marvin R. Zahniser, eds., El Letterbook de Eliza Lucas Pinckney: Letras Intrigantes por Uno de América Colonial La mayoría de Cumplió Mujeres, Eliza Lucas Pinckney, Columbia, SC: Univ de Prensa de Carolina del Sur, 1972, Googlebooks, accedió 7 Dec 2008 1 2 Norman Rowman & Littlefield, 2001, p.240 ↑ {La Carolina del Sur volumen de Revista|Genealógica=16} ↑ Louise S. Grinstein, Carol Un. Biermann, Rose K. Rose, \"Eliza Lucas Pinckney,\" Mujeres en las Ciencias Biológicas, Westport, CT: Greenwood Publicando, 1997, p.401 1 2 \"Eliza Lucas Pinckney\", el tinte Azul del Diablo: Índigo y Esclavitud, archived del originales encima 2012-03-22  ↑ \"Eliza Lucas Pinckney\", Biografías, el museo de Historia de las mujeres Nacionales, 2007, accedió 7 Dec 2008 1 2 Williams, Harriet Simons. \"Eliza Lucas y Su Familia: Antes del Letterbook\". Carolina del Sur Revista Histórica. 99 (3): 259@–279.  |Acceso-la fecha= requiere |url= (ayuda) 1 2 3 4 5 Fuelle, Barbara L. \"Eliza Lucas Pinckney: La Evolución de un Icono\". Carolina del Sur Revista Histórica. 106 (Abr. - Jul., 2005): 148@–155.  |Acceso-la fecha= requiere |url= (ayuda) 1 2 Grinstein et al. (1997), Mujeres en las Ciencias Biológicas, p. 405 ↑ Norman K. Risjord, \"Eliza Lucas Pinckney\", americanos Representativos, los Colonizadores, Lanham, MD: Rowman & Littlefield, 2001, p.249 ↑ \"Eliza Lucas Pinckney\", Infoplease, accedió 7 Dec 2008 ↑ El Gentry, por Adam Nicolson, capítulo 'Valor', Londres, 2011 ↑ Calendario de los papeles Estatales Coloniales, América e Indias Del oeste, Volumen 16: 1697-1698, 605 ↑ El letterbook de Eliza Lucas Pinckney por"
+        },
+        "target": {
+            "content": "↑ Pearson, Ellen Holmes. \"Colonial Teenagers. .org. Accessed 13 July 2011. ↑ \"Eliza Lucas Pinckney's Family in Antigua, 1668-1747,\" Carol Walter Ramagosa, The South Carolina Historical Magazine, July 1998, Vol. 99, No. 3 1 2 \"Eliza Lucas Pinckney\", Distinguished Women of Past & Present, accessed 7 Dec 2008 1 2 3 4 Elise Pinckney and Marvin R. Zahniser, eds., The Letterbook of Eliza Lucas Pinckney: Intriguing Letters by One of Colonial America's Most Accomplished Women, Eliza Lucas Pinckney, Columbia, SC: Univ of South Carolina Press, 1972, Googlebooks, accessed 7 Dec 2008 1 2 Norman Rowman & Littlefield, 2001, p.240 ↑ {The South Carolina Genealogical Magazine|volume=16} ↑ Louise S. Grinstein, Carol A. Biermann, Rose K. Rose, \"Eliza Lucas Pinckney,\" Women in the Biological Sciences, Westport, CT: Greenwood Publishing, 1997, p.401 1 2 \"Eliza Lucas Pinckney\", The Devil's Blue Dye: Indigo and Slavery, archived from the original on 2012-03-22  ↑ \"Eliza Lucas Pinckney\", Biographies, National Women's History Museum, 2007, accessed 7 Dec 2008 1 2 Williams, Harriet Simons. \"Eliza Lucas and Her Family: Before the Letterbook\". South Carolina Historical Magazine. 99 (3): 259–279.  |access-date= requires |url= (help) 1 2 3 4 5 Bellows, Barbara L. \"Eliza Lucas Pinckney: The Evolution of an Icon\". South Carolina Historical Magazine. 106 (Apr. - Jul., 2005): 148–155.  |access-date= requires |url= (help) 1 2 Grinstein et al. (1997), Women in the Biological Sciences, p. 405 ↑ Norman K. Risjord, \"Eliza Lucas Pinckney\", Representative Americans, the Colonists, Lanham, MD: Rowman & Littlefield, 2001, p.249 ↑ \"Eliza Lucas Pinckney\", Infoplease, accessed 7 Dec 2008 ↑ The Gentry, by Adam Nicolson, chapter 'Courage', London, 2011 ↑ Calendar of State Papers Colonial, America and West Indies, Volume 16: 1697-1698, 605 ↑ The letterbook of Eliza Lucas Pinckney by"
+        }
+    },
+    {
+        "id": "52338/mwcx-source-title",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Eliza Lucas"
+        },
+        "mt": null,
+        "target": {
+            "content": "Usuario:FAR/Eliza Lucas"
+        }
+    },
+    {
+        "id": "52971/mwBw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Che Siti Wan Kembang is the legendary queen regnant over a region in the east coast of Peninsular Malaysia, which is now encompassed within Kelantan state. She is believed to have ruled in the 14th century."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Che Siti Wan Kembang es la reina legendaria regnant sobre una región en la costa del este de Malasia Peninsular, el cual es ahora abarcado dentro de Kelantan estado. Está creída para tener gobernado en el siglo XIV."
+        },
+        "target": {
+            "content": "Che Siti Wan Kembang fue la reina histórico-legendaria de una región en la costa del este de la península malaya, actualmente en el estado de Kelantan."
+        }
+    },
+    {
+        "id": "52971/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Che Siti was famous for her beauty and wisdom. She is descendant from the royal lineage of Champa-Kelantan-Pattani."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Che Siti era famoso para su belleza y cordura. Es descendiente del apellido real de Champa-Kelantan-Pattani."
+        },
+        "target": {
+            "content": "Che Siti era famosa para su belleza y buen gobierno. Provenía de la familia real de Champa-Kelantan-Pattani."
+        }
+    },
+    {
+        "id": "52971/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "She was also known as a warrior princess and was said to be able to enter battle on horseback with a sword with an army of female horseriders. It was said that she and her adopted daughter, Puteri Saadong had mystical powers."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Sea también sabida como princesa de guerrero y estuvo dicho para ser capaz de introducir batalla en horseback con una espada con un ejército de hembra horseriders. Esté dicho que ella y su hija adoptada, Puteri Saadong tuvo mystical poderes."
+        },
+        "target": {
+            "content": "También es conocida como una reina guerrera, que participaba en batalla a caballo junto a un destacamento de amazonas. Las leyendas le atribuyen poderes místicos a ella y su hija adoptiva, Puteri Saadong."
+        }
+    },
+    {
+        "id": "52971/mwEQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Kelantanese are very proud of their history and the deer generally symbolises Che Siti Wan Kembang as it was her favourite pet. The current state emblem of Kelantan has two deers which represents Kelantan's rich history which can be traced back to the popular queen.[1]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Kelantanese Es muy orgulloso de su historia y el ciervo generalmente simboliza Che Siti Wan Kembang cuando sea su mascota favorita . El emblema estatal actual de Kelantan tiene dos ciervos qué representa Kelantan historia rica cuáles pueden ser remontados a la reina popular.[1]"
+        },
+        "target": {
+            "content": "Che Siti Wan Kembang es un símbolo de la historia y cultura kelantesas, siendo el origen de los dos ciervos que simbolizan a Kelantan.[1]"
+        }
+    },
+    {
+        "id": "52971/mwFA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "According to certain historical records, Che Siti Wan Kembang was born in 1585. Her parents were Raja Ahmad and Cik Banun, both of royal lineage. Raja Ahmad was crowned Ruler of Kelantan in 1584."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Según registros históricos seguros, Che Siti Wan Kembang nació en 1585. Sus padres eran Raja Ahmad y Cik Banun, ambos de apellido real. Raja Ahmad era crowned Gobernante de Kelantan en 1584."
+        },
+        "target": {
+            "content": "Según registros históricos, Che Siti Wan Kembang nació en 1585. Sus padres fueron Rajá Ahmad y Cik Banun, ambos de linaje real. Rajá Ahmad fue coronado rey de Kelantan en 1584."
+        }
+    },
+    {
+        "id": "52971/mwFQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "However, Raja Ahmad died in 1589, when the princess was only 4 years old. Therefore, Raja Hussein of Johor was made Regent of Kelantan. Che Siti Wan Kembang ascended to the throne of Kelantan in 1610 AD upon the death of Raja Hussein. She was said to have resided in Gunung Chinta Wangsa, Ulu Kelantan, located approximately 40 km from Kuala Krai."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Aun así, Raja Ahmad murió en 1589, cuándo la princesa tenía sólo 4 años. Por tanto, Raja Hussein de Johor estuvo hecho Regent de Kelantan. Che Siti Wan Kembang ascendió al trono de Kelantan en 1610 ANUNCIO a la muerte de Raja Hussein. Esté dicha para tener residido en Gunung Chinta Wangsa, Ulu Kelantan, localizó aproximadamente 40 km de Kuala Krai."
+        },
+        "target": {
+            "content": "Rajá Ahmad murió en 1589, cuándo la princesa tenía sólo 4 años. Por tanto, Hussein de Johor fue elegido regente y Che Siti Wan Kembang sólo ascendió al trono de Kelantan en 1610 tras la muerte de Hussein. Su capital estaba en Gunung Chinta Wangsa, Ulu Kelantan, aproximadamente 40 km de Kuala Krai."
+        }
+    },
+    {
+        "id": "52971/mwGg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Che Siti never married, and therefore never had children of her own. She adopted Puteri Saadong as her daughter. Puteri Saadong was the princess of the ruler of Jembal, whom Che Siti had close ties with. Next page"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Che Siti nunca casado, y por tanto nunca tuvo niños de su propios. Adopte Puteri Saadong como su hija. Puteri Saadong Era la princesa del gobernante de Jembal, quien Che Siti tuvo lazos cercanos con. Página próxima"
+        },
+        "target": {
+            "content": "Che Siti nunca se casó y no tuvo hijos propios, por lo que adoptó a la vecina princesa Puteri Saadong, hija del gobernante de Jembal."
+        }
+    },
+    {
+        "id": "52971/mwHw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Kijang Coins"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Kijang Monedas"
+        },
+        "target": {
+            "content": "Kijang"
+        }
+    },
+    {
+        "id": "52971/mwIA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Differing views are given regarding the origin of the Kijang gold coins. Kijang means deer in the Malay language and derives its name from the deer engraving on the coin. The Kijang coins are generally associated with Che Siti.[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Difiriendo las vistas están dadas con respecto al origen del Kijang monedas de oro. Kijang Significa ciervo en la lengua malaya y deriva su nombre del ciervo engraving en la moneda. El Kijang las monedas son generalmente asociadas con Che Siti.[2]"
+        },
+        "target": {
+            "content": "Kijang Significa ciervo en lengua malaya y da nombre a unas monedas con dicho grabado, generalmente asociadas con Che Siti.[2]"
+        }
+    },
+    {
+        "id": "52971/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "According to Kelantanese folklore, Kijang is her favorite pet and has always fond of it since young while some stories suggest that there are once an Arab trader come to her country and seeking permission to trade presented a Kijang to the Queen as a gift. She became very fond of the Kijang and taking it as her pet to the point she ordered its image to be inscribed on the gold coins of her country."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Según Kelantanese folclore, Kijang es su mascota favorita y ha siempre cariñoso de él desde entonces joven mientras algunas historias sugieren que hay una vez un comerciante árabe venido a su país y buscando permiso para comerciar presentado un Kijang a la Reina como regalo. Devenga muy cariñosa del Kijang y tomándolo cuando su mascota al punto ordene su imagen para ser inscrita en las monedas de oro de su país."
+        },
+        "target": {
+            "content": "Según el folclore kelantés, los ciervos fueron su mascota favorita y algunas historias sugieren que un comerciante árabe, buscando permiso para comerciar, le regaló uno. Lo terminó convirtiéndolo en un símbolo y ordenó grabar con dicho motivo las monedas de oro del país."
+        }
+    },
+    {
+        "id": "52971/mwIw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Another version was linked to the influence of Saivite Hinduism. The connection was based on the fact that the earliest issue of Kijang coins resembled the Indian humped-back bull and the bull motif was depicted on ancient Hindu coins which were circulated in the Northern Malay States.[3]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Otra versión estuvo enlazada a la influencia de Saivite Hinduismo. La conexión estuvo basada en el hecho que el asunto más temprano de Kijang las monedas se parecieron a el indios humped-el toro posterior y el motivo de toro estuvo descrito en antiguo Hindu acuña cuál estuvo circulado en los Estados malayos Del norte.[3]"
+        },
+        "target": {
+            "content": "Otra versión lo atribuye al hinduísmo shivaísta.  La conexión se basa en el hecho de que las monedas siguen el esquema del toro usado en antiguas monedas hindues que circularon en la región malaya.[3]"
+        }
+    },
+    {
+        "id": "52971/mwJg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Jelasin Fort"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Jelasin Fort"
+        },
+        "target": {
+            "content": "Jelasin"
+        }
+    },
+    {
+        "id": "52971/mwJw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Jelasin fort is situated approximately 4 to 8 km from Kota Bharu, the state capital of Kelantan. It was built in 1563 for Cik Siti Wan Kembang, her adopted daughter Puteri Saadong and Puteri Saadong's husband, Raja Abdullah.[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Jelasin fort Está situado aproximadamente 4 a 8 km de Kota Bharu, la capital estatal de Kelantan. Esté construido en 1563 para Cik Siti Wan Kembang, su hija adoptada Puteri Saadong y Puteri Saadong marido, Raja Abdullah.[4]"
+        },
+        "target": {
+            "content": "La fortaleza de Jelasin está situado aproximadamente a 8 km de Kota Bharu, la capital estatal de Kelantan. Fue construida en 1563 por Che Siti Wan Kembang, su hija adoptiva Puteri Saadong y el marido de esta, Raja Abdullah.[4]"
+        }
+    },
+    {
+        "id": "52971/mwLA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The fort was made from thick wood with beautiful carvings and was very famous during the reign of Che Siti. It was used to defend Kelantan from outside attacks. According to history, Jelasin Fort was attacked by the King of Siam and Puteri Saadong disappeared after that. The condition of the fort soon deteriorated after her disappearance and the ruins of the fort is hardly noticeable nowadays as not much effort has been taken to conserve it.[5]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El fort estuvo hecho de madera gruesa con tallas bonitas y era muy famoso durante el reinado de Che Siti. Suela defiende Kelantan de ataques exteriores. Según historia, Jelasin Fort estuvo atacado por el Rey de Siam y Puteri Saadong desapareció después de que aquello. La condición del fort pronto deteriorado después de su desaparición y las ruinas del fort es difícilmente noticeable hoy en día cuando no mucho esfuerzo ha sido tomado para conservarlo.[5]"
+        },
+        "target": {
+            "content": "El fuerte fue hecho de madera tallada y fue muy importante durante el reinado de Che Siti. Defendía Kelantan de ataques exteriores. Fue atacado por el rey de Siam y Puteri Saadong desapareció después de ello. El fuerte pronto se deterioró tras dicha desaparición, quedando solo ruinas poco conservadas actualmente.[5]"
+        }
+    },
+    {
+        "id": "52971/mwMA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Legend has it that Che Siti never died but instead \"disappeared\" into the mystical world, and reappears from time to time. After her \"disappearance\", she was succeeded by her adopted daughter, Puteri Saadong, who was the youngest daughter of Raja Jembal."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La leyenda lo tiene que Che Siti nunca muerto pero en cambio \"desaparecido\" al mystical mundo, y reaparece de vez en cuando. Después de su \"desaparición\", esté tenida éxito por su hija adoptada, Puteri Saadong, quién era la hija más joven de Raja Jembal."
+        },
+        "target": {
+            "content": "Existe una variante del mito rey bajo la montaña que afirma que Che Siti nunca murió sino que \"desapareció\" al mundo mísitico y reaparece de vez en cuando. Después de su \"desaparición\", fue sucedida por su hija adoptiva, Puteri Saadong, hija más joven de Rajá Jembal."
+        }
+    },
+    {
+        "id": "52971/mwNA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "↑ http://sejarahmalaysia.pnm.my/portalBI/flag_discript.php?section=sm03&ttl_id=42 Kelantan state emblem ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Myth of the Kijang Coins ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Myth of the Kijang Coins ↑ http://sejarahmalaysia.pnm.my/portalBI/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort ↑ http://sejarahmalaysia.pnm.my/portalBI/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "↑ http://sejarahmalaysia.pnm.my/portalbi/flag_discript.php?section=sm03&ttl_id=42 Kelantan Emblema estatal ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Mito del Kijang Monedas ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Mito del Kijang Monedas ↑ http://sejarahmalaysia.pnm.my/portalbi/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort ↑ http://sejarahmalaysia.pnm.my/portalbi/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort"
+        },
+        "target": {
+            "content": "↑ http://sejarahmalaysia.pnm.my/portalBI/flag_discript.php?section=sm03&ttl_id=42 Kelantan state emblem ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Myth of the Kijang Coins ↑ http://moneymuseum.bnm.gov.my/index.php?ch=8&pg=13&ac=17 Myth of the Kijang Coins ↑ http://sejarahmalaysia.pnm.my/portalBI/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort ↑ http://sejarahmalaysia.pnm.my/portalBI/detail.php?section=sm04&spesifik_id=28&ttl_id=12 Jelasin Fort"
+        }
+    },
+    {
+        "id": "53235/mwAg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Story of Sanjan (also Qissa-i Sanjan or Kisse-i Sanjan) (Persian: قصه سنجان‎‎, Gujarati: કિસે સનજાન/કિસ્સા-એ-સંજાણ) is an account of the early years of Zoroastrian settlers on the Indian subcontinent. In the absence of alternatives, the text is generally accepted to be the only narrative of the events described therein, and many members of the Parsi community perceive the epic poem to be an accurate account of their ancestors."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La Historia de Sanjan (también Qissa-i Sanjan o Kisse-i Sanjan) (persa: قصه سنجان‎‎, Gujarati: કિસે સનજાન/કિસ્સા-એ-સંજાણ) es una cuenta de los años tempranos de Zoroastrian settlers en el indios subcontinent. En la ausencia de alternativas, el texto es generalmente aceptado para ser la narrativa única de los acontecimientos describió therein, y muchos miembros del Parsi la comunidad percibe el poema de épica para ser una cuenta cuidadosa de sus antepasados."
+        },
+        "target": {
+            "content": "La Historia de Sanjan (también Qissa-i Sanjan o Kisse-i Sanjan) (persa: قصه سنجان‎‎, Gujarati: કિસે સનજાન/કિસ્સા-એ-સંજાણ) es una crónica de los primeros años de la comunidad zoroástrica en el subcontinente indio. Debido a la ausencia de alternativas, el texto es generalmente aceptado como narrativa (aunque literaturizada) de los acontecimientos que describe y muchos miembros de la comunidad parsi consideran el poema épico como una crónica de sus antepasados."
+        }
+    },
+    {
+        "id": "53235/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The account begins in Greater Khorasan, and narrates the travel of the emigrants to Gujarat, on the west coast of present-day India. The first chapter, which is the longest, ends with the establishment of a Fire Temple at Sanjan (Gujarat), and the later dispersion of their descendants. In later chapters, the Qissa narrates the success in repelling Islamic invaders, then the failure in the same, and the subsequent flight of the Zoroastrians. The account closes with a chapter on the conveyance of the \"Fire of the Warharan\" to Navsari."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La cuenta empieza en más Grande Khorasan, y narra el viaje de los emigrantes a Gujarat, en la costa del oeste de India de día presente. El primer capítulo, el cual es el más largo, fines con el establecimiento de un Templo de Fuego en Sanjan (Gujarat), y la dispersión más tardía de sus descendientes. En capítulos más tardíos, el Qissa narra el éxito en repeler islámico invaders, entonces el fracaso en el mismo, y el vuelo subsiguiente del Zoroastrians. La cuenta cierra con un capítulo en el conveyance del \"Fuego del Warharan\" a Navsari."
+        },
+        "target": {
+            "content": "La crónica empieza en Jorasán y narra el viaje de los emigrantes a Gujarat, en la costa del oeste de la India. El primer capítulo, más largo que el resto, culmina con el establecimiento de un Templo del Fuego en Sanjan (Gujarat) y la dispersión de los descendientes de la primera oleada de emigrantes. En capítulos posteriores, el Qissa narra el éxito de esta comunidad al repeler una invasión islámica hasta que son finalmente vencidos por dichos invasores y se dispersan. El poema termina con un capítulo dedicado al transporte del \"Fuego de Warharan\" a Navsari."
+        }
+    },
+    {
+        "id": "53235/mwEQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In its conclusion, the story is signed by a Parsi priest named Bahman Kaikobad (or 'Bahman Kaikobad Hamjiar Sanjana'[1]). The date of authorship is recorded as 969 YZ (1599 CE, see Zoroastrian calendar) - several centuries after the described events are thought to have occurred. The account is in verse, in the highly verbose style common to Persian poetry."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En su conclusión, la historia está firmada por un Parsi el sacerdote nombró Bahman Kaikobad (o 'Bahman Kaikobad Hamjiar Sanjana').[1] La fecha de autoría está grabada cuando 969 YZ (1599 CE, ve Zoroastrian calendario) - varios siglos después del describió los acontecimientos están pensados para tener ocurrido. La cuenta es en verso, en el estilo altamente verboso común a poesía persa."
+        },
+        "target": {
+            "content": "En su conclusión, la historia está firmada por un sacerdote parsi llamado Bahman Kaikobad (o 'Bahman Kaikobad Hamjiar Sanjana').[1] La fecha de autoría es 969 YZ (fecha del calendario zoroástrico equivalente al 1599 dC), varios siglos después de los acontecimientos descritos. La crónica está en verso, según el estilo de la poesía persa."
+        }
+    }
+
+
+]

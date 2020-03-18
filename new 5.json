@@ -1,0 +1,1113 @@
+[{
+        "id": "508352/mwJQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "museum lessons are organized for groups, individual visitors can take part in papermaking workshops."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Lecciones de museo están organizadas para grupos, Los visitantes individuales pueden participar en papermaking talleres."
+        },
+        "target": {
+            "content": "Lecciones de museo están organizadas para grupos, Los visitantes individuales pueden participar en talleres de fabricación de papel."
+        }
+    },
+    {
+        "id": "508352/mwKA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The museum outlet offers on sale:"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El museo outlet las ofertas #a la venta:"
+        },
+        "target": {
+            "content": "La tienda del museo ofrece a la venta:"
+        }
+    },
+    {
+        "id": "508352/mwKQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "watercolour paper, drawing paper, printing and stationery paper up to A2 size, artistic paper ornamented with flowers and arms of County of Kladsko. business cards, stationery and other items up to A3 size, set by hand and printed on the premises. unique poetry albums in low stock, handmade paper with a specific watermark according to a client’s design or idea made to order."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Papel de acuarela, dibujando papel, imprimiendo y stationery papel hasta Una2 medida, Papel artístico ornamented con flores y armas de Condado de Kladsko. Tarjetas empresariales, stationery y otros elementos hasta Una3 medida, puesto a mano e imprimido en las premisas. Álbumes de poesía única en stock bajo, Papel hecho a mano con un concreto watermark según el diseño o la idea de un cliente hicieron para ordenar."
+        },
+        "target": {
+            "content": "Papel de acuarela, papel de dibujo, papel de imprenta y de papelería hasta tamaño A2, Papel artístico adornado con flores y armas del condado de Kladsko Tarjetas de visita, artículos de papelería y otros artículos de hasta tamaño A3, fabricados a mano e impresos en las instalaciones Álbumes únicos de poesía. Papel hecho a mano con una marca de agua específica de acuerdo con el diseño o la idea del cliente hecho a pedido"
+        }
+    },
+    {
+        "id": "508352/mwMA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The museum also makes a renowned centre of papermaking history research."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "El museo también hace un centro renombrado de papermaking búsqueda de historia."
+        },
+        "target": {
+            "content": "El museo también es un reconocido centro de investigación de la historia de la fabricación de papel."
+        }
+    },
+    {
+        "id": "508352/mwAg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The Museum of Papermaking in Duszniki-Zdrój Established 1968 Location Duszniki-Zdrój, Poland Coordinates 50°24′16″N 16°23′45″E﻿ / ﻿50.4044°N 16.3957°E﻿ / 50.4044; 16.3957 Type history of paper Director Maciej Szymczyk Website http://www.muzpap.pl/"
+        },
+        "mt": null,
+        "target": {
+            "content": "Museum of Papermaking in Duszniki-Zdrój Información general Director(a) Maciej Szymczyk Página no enlazada a Wikidata Si no existe en otras Wikipedias: [crea nuevo ítem] Si existe en otras Wikipedias: [busca ítem para enlazar] y añade el enlace en español: Museum of Papermaking in Duszniki-Zdrój."
+        }
+    },
+    {
+        "id": "508352/mwcx-source-title",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Museum of Papermaking in Duszniki-Zdrój"
+        },
+        "mt": null,
+        "target": {
+            "content": "Museo de la fabricación de papel en Duszniki-Zdrój"
+        }
+    },
+    {
+        "id": "508384/2fa97693b70fa87b95b2d1bdf9558e",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "See also"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Ve también"
+        },
+        "target": {
+            "content": "Véase también"
+        }
+    },
+    {
+        "id": "508384/bf24e3487049987a3759d654fe3681",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In printing"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En imprimir"
+        },
+        "target": {
+            "content": "En imprenta"
+        }
+    },
+    {
+        "id": "508384/mwAg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In the theory of photography, tone reproduction is the mapping of scene luminance and color to print reflectance or display luminance,[1] with the aim of subjectively \"properly\" reproducing brightness and \"brightness differences\".[2]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En la teoría de fotografía, reproducción de tono es el mapeo de luminancia de escena y color para imprimir reflectancia o luminancia de exhibición, con el objetivo de subjectively \"correctamente\" reproduciendo brightness y \"brightness diferencias\".[1][2]"
+        },
+        "target": {
+            "content": "En la teoría sobre fotografía, la reproducción tonal es el mapeo de luminancia de la escena y el color para imprimir reflectancia o luminancia de exhibición, con el objetivo de reproducir correctamente el brillo y las diferencias de brillo. La reproducción tonal es una relación que mide la luminancia de una foto y su contraste."
+        }
+    },
+    {
+        "id": "508384/mwDQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A tone reproduction curve is often referred to by its initials, TRC, and the 'R' is sometimes said to stand for response, as in tone response curve."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Una curva de reproducción del tono es a menudo referida a por sus iniciales, TRC, y el 'R' es a veces dicho para estar para respuesta, cuando en curva de respuesta del tono."
+        },
+        "target": {
+            "content": "Una curva de reproducción tonal es a menudo referida a por sus iniciales, TRC (en inglés), aunque la 'R' a veces se refiere a respuesta, como en \"curva de respuesta tonal\"."
+        }
+    },
+    {
+        "id": "508384/mwFA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The luminance range of a scene maps to the focal-plane illuminance and exposure in a camera, not necessarily directly proportionally, as when a graduated neutral density filter is used to reduce the exposure range to less than the scene luminance range. The film responds nonlinearly to the exposure, as characterized by the film's characteristic curve, or Hurter–Driffield curve; this plot of optical density of the developed negative versus the logarithm of the exposure (also called a D–logE curve) has central straight section whose slope is called the gamma of the film. The gamma can be controlled by choosing different films, or by varying the development time or temperature. Similarly, the light transmitted by the negative exposed a photographic paper and interacts with the characteristic curve of the paper to give an overall tone reproduction curve. The exposure of the paper is sometimes modified in the darkroom by dodging and/or burning-in, further complicating the overall tone reproduction, usually helping to map a wider dynamic range from a negative onto a narrower print reflectance range."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "La gama de luminancia de unos mapas de escena al focales-avión illuminance y exposición en un cámara, no necesariamente directamente proporcionalmente, cuando cuando un filtro de densidad neutro graduado suele reducir la gama de exposición a menos de la gama de luminancia de la escena. La película responde nonlinearly a la exposición, cuando caracterizado por la curva característica de la película, o Hurter@–Driffield curva; esta parcela de densidad óptica del desarrollado negativo versus el logarithm de la exposición (también llamó una curva de D palcos) tiene sección recta central cuya pendiente se apellida el gamma de la película. El gamma puede ser controlado por escoger películas diferentes, o por variables el tiempo de desarrollo o temperatura. De modo parecido, el ligero transmitido por el negativo expuesto un papel fotográfico e interacciona con la curva característica del papel para dar una curva de reproducción de tono global. La exposición del papel es a veces modificado en el darkroom por dodging y/o en llamas-en, más allá complicando la reproducción de tono global, normalmente ayudando a mapa una gama dinámica más ancha de un negativo a una gama de reflectancia de impresión más estrecha."
+        },
+        "target": {
+            "content": "La gama de luminancia de una escena mapea al plano focal de la iluminancia y la exposición de una cámara, aunque no lo hace necesariamente de una manera directamente proporcional, como por ejemplo cuando un filtro de densidad neutral graduado se utiliza para reducir el rango de exposición a un valor menor que al de la gama de luminancia de la escena. La película responde de manera no-lineal a la exposición, como se caracteriza en la curva típica de la película, o la curva Hurter-Driffield; esta parcela de densidad óptica del negativo desarrollado versus el logaritmo de exposición (también llamado una curva D-logE) tiene una sección central recta cuya pendiente se llama el gama de la película.  El gamma puede ser controlado escogiendo películas diferentes o por variables de desarrollo de tiempo o de temperatura. De manera similar, la luz transmitida por el negativo expuesto a un papel fotográfico e interactúa con la curva característica del papel para dar una curva de reproducción tonal global. A veces se modifica la exposición del papel en el cuarto de revelado a través de las técnicas de \"esquivar y quemar\" (dodging & burning), complicando aún más la reproducción tonal global, a menudo ayudando a mapear un rango dinámico más amplio de un negativo en un rango de reflectancia más estrecho en el impreso."
+        }
+    },
+    {
+        "id": "508384/mwIg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In digital photography, image sensors tend to be nearly linear, but these nonlinear tone reproduction characteristics are emulated in the camera hardware and/or processing software, via \"curves\"."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En fotografía digital, sensores de imagen tienden para ser casi lineales, pero estos nonlinear características de reproducción del tono están emuladas en el hardware de cámara y/o procesando software, vía \"curvas\"."
+        },
+        "target": {
+            "content": "En fotografía digital, los sensores de imagen tienden a ser casi lineales, pero estas características no-lineares de la reproducción tonal se emulan a través del hardware de la cámara y/o a través del procesamiento de software, a través de las \"curvas\"."
+        }
+    },
+    {
+        "id": "508384/mwJw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In printing, a tone reproduction curve is applied to a desired output-referred luminance value, for example to adjust for the dot gain of a particular printing method.[6] Dot-based printing methods have a finite native dot size. The dot is not square, nor any other shape that when stacked together perfectly fills an image area; rather, the dot will be larger than its target area and overlap its neighbors to some extent. If it were smaller than its target area, it would not be possible to saturate the substrate. A tone reproduction curve is applied to the electronic image prior to printing, so that the reflectance of the print closely approximates a proportionality to the luminance intent implied by the electronic image."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "En imprimir, una curva de reproducción del tono está aplicada a una producción deseada-valor de luminancia referida, por ejemplo para ajustar para el beneficio de punto de un método de impresión particular.[6] Punto-basó imprimir los métodos tienen una medida de punto nativa finita. El punto no es cuadrar, ni cualquiera otra forma que cuándo stacked junto perfectamente llena una área de imagen; bastante, el punto será más grande que su área de objetivo y overlap sus vecinos hasta cierto punto. Si sea más pequeño que su área de objetivo, no sea posible a saturate el substrato. Una curva de reproducción del tono está aplicada a la imagen electrónica con anterioridad a imprimir, de modo que la reflectancia de la impresión estrechamente aproxima un proportionality a la luminancia intent implicó por la imagen electrónica."
+        },
+        "target": {
+            "content": "En la imprenta, una curva de reproducción tonal se aplica a un resultado deseado -un valor de  luminancia referido, por ejemplo, para ajustar hacia la ganancia de punto de un método de impresión particular.[6] Los métodos basados en la impresión por puntos tienen un tamaño nativo de punto finito. El punto no es cuadrado ni de cualquier otra forma tal que cuando se apilan juntos llena perfectamente un área de imagen; antes bien, el punto será más grande que su área objetivo y en cierta medida se superpone con los puntos vecinos. Si fuera más pequeño que su área objetivo, no sería posible saturar el substrato. Una curva de reproducción tonal se aplica a la imagen electrónica previo a ser impresa, de manera que la reflectancia de la impresión se aproxime estrechamente a la proporcionalidad del intento de luminancia implicado por la imagen electrónica."
+        }
+    },
+    {
+        "id": "508384/mwLA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "It is easier to demonstrate the need for a TRC using halftoned printing methods such as inkjet, or xerographic technologies. However, the need also applies to continuous-tone methods such as photographic paper printing."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Es más fácil de demostrar la necesidad para un TRC utilizando halftoned métodos de impresión como inkjet, o tecnologías xerográficas. Aun así, la necesidad también aplica a métodos de tono continuo como impresión de papel fotográfico."
+        },
+        "target": {
+            "content": "Es más fácil de demostrar la necesidad de una curva de reproducción tonal utilizando métodos de impresión de semitonos tales como las tecnologías inkjet o xerográficas. Sin embargo, esta necesidad también se aplica a los métodos de tono continuo como la impresión sobre papel fotográfico."
+        }
+    },
+    {
+        "id": "508384/mwMQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "As an example, suppose one wants to print an area at 50% reflectance, assuming no ink is 100% reflective and saturated black ink is 0% (which of course they aren't). The 50% could be approximated using digital halftoning by applying a dot of ink at every other dot target area, and staggering the lines in a brick-like fashion. In a perfect world, this would cover exactly half of the page with ink and make the page appear to have 50% reflectivity. However, because the ink will bleed into its neighboring target locations, greater than 50% of the page will be dark. To compensate for this darkening, a TRC is applied and the digital image's reflectance value is reduced to something less than 50% dot coverage. When digital halftoning is performed, we will no longer have the uniform on-off-on-off pattern, but we will have another pattern that will target less than 50% of the area with ink. If the correct TRC was chosen, the area will have an average 50% reflectance after the ink has bled."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Cuando un ejemplo, supone uno quiere imprimir una área en 50% reflectancia, suponiendo ninguna tinta es 100% reflectante y la tinta negra saturada es 0% (cuál naturalmente no son). El 50% podría ser aproximado utilizando digital halftoning por aplicar un punto de tinta en cada otro objetivo de punto área, y staggering las líneas en un ladrillo-gustar moda. En un mundo perfecto, esto cubriría exactamente a medias de la página con tinta y hacer la página aparece para tener 50% reflectivity. Aun así, porque la tinta bleed a su neighboring ubicaciones de objetivo, más grandes que 50% de la página será oscura. Para compensar para este oscurecimiento, un TRC está aplicado y el valor de reflectancia de la imagen digital está reducido a algo menos de 50% cobertura de punto. Cuándo digital halftoning está actuado, ya no tendremos el uniformes encima-fuera-encima-fuera patrón, pero tendremos otro patrón que apuntará menos de 50% del área con tinta. Si el correcto TRC estuvo escogido, el área tendrá una media 50% reflectancia después de la tinta ha bled."
+        },
+        "target": {
+            "content": "Como ejemplo, supongamos que uno quiere imprimir un área con un 50% de reflectancia, asumiendo que ninguna tinta es 100% reflectante y que la tinta negra saturada es de 0% de reflectancia (que por supuesto no es). El 50% podría ser aproximado utilizando semitonos digitales aplicando un punto de tinta en cada otro punto del área objetivo, y escalonando las líneas como si fueran ladrillos. En un mundo perfecto, esto cubriría exactamente la mitad de la página con tinta y haría que la página pareciera tener un 50% de reflectancia. Sin embargo, como la tinta se derrama también a las locaciones objetivo colindantes, más del 50% de la página estará oscura. Para compensar este oscurecimiento, se aplica una curva de reproducción tonal y el valor de reflectancia se reduce a algo menos del 50% de cobertura de puntos. Cuando se aplican semitonos digitales, ya no se tiene un patrón uniforme de on-off-on-off, sino que se tiene otro patrón que tendrá como objetivo rellenar menos del 50% del área con tinta. Si se elige la curva de reproducción tonal correcta, el área tendrá un promedio de reflectancia del 50% una vez que la tinta se derrama."
+        }
+    },
+    {
+        "id": "508384/mwMg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "A TRC can be applied when doing color space conversion. For example, by default, when transforming from L*A*B* to CMYK, Photoshop applies an ICC profile for SWOP standard inks and 20% dot gain for coated paper."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Un TRC puede ser aplicado cuándo haciendo color conversión espacial. Por ejemplo, por default, cuándo transformando de LUn*B* a CMYK, Photoshop aplica un ICC perfil para SWOP tintas estándares y 20% beneficio de punto para coated papel."
+        },
+        "target": {
+            "content": "Una curva de reproducción tonal puede ser aplicada al hacer conversión del espacio de color. Por ejemplo, por default, cuando se transforma de L*A*B* a CMYK, Photoshop aplica un perfil ICC para las tintas SWOP estándares y 20% de ganancia de punto para el papel revestido."
+        }
+    },
+    {
+        "id": "508384/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The reproduction of color scenes in black-and-white tones is one of the long-time concerns of photographers.[3]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La reproducción de escenas de color en tonos blancos y negros es desde hace tiempo una preocupación para los fotógrafos.[3]"
+        }
+    },
+    {
+        "id": "508384/mwEQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In photography, the differences between an \"objective\" and \"subjective\" tone reproduction, and between \"accurate\" and \"preferred\" tone reproduction, have long been recognized. Many steps in the process of photography are recognized as having their own nonlinear curves, which in combination form the overall tone reproduction curve; the Jones diagram was developed as a way to illustrate and combine curves, to study and explain the photographic process.[4][5]"
+        },
+        "mt": null,
+        "target": {
+            "content": "En fotografía, las diferencias entre una reproducción tonal \"objetiva\" y \"subjetiva\" y entre una reproducción tonal \"precisa\" y \"preferida\" han sido reconocidas desde hace mucho tiempo. Se reconoce que muchos pasos en el proceso de la fotografía tienen sus propias curvas no-lineales, que combinadas forman la curva de reproducción tonal total; el esquema de Jones fue desarrollado como una forma de ilustrar y combinar las curvas, para estudiar y explicar el proceso fotográfico.[4][5]"
+        }
+    },
+    {
+        "id": "508384/mwOg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Curve (tonality) Dot gain Jones diagram Tone mapping"
+        },
+        "mt": null,
+        "target": {
+            "content": "Curva (tonalidad) Beneficio de punto Esquema de Jones Mapeo de tono"
+        }
+    },
+    {
+        "id": "508396/908a2f9ebccb0e4a0b9ea193dbbfd2",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Qualified teams"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Equipos cualificados"
+        },
+        "target": {
+            "content": "Equipos clasificados"
+        }
+    },
+    {
+        "id": "508396/mwDQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Pot 1 Pot 2 Pot 3 Pot 4  France  Croatia  Germany  Slovenia  Denmark  Spain  Iceland  Serbia  Sweden  Portugal  Russia  Norway  Poland  Hungary  Israel  Romania"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Tarro 1 Tarro 2 Tarro 3 Tarro 4  Francia  Croacia  Alemania  Eslovenia  Dinamarca  España  Islandia  Serbia  Suecia  Portugal  Rusia  Noruega  Polonia  Hungría  Israel  Rumanía"
+        },
+        "target": {
+            "content": "Tarro 1 Tarro 2 Tarro 3 Tarro 4   Francia  Croacia  Alemania  Eslovenia  Dinamarca  España  Islandia  Serbia  Suecia  Portugal  Rusia  Noruega  Polonia  Hungría  Israel  Rumanía"
+        }
+    },
+    {
+        "id": "508396/mwAg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "2018 European Men's U-20 Handball Championship Tournament details Host country  Slovenia Dates 19–29 July Teams 16 (from 1 confederation) Venue(s) 2 (in 1 host city) Tournament statistics Matches 10 Goals scored 526 (52.6 per match) Attendance 2,400 (240 per match) ← Previous Next →"
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwCQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": " Croatia  Denmark  France  Germany  Hungary  Iceland  Israel  Norway  Poland  Portugal  Romania  Russia  Serbia  Slovenia  Spain  Sweden"
+        },
+        "mt": null,
+        "target": {
+            "content": "Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj Plantilla:Hbj"
+        }
+    },
+    {
+        "id": "508396/mwCw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "The draw was held on 19 February 2018 in Celje.[2][3]"
+        },
+        "mt": null,
+        "target": {
+            "content": "El sorteo fue realizado el 19 de febrero de 2018 en Celje.[2][3]"
+        }
+    },
+    {
+        "id": "508396/mwRw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwSQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwSg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwTA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwTQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwTw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwUA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwUg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwVA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwVQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwVw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwWA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwWg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwWw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwXQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwXw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwYA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwYg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwYw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwZQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwZg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwaA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwag",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwaw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwbg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwcA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwcQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwcx-source-title",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "2018 European Men's Under-20 Handball Championship"
+        },
+        "mt": null,
+        "target": {
+            "content": "Usuario:Francogallardi/Campeonato Europeo de Balonmano Masculino Junior de 2018"
+        }
+    },
+    {
+        "id": "508396/mwdA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwdg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwdw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwfA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwfg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwfw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwhQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwiA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwjQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwlg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Championship bracket   Semifinals Final                 27 July         29 July           27 July                 Third place     29 July             9th place bracket   9–12th place semifinals 9th place                 27 July         28 July           27 July                 11th place     28 July            "
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwmQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwmg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwnw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwoA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwog",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwow",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwpQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwpw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwqQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwqw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwrQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwrw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwsQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": ""
+        },
+        "mt": null,
+        "target": {
+            "content": ""
+        }
+    },
+    {
+        "id": "508396/mwtQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "↑ \"France the team to beat in Slovenia\". EHF. 19 July 2018. Retrieved 20 July 2018.  ↑ \"Preliminary round for Men's 20 EHF EURO 2018 to be drawn on 19 February\". EHF. 19 February 2018. Retrieved 20 July 2018.  ↑ \"Starting grid confirmed for Men's 20 EHF EURO 2018\". EHF. 19 February 2018. Retrieved 20 July 2018. "
+        },
+        "mt": null,
+        "target": {
+            "content": "↑ «France the team to beat in Slovenia». EHF. 19 July 2018. Consultado el 20 July 2018.  ↑ \"Preliminary round for Men's 20 EHF EURO 2018 to be drawn on 19 February\". EHF. 19 February 2018. Retrieved 20 July 2018.  ↑ \"Starting grid confirmed for Men's 20 EHF EURO 2018\". EHF. 19 February 2018. Retrieved 20 July 2018. "
+        }
+    },
+    {
+        "id": "508425/mwBQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Umag (Croatian pronunciation: [ûmaɡ];[2] Italian: Umago) is a coastal city in Istria, Croatia. The city hosts a yearly ATP tennis tournament on clay courts."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Umag (Pronunciación croata: [ûmaɡ]; italiano: Umago) es una ciudad costera en Istria, Croacia.[2] Los anfitriones de ciudad un torneo de tenis de ATP anual encima tribunales de arcilla."
+        },
+        "target": {
+            "content": "Umag (Pronunciación croata: [ûmaɡ]; en italiano, Umago) es una ciudad costera en Istria, Croacia.[2] La ciudad alberga un torneo de tenis de ATP aen cancha de arcilla."
+        }
+    },
+    {
+        "id": "508425/mwDw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "It is the westernmost city of Croatia, and the municipality includes Bašanija, the westernmost point of Croatia."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Es el westernmost ciudad de Croacia, y el municipio incluye Bašanija, el westernmost punto de Croacia."
+        },
+        "target": {
+            "content": "Es la ciudad más occidental de Croacia, y el municipio incluye Bašanija, el punto más al poniente del territorio croata."
+        }
+    },
+    {
+        "id": "508425/mwIw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Umag was mentioned for the first time in the 7th century by an anonymous citizen from Ravenna, but already existed in Roman times. Proof of that is found in the numerous remains of Roman retreats, the so-called villa rustica uncovered all along the coast. The town's history is closely linked to the settlement of Sipar whose ruins can be found on the narrow cape, six kilometres north of Umag. In the 9th century, the fortified settlement of Sipar was devastated by invaders, the Neretva pirates. However, after this unfortunate incident Umag grew in significance thanks also to its location, a small islet separated from the mainland with a narrow channel. It was actually this location that safeguarded the settlement from the continuous invasions throughout the centuries. The Roman period of relative prosperity was substituted by one of insecurity caused primarily by frequent invasions, outbreaks of plague, cholera, and malaria. The number of its dwellers declined rapidly. Umag became part of the reigns of Odoacer, Theodoric, and was also ruled by the Langobards."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Umag Estuvo mencionado por primera vez en el siglo VII por un ciudadano anónimo de Ravenna, pero ya existido en tiempo Romano. Prueba de aquel está encontrado en los restos numerosos de retiros Romanos, el tan-villa llamada rustica uncovered todo a lo largo de la costa. La historia de la ciudad es estrechamente enlazado al poblamiento de Sipar cuyas ruinas pueden ser encontradas en el cabo estrecho, seis kilómetros al norte de Umag. En el siglo IX, el poblamiento fortalecido de Sipar estuvo devastado por invaders, el Neretva piratas. Aun así, después de este unfortunate incidente Umag creció en la importancia da las gracias a también a su ubicación, un islote pequeño separado del mainland con un canal estrecho. Sea de hecho esta ubicación que safeguarded el poblamiento de las invasiones continuas durante los siglos. El periodo Romano de prosperidad relativa estuvo sustituido por uno de inseguridad causó principalmente por invasiones frecuentes, estallidos de peste, cólera, y malaria. El número de su dwellers declinado rápidamente. Umag Devenía parte de los reinados de Odoacer, Theodoric, y era también gobernado por el Langobards."
+        },
+        "target": {
+            "content": "Umag es mencionada por primera vez en el siglo VII por un ciudadano anónimo de Ravenna, pero ya habría existido en tiempos del Imperio Romano. Prueba de aquello se ha encontrado en los restos de retratos romanos y la llamada villa rustica que cubría a lo largo de la costa. La historia de la ciudad está estrechamente enlazada al poblamiento de Sipar, cuyas ruinas pueden ser encontradas en el cabo estrecho, seis kilómetros al norte de Umag. En el siglo IX, el poblamiento fortalecido de Sipar estuvo devastado por invasores, como los piratas de Neretva. Aun así, después de este desadfortunado incidente Umag creció en la importancia gracias a ta su ubicación, un islote pequeño separado de tierra firme con un canal estrecho. De hecho esta ubicación salvaguardó el poblamiento de las invasiones continuas durante los siglos. El periodo romano de prosperidad relativa fue sustituido por uno de inseguridad, causado principalmente por invasiones frecuentes, estallidos de peste, cólera, y malaria. El número de su habitantes declinó rápidamente. Umag llegó a ser parte de los reinos de Odoacro y Teodorico, y fue también gobernado por los lombardos."
+        }
+    },
+    {
+        "id": "508425/mwKQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "From the 6th to the 8th centuries it fell under Byzantine dominion, followed by the rule of the Lombards in 751 and Francs in 774. The period to come was marked by insecurity and frequent changes of government from the Patriarchs of Grado and Aquileia to the Bishops of Trieste. However, the increasingly powerful Venetian Republic imposed its rule over Istria, forcing Umag and other western Istrian towns to swear loyalty to Venice. Actually, in 1269, the Commune of Umag promised loyalty to Venice which from that time all through 1797 was to appoint governors of Umag from among its nobility. This period was by no means a peaceful one."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Del 6.º a los 8.os siglos caiga bajo bizantino dominion, seguido por la regla del Lombards en 751 y Francs en 774. El periodo para venir estuvo marcado por inseguridad y cambios frecuentes de gobierno del Patriarchs de Grado y Aquileia a los Obispos de Trieste. Aun así, la República veneciana cada vez más potente impuso su regla sobre Istria, forzando Umag y otro occidental Istrian ciudades para jurar lealtad a Venice. De hecho, en 1269, la Comuna de Umag lealtad prometida a Venice cuál de aquel tiempo todo a través de 1797 era para nombrar gobernadores de Umag de entre su nobleza. Este periodo era de ninguna manera un pacífico un."
+        },
+        "target": {
+            "content": "Del siglo VI al VII  cayó bajo dominio bizantino, seguido por los lombardos en 751 y los francos en 774. El periodo siguiente estuvo marcado por inseguridad y cambios frecuentes de gobierno, de los Patriarcas de Grado y Aquileia a los Obispos de Trieste. Aun así, la República veneciana impuso su regla sobre Istria, forzando a Umag y otras ciudades de Istria a jurar lealtad a Venecia. De hecho, en 1269, la Comuna de Umag juró lealtad  a Venecia hasta 1797, la que designaba gobernadores de Umag de entre su nobleza. Este periodo no fue de ninguna manera pacífico."
+        }
+    },
+    {
+        "id": "508425/mwLg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Century old clashes with Genoa brought about more destruction and looting. In 1370 the Genovese navy attacked Umag, destroying the town's archive. The outbreaks of plague that decimated the dwellers forced the Venetian authorities to consider colonising the area with new settlers, mainly from the territories threatened by Turkish invasions. The harbour of Umag was utilised for loading agricultural surplus from the hinterland. Up to the collapse of Venice Umag had lived like other Istrian towns. Its communal arrangement was guaranteed in the Statute from 1541."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Siglo enfrentamientos viejos con Genoa traídos aproximadamente más destrucción y looting. En 1370 el Genovese navy atacó Umag, destruyendo el archivo de la ciudad. Los estallidos de peste que diezmó el dwellers forzado las autoridades venecianas para considerar que colonizan el área con nuevo settlers, principalmente de los territorios acecharon por invasiones turcas. El puerto de Umag estuvo utilizado para cargar superávit agrícola del hinterland. Hasta el derrumbamiento de Venice Umag había vivido como otro Istrian ciudades. Su arreglo comunal era guaranteed en el Estatuto de 1541."
+        },
+        "target": {
+            "content": "Enfrentamientos centenarios con Génova trajeron más destrucción y desastre. En 1370 la armada genovesa atacó Umag, destruyendo el archivo de la ciudad. Los estallidos de peste que diezmó a la población forzó a las autoridades venecianas para considerar la colonización  del área con nuevos habitantes, principalmente de los territorios acechados por invasiones turcas. El puerto de Umag fue utilizado para cargar producción agrícola del interior. Hasta el derrumbamiento de Venecia Umag había vivido como otros puertos istrianos. Su administración comunal era garantizado en el Estatuto de 1541."
+        }
+    },
+    {
+        "id": "508425/mwMA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "With the fall of the Venetian Republic, Umag, like the entire eastern Adriatic coast, came under the rule of France until 1815 when it passed over to Austria until 1918. With the end of World War I Istria became part of Italy. After World War II, the flaring up of the Trieste crises resulted in the establishment of the Free Territory of Trieste, while Umag became part of Zone B governed by the Yugoslav Army, and eventually became part of SR Croatia within SFR Yugoslavia in 1954. After Umag became part of Yugoslavia, there was an exodus of many Italians from the city, who until then constituted the majority of its population."
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Con la caída de la República veneciana, Umag, como la costa adriática oriental entera, vino bajo la regla de Francia hasta que 1815 cuándo pase encima a Austria hasta que 1918. Con el fin de Primera Guerra mundial Istria devenía parte de Italia. Después de que Segunda Guerra mundial, el flaring arriba del Trieste las crisis resultaron en el establecimiento del Territorio Libre de Trieste, mientras Umag devenía parte de Zona B gobernó por el Ejército yugoslavo, y finalmente devenía parte de SR Croacia dentro de SFR Yugoslavia en 1954. Después de que Umag devenía parte de Yugoslavia, había un éxodo de muchos italianos de la ciudad, quién hasta entonces constituyó la mayoría de su población."
+        },
+        "target": {
+            "content": "Con la caída de la República veneciana, Umag, como la costa adriática oriental entera, quedó bajo el poder de Francia hasta 1815, cuando pasó a Austria, que la mantuvo hasta 1918. Con el fin de la Primera Guerra Mundial Istria devenía parte de Italia. Después de que Segunda Guerra mundial, el auge de la crisis de Trieste resultó en el establecimiento del Territorio Libre de Trieste, mientras Umag devenía parte de la \"Zona B\" gobernó por el Ejército yugoslavo, y finalmente forma parte de la República Socialista de Croacia dentro de la RSF de Yugoslavia en 1954. Después de que Umag llega a ser parte de Yugoslavia, hubo un éxodo de muchos italianos de la ciudad, que hasta entonces constituyó la mayoría de su población."
+        }
+    },
+    {
+        "id": "508425/mwRA",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Umag hosts a 250-level ATP men's tennis tournament in July.[4]"
+        },
+        "mt": {
+            "engine": "Apertium",
+            "content": "Umag Anfitriones un ATP de 250 niveles el torneo de tenis de los hombres en julio.[4]"
+        },
+        "target": {
+            "content": "Umag alberga un torneo ATP 250 en julio.[4]"
+        }
+    },
+    {
+        "id": "508425/mwEg",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Umag has a population of 7,769 (2001), for a total municipal population of 13,064 (2001). Like many other towns in Istria, Umag has a multi-ethnic population. Croats comprise an absolute majority with 59.6%; Italians 18.3%, Serbs 3.8%, Slovenes 2.2%, Bosniaks 1.7%, Albanians 1.3% and those regionally declared (as Istrians) make up the final 1.57%.[3]"
+        },
+        "mt": null,
+        "target": {
+            "content": "La ciudad tiene una población de 7.769 habitantes (2001), para una población municipal total de 13,064 (2001). Gusta muchos otras ciudades en Istria, Umag tiene un multi-población étnica. Los croatas comprenden una mayoría absoluta con 59.6%; italianos 18.3%, Serbs 3.8%, Slovenes 2.2%, Bosniaks 1.7%, albaneses 1.3% y aquellos regionally declarados (como Istrians) hace la final 1.57%.[3]"
+        }
+    },
+    {
+        "id": "508425/mwGw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Mayor House"
+        },
+        "mt": null,
+        "target": {
+            "content": "Municipalidad de Umag"
+        }
+    },
+    {
+        "id": "508425/mwHw",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "Northern waterfront"
+        },
+        "mt": null,
+        "target": {
+            "content": "Orilla norte"
+        }
+    },
+    {
+        "id": "508425/mwNQ",
+        "sourceLanguage": "en",
+        "targetLanguage": "es",
+        "source": {
+            "content": "In 1993 with the establishment of the new local rule Umag became an independent municipality (općina), and in 1997 was awarded the status of town or city (grad)."
+        },
+        "mt": null,
+        "target": {
+            "content": "En 1993, con el establecimiento de la nueva ley de gobierno local, Umag devenía en un municipio independiente (općina), y en 1997 le fue otorgado el estado de ciudad o ciudad (grad)."
+        }
+    }]
