@@ -10,7 +10,7 @@ class Data:
         text.
     
     """
-    # @classmethod
+    # @classmethod -> Requires cls as first parameter ->> def is_inconsistent(cls, a, b, c)
 
     def is_inconsistent(self, a, b, c):
         a = a.split()
@@ -48,6 +48,7 @@ class Data:
 
         if len(final) == 0:
             print('List is Empty, there is no Translation for that Particular engine')
+            return None
 
         return final
 
