@@ -30,9 +30,9 @@ defusedxml==0.6.0
 Deprecated==1.2.7
 docutils==0.15.2
 editdistance==0.5.3
-en-core-web-md==2.2.5
+spacy en-core-web-md==2.2.5
 entrypoints==0.3
-es-core-news-md==2.2.5
+spacy es-core-news-md==2.2.5
 filelock==3.0.12
 flair==0.4.5
 flaky==3.6.1
