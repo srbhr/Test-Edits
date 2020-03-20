@@ -4,15 +4,9 @@
 
 This Repository contains the Apertium Machine Translated Sentences, and the Google, Microsoft, Yandex Machine Translated Sentences for English-Spanish Pair. Along with that, it also contains the Human Post-Edited sentences, as improvements for the MT tool.
 
-The code in the Jupyter Notebooks: 
+The code in the Jupyter Notebooks:  [Apertium Test-Edits](Apertium_Test-Edits.ipynb) tries best to represent the difference between the Apertium Machine Translated and the Post-Edited sentences. 
 
-[**Apertium_Test-Edits.ipynb**]: Apertium_Test-Edits.ipynb	"Apertium Test-Edits"
-
-tries best to represent the difference between the Machine Translated and the Post-Edited sentences. 
-
-[**Google_Test-Edits.ipynb**]: Google_Test-Edits.ipynb	"Google Test-Edits"
-
- is a measure to show the same but between the Google Translate and the Post-Edited.
+[Google Test-Edits](Google_Test-Edits.ipynb) is a measure to show the same but between the Google Translate and the Post-Edited.
 
 The Analysis of each is done in the respective Notebooks.
 
