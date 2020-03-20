@@ -6,11 +6,11 @@ This Repository contains the Apertium Machine Translated Sentences, and the Goog
 
 The code in the Jupyter Notebooks: 
 
-[**Apertium_Test-Edits.ipynb**]: Apertium_Test-Edits.ipynb
+[**Apertium_Test-Edits.ipynb**]: Apertium_Test-Edits.ipynb	"Apertium Test-Edits"
 
 tries best to represent the difference between the Machine Translated and the Post-Edited sentences. 
 
-[**Google_Test-Edits.ipynb**]: Google_Test-Edits.ipynb
+[**Google_Test-Edits.ipynb**]: Google_Test-Edits.ipynb	"Google Test-Edits"
 
  is a measure to show the same but between the Google Translate and the Post-Edited.
 
